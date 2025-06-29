@@ -32,7 +32,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # You can change this to match your local Ruby version
+          ruby-version: '3.4.4' # You can change this to match your local Ruby version
           bundler-cache: true # Installs gems from your Gemfile.lock
       - name: Setup Pages
         id: pages
