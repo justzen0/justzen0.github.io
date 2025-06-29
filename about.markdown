@@ -2,9 +2,11 @@
 layout: post
 title: About
 ---
+<div class="meditator-hero">
+  <div class="meditator-image-wrapper">
+    <img src="{{ '/assets/img/meditator.png' | relative_url }}" alt="A person meditating peacefully" class="levitating-image">
+    <div class="levitating-shadow"></div>
+  </div>
+</div>
 
-This is the about page for "just zen". 
-
-My name is [Your Name], and this is my personal space for exploring minimalism, meditation, and mindful living. I believe in finding peace in simplicity and clarity in the quiet moments.
-
-You can write about your philosophy, your journey, or what readers can expect from your blog.
+My name is Shaim, and this is my personal space for exploring minimalism, meditation, and mindful living. I believe in finding peace in simplicity and clarity in the quiet moments.

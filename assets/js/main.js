@@ -25,30 +25,47 @@ document.addEventListener('DOMContentLoaded', () => {
     hamburger.classList.toggle('is-active');
   });
 
-  // assets/js/main.js, inside the DOMContentLoaded listener
+  // --- 3. 3D TILT EFFECT ON CARDS ---
+  const cards = document.querySelectorAll('.item-card');
 
-// --- 3. 3D TILT EFFECT ON CARDS ---
-const cards = document.querySelectorAll('.item-card');
+  cards.forEach(card => {
+    card.addEventListener('mousemove', (e) => {
+      const rect = card.getBoundingClientRect();
+      const x = e.clientX - rect.left; // x position within the element.
+      const y = e.clientY - rect.top;  // y position within the element.
 
-cards.forEach(card => {
-  card.addEventListener('mousemove', (e) => {
-    const rect = card.getBoundingClientRect();
-    const x = e.clientX - rect.left; // x position within the element.
-    const y = e.clientY - rect.top;  // y position within the element.
+      const centerX = rect.width / 2;
+      const centerY = rect.height / 2;
 
-    const centerX = rect.width / 2;
-    const centerY = rect.height / 2;
+      const rotateX = ((y - centerY) / centerY) * -5; // Max 5deg rotation
+      const rotateY = ((x - centerX) / centerX) * 5;  // Max 5deg rotation
 
-    const rotateX = ((y - centerY) / centerY) * -5; // Max 5deg rotation
-    const rotateY = ((x - centerX) / centerX) * 5;  // Max 5deg rotation
+      card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+    });
 
-    card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+    card.addEventListener('mouseleave', () => {
+      card.style.transform = 'perspective(1000px) rotateX(0) rotateY(0)'; // Reset
+    });
   });
 
-  card.addEventListener('mouseleave', () => {
-    card.style.transform = 'perspective(1000px) rotateX(0) rotateY(0)'; // Reset
-  });
-});
+  // --- 4. BLOG SEARCH FUNCTIONALITY ---
+  const searchInput = document.getElementById('search-input');
+  const postList = document.getElementById('post-list');
+  if (searchInput && postList) {
+    searchInput.addEventListener('input', function () {
+      const query = this.value.toLowerCase();
+      const posts = postList.querySelectorAll('.post-item');
+      posts.forEach(post => {
+        const title = post.getAttribute('data-title').toLowerCase();
+        const content = post.getAttribute('data-content').toLowerCase();
+        if (title.includes(query) || content.includes(query)) {
+          post.style.display = '';
+        } else {
+          post.style.display = 'none';
+        }
+      });
+    });
+  }
 
 });
 

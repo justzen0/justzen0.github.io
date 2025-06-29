@@ -1,19 +1,21 @@
 <header class="site-header">
-  <!-- 1. Site Logo and Title -->
-  <a class="site-title" href="{{ "/" | relative_url }}">
-  <img src="{{ '/assets/img/icons/favicon-96x96-light.png' | relative_url }}" alt="just zen logo" class="site-logo">
-  </a>
-  <!-- This is the site title, which is also a link to the homepage -->
-  <a class="site-title" href="{{ "/" | relative_url }}">
+
+  <a class="site-title" href="{{ " /" | relative_url }}">
+    <!-- Both logos are here, wrapped in a container -->
+    <div class="site-logo-container">
+      <img class="site-logo logo-dark" src="{{ '/assets/img/icons/favicon-96x96-light.png' | relative_url }}"
+        alt="just zen logo">
+      <img class="site-logo logo-light" src="{{ '/assets/img/icons/favicon-96x96-dark.png' | relative_url }}"
+        alt="just zen logo">
+    </div>
     <span class="site-title-text">{{ site.title }}</span>
   </a>
-
   <!-- 2. Main Navigation Menu (This is the one that becomes the hamburger) -->
   <nav id="nav-menu">
-    <a href="{{ "/blog.html" | relative_url }}">Blog</a>
-    <a href="{{ "/books.html" | relative_url }}">Books</a>
-    <a href="{{ "/movies.html" | relative_url }}">Movies</a>
-    <a href="{{ "/about.html" | relative_url }}">About</a>
+    <a href="{{ '/blog.html' | relative_url }}">Blog</a>
+    <a href="{{ " /books.html" | relative_url }}">Books</a>
+    <a href="{{ " /movies.html" | relative_url }}">Movies</a>
+    <a href="{{ " /about.html" | relative_url }}">About</a>
   </nav>
 
   <!-- 3. Header Controls (Theme switcher and Hamburger button) -->

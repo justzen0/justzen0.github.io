@@ -402,9 +402,30 @@ html[data-theme='dark'] .item-card-link:focus .item-card {
   }
 }
 
-.pagination .disabled {
-  color: var(--subtle-gray);
-  pointer-events: none;
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 2rem 0;
+  font-size: 1.1rem;
+}
+.pagination a {
+  color: var(--accent-color);
+  text-decoration: underline;
+  padding: 0.2em 0.7em;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+.pagination a:hover {
+  background: var(--subtle-gray);
+  color: #fff;
+}
+#search-input {
+  font-size: 1rem;
+  border: 1px solid var(--subtle-gray);
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
 }
 
  .site-logo {
@@ -415,3 +436,113 @@ html[data-theme='dark'] .item-card-link:focus .item-card {
     color: var(--text-color); 
     transition: color 0.3s ease;
   }
+
+  .meditator-hero {
+  // This is the colored background container
+  background-color: #F8F7F4; // Uses your theme's background color
+  padding: 4rem 2rem;
+  margin-bottom: 3rem;
+  border-radius: 8px; // The rounded corners
+  border: 1px solid #e0e0e0; // A subtle border for light mode
+}
+
+// In dark mode, we adjust the border to match
+html[data-theme='dark'] .meditator-hero {
+  border: 1px solid #333;
+}
+
+.meditator-image-wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 250px; // Adjust this to fit your image size
+}
+
+.levitating-image {
+  // The animation is applied here!
+  animation: levitate 4s ease-in-out infinite;
+  width: 100%;
+  height: auto;
+  margin-bottom: 1rem; // Space between image and shadow
+  z-index: 2;
+}
+
+.levitating-shadow {
+  width: 70%; // Shadow is slightly smaller than the image
+  height: 10px;
+  background-color: rgba(0, 0, 0, 0.15);
+  border-radius: 50%; // Makes it an oval
+  filter: blur(8px); // Creates the soft, blurry effect
+  z-index: 1;
+  // The shadow also animates to match the image
+  animation: shadow-pulse 4s ease-in-out infinite;
+}
+
+/* 
+  The Keyframes for the Levitation Animation
+*/
+@keyframes levitate {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px); // The peak of the levitation
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+/*
+  The Keyframes for the Shadow Animation
+  It gets smaller and lighter when the image is up,
+  and larger and darker when the image is down.
+*/
+@keyframes shadow-pulse {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(0.85); // Shadow shrinks
+    opacity: 0.6;          // Shadow fades
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.site-logo-container {
+  position: relative;
+  width: 32px;  // Set this to the width of your logo
+  height: 32px; // Set this to the height of your logo
+}
+
+.site-logo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.3s ease-in-out; // Smooth fade transition
+}
+
+// By default (light mode), the light logo is invisible
+.logo-light {
+  opacity: 0;
+}
+
+// When the theme is dark...
+html[data-theme='dark'] {
+  // Make the dark logo invisible
+  .logo-dark {
+    opacity: 0;
+  }
+  // And make the light logo visible
+  .logo-light {
+    opacity: 1;
+  }
+}

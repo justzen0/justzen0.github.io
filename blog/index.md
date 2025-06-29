@@ -1,10 +1,11 @@
 ---
 layout: default
 title: All Posts
+
 pagination:
   enabled: true
   collection: posts
-  per_page: 50
+  per_page: 5
 ---
 
 <h1>All Posts</h1>

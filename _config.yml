@@ -43,6 +43,7 @@ collections:
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -67,10 +68,12 @@ plugins:
 
 pagination:
   enabled: true
-  per_page: 5
-  collection: 'posts'
-  permalink: '/page:num/'
+  per_page: 50
+  permalink: '/blog/page/:num/'
   title: ':title - page :num'
-  limit: 0
   sort_field: 'date'
   sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+  indexpage: 'blog'
