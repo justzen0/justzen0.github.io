@@ -180,8 +180,8 @@ a:hover {
     stroke: var(--text-color);
   }
 }
-html[data-theme='light'] .sun { display: block; }
-html[data-theme='dark'] .moon { display: block; }
+html[data-theme='light'] .moon { display: block; }
+html[data-theme='dark'] .sun { display: block; }
 
 /* Hamburger Menu (Mobile Only) */
 .hamburger {
