@@ -24,5 +24,5 @@ title: Home
 
 <!-- 4. Link to the Full Blog Archive -->
 <div class="view-all-posts">
-  <a href="{{ '/blog/' | relative_url }}" class="button">View All Posts →</a>
+  <a href="{{ '/blog.html' | relative_url }}" class="button">View All Posts →</a>
 </div>
