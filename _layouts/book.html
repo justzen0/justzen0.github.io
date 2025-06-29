@@ -1,0 +1,18 @@
+---
+layout: post
+---
+
+{% if page.image %}
+<!-- This is the book hero section -->
+<!-- It displays a background image and an optional quote -->
+<header class="book-hero">
+  <div class="book-hero-image" style="background-image: url('{{ page.image | relative_url }}');"></div>
+  <div class="book-hero-overlay">
+    {% if page.quote %}
+      <blockquote class="hero-quote">"{{ page.quote }}"</blockquote>
+    {% endif %}
+  </div>
+</header>
+{% endif %}
+
+{{ content }}

@@ -1,0 +1,417 @@
+---
+---
+
+// 1. Core Variables (This is your ingredient list)
+:root {
+  --bg-color: #F8F7F4;
+  --text-color: #333333;
+  --accent-color: #8A9A5B;
+  --subtle-gray: #aaa;
+  --font-body: 'Inter', sans-serif;
+  --font-heading: 'Lora', serif;
+}
+
+// Dark theme variables
+html[data-theme='dark'] {
+  --bg-color: #1a1a1a;
+  --text-color: #e0e0e0;
+  --accent-color: #a3b86c; // A slightly brighter sage green
+  
+  .item-card {
+    border: 1px solid #333;
+  }
+}
+
+// 2. The Recipes (Applying the variables to page elements)
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  line-height: 1.3;
+  margin-bottom: 1rem;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.5rem; }
+
+p { margin-bottom: 1.5rem; }
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.3s ease;
+}
+
+a:hover {
+  border-bottom: 1px solid var(--accent-color);
+}
+
+// 3. Header and Footer
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 4rem;
+  
+  .site-title {
+  display: flex;
+  align-items: center;
+  gap: 10px; // Space between logo and text
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--text-color);
+  border: none;
+  }
+
+  .site-title-text {
+    font-family: "Homemade Apple", cursive;
+    font-size: 1.8rem;
+    position: relative;
+    top: 4px; // Small adjustment to align better
+  }
+  
+  nav a {
+    margin-left: 20px;
+    color: var(--text-color);
+  }
+}
+
+.site-footer {
+  margin-top: 4rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--subtle-gray);
+}
+
+// 4. Content Styles (Posts, Lists, etc.)
+.post-meta, .item-meta {
+  color: var(--subtle-gray);
+  font-size: 0.9rem;
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+}
+
+.post-list .post-item {
+  margin-bottom: 3rem;
+  
+  h2 a {
+    color: var(--text-color);
+  }
+}
+
+.post-content {
+  margin-top: 2rem;
+}
+
+// 5. Grid for Books and Movies
+.item-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+@media (min-width: 600px) {
+  .item-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.item-card {
+  padding: 1.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+}
+
+.homepage-art {
+  margin-bottom: 4rem;
+  img {
+    width: 100%;
+    border-radius: 4px;
+    height: auto; // Maintain aspect ratio
+  }
+}
+
+/* --- Header Controls & Responsive Nav --- */
+.site-header {
+  position: relative; // Needed for nav positioning
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+/* Theme Switcher */
+.theme-switcher {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+  width: 32px;
+  height: 32px;
+  
+  .moon, .sun {
+    display: none;
+    stroke: var(--text-color);
+  }
+}
+html[data-theme='light'] .sun { display: block; }
+html[data-theme='dark'] .moon { display: block; }
+
+/* Hamburger Menu (Mobile Only) */
+.hamburger {
+  display: none; // Hidden on desktop
+  flex-direction: column;
+  justify-content: space-around;
+  width: 2rem;
+  height: 2rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+
+  span {
+    width: 2rem;
+    height: 0.25rem;
+    background: var(--text-color);
+    border-radius: 10px;
+    transition: all 0.3s linear;
+    position: relative;
+    transform-origin: 1px;
+  }
+}
+
+/* --- Mobile View (< 768px) --- */
+@media (max-width: 768px) {
+  .site-header {
+    align-items: center; // Re-align for mobile
+  }
+
+  .hamburger {
+    display: flex; // Show hamburger
+    z-index: 20; // Above nav
+  }
+  
+  nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: var(--bg-color);
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 100%;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(100%); // Start off-screen
+    z-index: 10;
+
+    a {
+      font-size: 2rem;
+      padding: 2rem 0;
+      color: var(--text-color);
+    }
+  }
+
+  nav.nav-open {
+    transform: translateX(0);
+  }
+}
+
+
+.item-card-link {
+  display: block; // Allows the link to contain a block element
+  text-decoration: none;
+  color: var(--text-color);
+
+  &:hover, &:focus {
+    color: var(--text-color);
+    border: none;
+  }
+}
+
+.item-card {
+  height: 100%; // Make cards in a row the same height
+  transition: transform 0.3s ease-out, box-shadow 0.3s ease-out;
+  transform-style: preserve-3d; // For the 3D tilt
+}
+
+// Rise effect
+.item-card-link:hover .item-card,
+.item-card-link:focus .item-card {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  // box-shadow: var(--accent-color);
+}
+
+// Book quote styling
+.item-quote {
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  font-style: italic;
+  border-left: 3px solid var(--accent-color);
+  padding-left: 1rem;
+  margin: 0 0 1rem 0;
+}
+
+// Movie card styling
+.movie-card {
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.movie-poster {
+  width: 100%;
+  height: auto;
+  flex-grow: 1;
+  object-fit: cover;
+}
+
+.movie-info {
+  padding: 1.5rem;
+  background: rgba(var(--bg-color-rgb), 0.7); // Semi-transparent overlay
+  backdrop-filter: blur(5px);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  h3, p { margin: 0; }
+}
+
+// To make the movie-info overlay work, we need to define --bg-color as an RGB value
+:root {
+  --bg-color-rgb: 248, 247, 244;
+  //... other variables
+}
+html[data-theme='dark'] {
+  --bg-color-rgb: 26, 26, 26;
+  //... other variables
+}
+
+// Add this new rule anywhere in your SCSS file
+html[data-theme='dark'] .item-card-link:hover .item-card,
+html[data-theme='dark'] .item-card-link:focus .item-card {
+  // A subtle glow using your accent color variable
+  box-shadow: 0 0 20px -5px var(--accent-color);
+}
+
+
+.book-card {
+  display: flex;
+  flex-direction: column; // Stack elements vertically
+  justify-content: space-between; // Pushes the quote down if space allows
+  
+  h3 {
+    margin-bottom: 0.25rem; // Reduce space after title
+  }
+
+  .item-meta {
+    margin-top: 0; // Remove top margin from author
+    margin-bottom: 1.5rem; // Add space before the quote
+  }
+  
+  .item-quote {
+    font-family: var(--font-heading);
+    font-size: 1.2rem;
+    font-style: italic;
+    border-left: 3px solid var(--accent-color);
+    padding-left: 1rem;
+    margin: 0; // Remove default blockquote margins
+  }
+}
+
+/* --- Book Page Hero Layout --- */
+.book-hero {
+  position: relative;
+  width: 100%;
+  height: 300px; /* Fixed height for the hero section */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 3rem; /* Space between hero and article content */
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.book-hero-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover; /* Cover the whole area */
+  background-position: center center; /* Center the image */
+  /* Add a subtle filter to desaturate and darken the image, so text is readable */
+  filter: saturate(0.5) brightness(0.7);
+}
+
+.book-hero-overlay {
+  position: relative; /* Sits on top of the image */
+  z-index: 2;
+  padding: 20px;
+  color: #ffffff; /* White text for the quote */
+}
+
+.hero-quote {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  line-height: 1.4;
+  font-weight: 500;
+  max-width: 80%;
+  margin: 0 auto;
+  text-shadow: 0 2px 5px rgba(0,0,0,0.5); /* Drop shadow for readability */
+  border: none; /* Remove any default blockquote borders */
+}
+
+/* On smaller screens, make the hero a bit smaller */
+@media (max-width: 768px) {
+  .book-hero {
+    height: 250px;
+  }
+  .hero-quote {
+    font-size: 1.5rem;
+  }
+}
+
+.pagination .disabled {
+  color: var(--subtle-gray);
+  pointer-events: none;
+}
+
+ .site-logo {
+    width: 32px;
+    height: 32px;
+    // This is the magic for SVG theming
+    // It uses the current text color as the SVG's color
+    color: var(--text-color); 
+    transition: color 0.3s ease;
+  }

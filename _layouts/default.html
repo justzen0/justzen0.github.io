@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora:wght@500&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap" rel="stylesheet">
+
+  <!-- Favicons & Theme -->
+  <link rel="apple-touch-icon" href="{{ '/assets/img/icons/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/img/icons/favicon-96x96-light.png' | relative_url }}" media="(prefers-color-scheme: light)">
+  <link rel="icon" href="{{ '/assets/img/icons/favicon-96x96-dark.png' | relative_url }}" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#F8F7F4" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)">
+</head>
+
+<body>
+  <div class="container">
+    {% include header.html %}
+    <main>
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </div>
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+
+</body>
+
+</html>
