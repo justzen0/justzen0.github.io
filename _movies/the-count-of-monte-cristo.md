@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "The Count of Monte Cristo"
 director: "A Director"
-year: 2013
+year: 2002
 poster: "/assets/img/home.png"
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "A Clockwork Orange"
 director: "A Director"
-year: 2013
+year: 1971
 poster: "/assets/img/home.png"
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Spirited Away"
 director: "A Director"
-year: 2013
+year: 2001
 poster: "/assets/img/home.png"
 ---
 

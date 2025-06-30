@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Citizen Kane"
 director: "A Director"
-year: 2013
+year: 1941
 poster: "/assets/img/home.png"
 ---
 

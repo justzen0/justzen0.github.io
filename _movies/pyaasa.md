@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Pyaasa"
 director: "A Director"
-year: 2013
+year: 1957
 poster: "/assets/img/home.png"
 ---
 

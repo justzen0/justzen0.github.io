@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "The Sacrifice"
 director: "A Director"
-year: 2013
+year: 1986
 poster: "/assets/img/home.png"
 ---
 

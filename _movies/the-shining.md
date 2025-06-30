@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "The Shining"
 director: "A Director"
-year: 2013
+year: 1980
 poster: "/assets/img/home.png"
 ---
 

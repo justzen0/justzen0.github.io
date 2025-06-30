@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Eraserhead"
 director: "A Director"
-year: 2013
+year: 1977
 poster: "/assets/img/home.png"
 ---
 

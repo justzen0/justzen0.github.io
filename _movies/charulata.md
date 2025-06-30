@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Charulata"
 director: "A Director"
-year: 2013
+year: 1964
 poster: "/assets/img/home.png"
 ---
 

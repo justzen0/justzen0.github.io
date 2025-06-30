@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Kantara"
 director: "A Director"
-year: 2013
+year: 2022
 poster: "/assets/img/home.png"
 ---
 

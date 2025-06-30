@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "The Florida Project"
 director: "A Director"
-year: 2013
+year: 2017
 poster: "/assets/img/home.png"
 ---
 

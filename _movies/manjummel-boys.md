@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Manjummel Boys"
 director: "A Director"
-year: 2013
+year: 2024
 poster: "/assets/img/home.png"
 ---
 

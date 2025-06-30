@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Being John Malkovich"
 director: "A Director"
-year: 2013
+year: 1999
 poster: "/assets/img/home.png"
 ---
 

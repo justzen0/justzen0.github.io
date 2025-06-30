@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Kaagaz Ke Phool"
 director: "A Director"
-year: 2013
+year: 1959
 poster: "/assets/img/home.png"
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "2001: A Space Odyssey"
 director: "A Director"
-year: 2013
+year: 1968
 poster: "/assets/img/home.png"
 ---
 

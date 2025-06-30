@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Kiss Kiss Bang Bang"
 director: "A Director"
-year: 2013
+year: 2005
 poster: "/assets/img/home.png"
 ---
 

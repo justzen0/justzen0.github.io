@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Ivan's Childhood"
 director: "A Director"
-year: 2013
+year: 1962
 poster: "/assets/img/home.png"
 ---
 

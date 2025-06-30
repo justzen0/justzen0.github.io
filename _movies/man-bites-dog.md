@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Man Bites Dog"
 director: "A Director"
-year: 2013
+year: 1992
 poster: "/assets/img/home.png"
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Pather Panchali"
 director: "A Director"
-year: 2013
+year: 1955
 poster: "/assets/img/home.png"
 ---
 

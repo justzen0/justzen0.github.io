@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "The Mirror"
 director: "A Director"
-year: 2013
+year: 1975
 poster: "/assets/img/home.png"
 ---
 

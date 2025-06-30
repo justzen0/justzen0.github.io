@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "12 Angry Men"
 director: "A Director"
-year: 2013
+year: 1957
 poster: "/assets/img/home.png"
 ---
 

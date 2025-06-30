@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Nayak"
 director: "A Director"
-year: 2013
+year: 1966
 poster: "/assets/img/home.png"
 ---
 

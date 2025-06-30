@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Little Miss Sunshine"
 director: "A Director"
-year: 2013
+year: 2006
 poster: "/assets/img/home.png"
 ---
 

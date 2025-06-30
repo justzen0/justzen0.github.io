@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Raging Bull"
 director: "A Director"
-year: 2013
+year: 1980
 poster: "/assets/img/home.png"
 ---
 

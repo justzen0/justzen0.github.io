@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
-director: "A Director"
-year: 2013
+title: "Devi"
+director: "Satyajit Ray"
+year: 1960
 poster: "/assets/img/home.png"
 ---
 

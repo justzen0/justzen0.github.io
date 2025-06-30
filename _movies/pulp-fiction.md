@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Pulp Fiction"
 director: "A Director"
-year: 2013
+year: 1994
 poster: "/assets/img/home.png"
 ---
 

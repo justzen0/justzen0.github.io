@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Badlands"
 director: "A Director"
-year: 2013
+year: 1973
 poster: "/assets/img/home.png"
 ---
 

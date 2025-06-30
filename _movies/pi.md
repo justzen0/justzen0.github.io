@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Pi"
 director: "A Director"
-year: 2013
+year: 1998
 poster: "/assets/img/home.png"
 ---
 

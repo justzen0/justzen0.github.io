@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Bicycle Thieves"
 director: "A Director"
-year: 2013
+year: 1948
 poster: "/assets/img/home.png"
 ---
 

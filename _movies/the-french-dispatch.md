@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "The French Dispatch"
 director: "A Director"
-year: 2013
+year: 2021
 poster: "/assets/img/home.png"
 ---
 

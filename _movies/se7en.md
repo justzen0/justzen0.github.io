@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Se7en"
 director: "A Director"
-year: 2013
+year: 1995
 poster: "/assets/img/home.png"
 ---
 

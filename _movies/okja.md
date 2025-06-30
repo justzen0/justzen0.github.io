@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Okja"
 director: "A Director"
-year: 2013
+year: 2017
 poster: "/assets/img/home.png"
 ---
 

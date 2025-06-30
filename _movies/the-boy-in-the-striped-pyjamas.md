@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "The Boy in the Striped Pyjamas"
 director: "A Director"
-year: 2013
+year: 2008
 poster: "/assets/img/home.png"
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Meghe Dhaka Tara"
 director: "A Director"
-year: 2013
+year: 1960
 poster: "/assets/img/home.png"
 ---
 

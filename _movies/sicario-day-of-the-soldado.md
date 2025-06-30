@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Sicario: Day of the Soldado"
 director: "A Director"
-year: 2013
+year: 2018
 poster: "/assets/img/home.png"
 ---
 

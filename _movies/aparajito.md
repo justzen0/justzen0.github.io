@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Aparajito"
 director: "A Director"
-year: 2013
+year: 1956
 poster: "/assets/img/home.png"
 ---
 

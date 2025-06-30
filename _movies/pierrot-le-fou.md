@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Pierrot le Fou"
 director: "A Director"
-year: 2013
+year: 1965
 poster: "/assets/img/home.png"
 ---
 

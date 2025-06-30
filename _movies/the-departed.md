@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "The Departed"
 director: "A Director"
-year: 2013
+year: 2006
 poster: "/assets/img/home.png"
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "The Lighthouse"
 director: "A Director"
-year: 2013
+year: 2019
 poster: "/assets/img/home.png"
 ---
 

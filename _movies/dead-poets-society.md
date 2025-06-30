@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Dead Poets Society"
 director: "A Director"
-year: 2013
+year: 1989
 poster: "/assets/img/home.png"
 ---
 

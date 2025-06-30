@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Prometheus"
 director: "A Director"
-year: 2013
+year: 2012
 poster: "/assets/img/home.png"
 ---
 

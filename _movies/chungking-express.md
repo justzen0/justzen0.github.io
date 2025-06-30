@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Chungking Express"
 director: "A Director"
-year: 2013
+year: 1994
 poster: "/assets/img/home.png"
 ---
 

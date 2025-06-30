@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Blade Runner"
 director: "A Director"
-year: 2013
+year: 1982
 poster: "/assets/img/home.png"
 ---
 

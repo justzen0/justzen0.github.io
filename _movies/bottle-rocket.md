@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Her"
+title: "Bottle Rocket"
 director: "A Director"
-year: 2013
+year: 1996
 poster: "/assets/img/home.png"
 ---
 
