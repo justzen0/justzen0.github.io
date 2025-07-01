@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Kumbalangi Nights"
-director: "A Director"
+director: "Madhu C. Narayanan"
 year: 2019
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/kumbalangi-nights.jpg"
 ---
 
 My review or thoughts on the film go here.

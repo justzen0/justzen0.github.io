@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "City of God"
-director: "A Director"
+director: "Fernando Meirelles, Kátia Lund"
 year: 2002
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/city-of-god.jpg"
 ---
 
 My review or thoughts on the film go here.

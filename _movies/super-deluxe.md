@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Super Deluxe"
-director: "A Director"
+director: "Thiagarajan Kumararaja"
 year: 2019
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/super-deluxe.jpg"
 ---
 
 My review or thoughts on the film go here.

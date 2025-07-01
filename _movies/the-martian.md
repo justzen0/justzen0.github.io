@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Martian"
-director: "A Director"
+director: "Ridley Scott"
 year: 2015
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-martian.jpg"
 ---
 
 My review or thoughts on the film go here.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Bottle Rocket"
-director: "A Director"
+director: "Wes Anderson"
 year: 1996
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/bottle-rocket.jpg"
 ---
 
 My review or thoughts on the film go here.

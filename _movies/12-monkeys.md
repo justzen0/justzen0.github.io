@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "12 Monkeys"
-director: "Terry gilliam"
+director: "Terry Gilliam"
 year: 1995
-poster: "/assets/img/12monkeys.jpg"
+poster: "/assets/img/mp/12-monkeys.jpg"
 ---
 
 My review or thoughts on the film go here.

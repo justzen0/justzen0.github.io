@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Children of Men"
-director: "A Director"
+director: "Alfonso Cuarón"
 year: 2006
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/children-of-men.jpg"
 ---
 
 My review or thoughts on the film go here.

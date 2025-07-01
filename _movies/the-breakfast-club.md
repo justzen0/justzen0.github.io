@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Breakfast Club"
-director: "A Director"
+director: "John Hughes"
 year: 1985
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-breakfast-club.jpg"
 ---
 
 My review or thoughts on the film go here.

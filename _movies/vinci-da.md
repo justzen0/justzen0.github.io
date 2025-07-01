@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Vinci Da"
-director: "A Director"
+director: "Srijit Mukherji"
 year: 2019
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/vinci-da.jpg"
 ---
 
 My review or thoughts on the film go here.

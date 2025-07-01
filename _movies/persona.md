@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Persona"
-director: "A Director"
+director: "Ingmar Bergman"
 year: 1966
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/persona.jpg"
 ---
 
 My review or thoughts on the film go here.

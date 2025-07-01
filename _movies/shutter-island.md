@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Shutter Island"
-director: "A Director"
+director: "Martin Scorsese"
 year: 2010
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/shutter-island.jpg"
 ---
 
 My review or thoughts on the film go here.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Joker"
-director: "A Director"
+director: "Todd Phillips"
 year: 2019
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/joker.jpg"
 ---
 
 My review or thoughts on the film go here.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Meghe Dhaka Tara"
-director: "A Director"
+director: "Ritwik Ghatak"
 year: 1960
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/meghe-dhaka-tara.jpg"
 ---
 
 My review or thoughts on the film go here.

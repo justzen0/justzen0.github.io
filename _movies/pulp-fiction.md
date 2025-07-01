@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Pulp Fiction"
-director: "A Director"
+director: "Quentin Tarantino"
 year: 1994
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/pulp-fiction.jpg"
 ---
 
 My review or thoughts on the film go here.

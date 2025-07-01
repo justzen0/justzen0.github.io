@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Kill Bill: Vol. 2"
-director: "A Director"
+director: "Quentin Tarantino"
 year: 2004
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/kill-bill-vol-2.jpg"
 ---
 
 My review or thoughts on the film go here.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Asuran"
-director: "A Director"
+director: "Vetrimaaran"
 year: 2019
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/asuran.jpg"
 ---
 
 My review or thoughts on the film go here.

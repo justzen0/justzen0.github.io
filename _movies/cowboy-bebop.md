@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Cowboy Bebop"
-director: "A Director"
+director: "Shinichirō Watanabe"
 year: 1998
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/cowboy-bebop.jpg"
 ---
 
 My review or thoughts on the film go here.

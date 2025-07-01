@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Fallen Angels"
-director: "A Director"
+director: "Wong Kar-wai"
 year: 1995
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/fallen-angels.jpg"
 ---
 
 My review or thoughts on the film go here.

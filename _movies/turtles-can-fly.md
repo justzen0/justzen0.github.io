@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Turtles Can Fly"
-director: "A Director"
+director: "Bahman Ghobadi"
 year: 2004
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/turtles-can-fly.jpg"
 ---
 
 My review or thoughts on the film go here.

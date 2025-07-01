@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Intouchables"
-director: "A Director"
+director: "Olivier Nakache, Éric Toledano"
 year: 2011
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-intouchables.jpg"
 ---
 
 My review or thoughts on the film go here.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Enemy"
-director: "A Director"
+director: "Denis Villeneuve"
 year: 2013
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/enemy.jpg"
 ---
 
 My review or thoughts on the film go here.

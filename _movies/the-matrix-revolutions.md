@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Matrix Revolutions"
-director: "A Director"
+director: "Lana Wachowski, Lilly Wachowski"
 year: 2003
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-matrix-revolutions.jpg"
 ---
 
 My review or thoughts on the film go here.

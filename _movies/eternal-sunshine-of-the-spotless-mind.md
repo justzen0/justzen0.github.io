@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Eternal Sunshine of the Spotless Mind"
-director: "A Director"
+director: "Michel Gondry"
 year: 2004
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/eternal-sunshine-of-the-spotless-mind.jpg"
 ---
 
 My review or thoughts on the film go here.

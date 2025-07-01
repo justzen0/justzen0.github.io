@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Manjummel Boys"
-director: "A Director"
+director: "Chidambaram S. Poduval"
 year: 2024
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/manjummel-boys.jpg"
 ---
 
 My review or thoughts on the film go here.

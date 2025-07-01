@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Raging Bull"
-director: "A Director"
+director: "Martin Scorsese"
 year: 1980
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/raging-bull.jpg"
 ---
 
 My review or thoughts on the film go here.

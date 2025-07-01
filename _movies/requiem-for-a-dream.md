@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Requiem for a Dream"
-director: "A Director"
+director: "Darren Aronofsky"
 year: 2000
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/requiem-for-a-dream.jpg"
 ---
 
 My review or thoughts on the film go here.

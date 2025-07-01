@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Raman Raghav 2.0"
-director: "A Director"
+director: "Anurag Kashyap"
 year: 2016
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/raman-raghav-20.jpg"
 ---
 
 My review or thoughts on the film go here.

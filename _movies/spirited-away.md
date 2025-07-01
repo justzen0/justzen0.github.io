@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Spirited Away"
-director: "A Director"
+director: "Hayao Miyazaki"
 year: 2001
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/spirited-away.jpg"
 ---
 
 My review or thoughts on the film go here.

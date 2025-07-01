@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Incendies"
-director: "A Director"
+director: "Denis Villeneuve"
 year: 2010
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/incendies.jpg"
 ---
 
 My review or thoughts on the film go here.

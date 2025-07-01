@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Inception"
-director: "A Director"
+director: "Christopher Nolan"
 year: 2010
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/inception.jpg"
 ---
 
 My review or thoughts on the film go here.

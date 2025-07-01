@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Waking Life"
-director: "A Director"
+director: "Richard Linklater"
 year: 2001
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/waking-life.jpg"
 ---
 
 My review or thoughts on the film go here.

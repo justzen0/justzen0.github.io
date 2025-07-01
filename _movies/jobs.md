@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Jobs"
-director: "A Director"
+director: "Joshua Michael Stern"
 year: 2013
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/jobs.jpg"
 ---
 
 My review or thoughts on the film go here.

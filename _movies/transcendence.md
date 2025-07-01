@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Transcendence"
-director: "A Director"
+director: "Wally Pfister"
 year: 2014
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/transcendence.jpg"
 ---
 
 My review or thoughts on the film go here.

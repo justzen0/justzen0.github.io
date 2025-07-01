@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Knives Out"
-director: "A Director"
+director: "Rian Johnson"
 year: 2019
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/knives-out.jpg"
 ---
 
 My review or thoughts on the film go here.

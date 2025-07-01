@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Dazed and Confused"
-director: "A Director"
+director: "Richard Linklater"
 year: 1993
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/dazed-and-confused.jpg"
 ---
 
 My review or thoughts on the film go here.

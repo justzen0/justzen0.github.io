@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Gattaca"
-director: "A Director"
+director: "Andrew Niccol"
 year: 1997
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/gattaca.jpg"
 ---
 
 My review or thoughts on the film go here.

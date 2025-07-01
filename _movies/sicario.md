@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Sicario"
-director: "A Director"
+director: "Denis Villeneuve"
 year: 2015
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/sicario.jpg"
 ---
 
 My review or thoughts on the film go here.

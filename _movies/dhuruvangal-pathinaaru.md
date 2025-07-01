@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Dhuruvangal Pathinaaru"
-director: "A Director"
+director: "Karthick Naren"
 year: 2016
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/dhuruvangal-pathinaaru.jpg"
 ---
 
 My review or thoughts on the film go here.

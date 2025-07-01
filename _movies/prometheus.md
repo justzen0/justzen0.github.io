@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Prometheus"
-director: "A Director"
+director: "Ridley Scott"
 year: 2012
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/prometheus.jpg"
 ---
 
 My review or thoughts on the film go here.

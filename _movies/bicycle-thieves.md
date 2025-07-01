@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Bicycle Thieves"
-director: "A Director"
+director: "Vittorio De Sica"
 year: 1948
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/bicycle-thieves.jpg"
 ---
 
 My review or thoughts on the film go here.

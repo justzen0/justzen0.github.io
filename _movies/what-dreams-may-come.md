@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "What Dreams May Come"
-director: "A Director"
+director: "Vincent Ward"
 year: 1998
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/what-dreams-may-come.jpg"
 ---
 
 My review or thoughts on the film go here.

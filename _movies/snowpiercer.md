@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Snowpiercer"
-director: "A Director"
+director: "Bong Joon-ho"
 year: 2013
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/snowpiercer.jpg"
 ---
 
 My review or thoughts on the film go here.

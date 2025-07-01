@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Ugly"
-director: "A Director"
+director: "Anurag Kashyap"
 year: 2013
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/ugly.jpg"
 ---
 
 My review or thoughts on the film go here.

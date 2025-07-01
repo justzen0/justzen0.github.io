@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Fargo"
-director: "A Director"
+director: "Joel Coen, Ethan Coen"
 year: 1996
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/fargo.jpg"
 ---
 
 My review or thoughts on the film go here.

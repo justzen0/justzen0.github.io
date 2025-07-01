@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Before Sunset"
-director: "A Director"
+director: "Richard Linklater"
 year: 2004
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/before-sunset.jpg"
 ---
 
 My review or thoughts on the film go here.

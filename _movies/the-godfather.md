@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Godfather"
-director: "A Director"
+director: "Francis Ford Coppola"
 year: 1972
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-godfather.jpg"
 ---
 
 My review or thoughts on the film go here.

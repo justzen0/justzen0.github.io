@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Imitation Game"
-director: "A Director"
+director: "Morten Tyldum"
 year: 2014
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-imitation-game.jpg"
 ---
 
 My review or thoughts on the film go here.

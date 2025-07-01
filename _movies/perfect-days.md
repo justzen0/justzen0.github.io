@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Perfect Days"
-director: "A Director"
+director: "Wim Wenders"
 year: 2023
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/perfect-days.jpg"
 ---
 
 My review or thoughts on the film go here.

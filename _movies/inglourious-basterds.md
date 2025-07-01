@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Inglourious Basterds"
-director: "A Director"
+director: "Quentin Tarantino"
 year: 2009
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/inglourious-basterds.jpg"
 ---
 
 My review or thoughts on the film go here.

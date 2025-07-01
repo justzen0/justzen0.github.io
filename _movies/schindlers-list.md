@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Schindler's List"
-director: "A Director"
+director: "Steven Spielberg"
 year: 1993
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/schindlers-list.jpg"
 ---
 
 My review or thoughts on the film go here.

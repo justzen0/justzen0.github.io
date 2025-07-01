@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "La Haine"
-director: "A Director"
+director: "Mathieu Kassovitz"
 year: 1995
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/la-haine.jpg"
 ---
 
 My review or thoughts on the film go here.

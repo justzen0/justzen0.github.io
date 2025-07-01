@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Le Trou"
-director: "A Director"
+director: "Jacques Becker"
 year: 1960
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/le-trou.jpg"
 ---
 
 My review or thoughts on the film go here.

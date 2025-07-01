@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Thing"
-director: "A Director"
+director: "John Carpenter"
 year: 1982
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-thing.jpg"
 ---
 
 My review or thoughts on the film go here.

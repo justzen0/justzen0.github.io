@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Darjeeling Limited"
-director: "A Director"
+director: "Wes Anderson"
 year: 2007
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-darjeeling-limited.jpg"
 ---
 
 My review or thoughts on the film go here.

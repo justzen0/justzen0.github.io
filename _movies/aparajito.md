@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Aparajito"
-director: "A Director"
+director: "Satyajit Ray"
 year: 1956
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/aparajito.jpg"
 ---
 
 My review or thoughts on the film go here.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Memories of Murder"
-director: "A Director"
+director: "Bong Joon-ho"
 year: 2003
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/memories-of-murder.jpg"
 ---
 
 My review or thoughts on the film go here.

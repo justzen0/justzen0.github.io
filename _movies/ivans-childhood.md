@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Ivan's Childhood"
-director: "A Director"
+director: "Andrei Tarkovsky"
 year: 1962
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/ivans-childhood.jpg"
 ---
 
 My review or thoughts on the film go here.

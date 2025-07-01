@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Birdman"
-director: "A Director"
+director: "Alejandro González Iñárritu"
 year: 2014
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/birdman.jpg"
 ---
 
 My review or thoughts on the film go here.

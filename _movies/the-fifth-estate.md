@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Fifth Estate"
-director: "A Director"
+director: "Bill Condon"
 year: 2013
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-fifth-estate.jpg"
 ---
 
 My review or thoughts on the film go here.

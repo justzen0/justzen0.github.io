@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Lipstick Under My Burkha"
-director: "A Director"
+director: "Alankrita Shrivastava"
 year: 2016
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/lipstick-under-my-burkha.jpg"
 ---
 
 My review or thoughts on the film go here.

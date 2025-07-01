@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Agora"
-director: "A Director"
+director: "Alejandro Amenábar"
 year: 2009
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/agora.jpg"
 ---
 
 My review or thoughts on the film go here.

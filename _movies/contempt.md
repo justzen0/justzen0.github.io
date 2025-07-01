@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Contempt"
-director: "A Director"
+director: "Jean-Luc Godard"
 year: 1963
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/contempt.jpg"
 ---
 
 My review or thoughts on the film go here.

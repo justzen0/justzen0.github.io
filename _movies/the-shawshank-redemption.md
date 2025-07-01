@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Shawshank Redemption"
-director: "A Director"
+director: "Frank Darabont"
 year: 1994
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-shawshank-redemption.jpg"
 ---
 
 My review or thoughts on the film go here.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Kantara"
-director: "A Director"
+director: "Rishab Shetty"
 year: 2022
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/kantara.jpg"
 ---
 
 My review or thoughts on the film go here.

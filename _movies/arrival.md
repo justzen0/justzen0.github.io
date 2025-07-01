@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Arrival"
-director: "A Director"
+director: "Denis Villeneuve"
 year: 2016
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/arrival.jpg"
 ---
 
 My review or thoughts on the film go here.

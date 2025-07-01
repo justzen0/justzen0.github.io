@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Poor Things"
-director: "A Director"
+director: "Yorgos Lanthimos"
 year: 2023
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/poor-things.jpg"
 ---
 
 My review or thoughts on the film go here.

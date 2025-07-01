@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Slacker"
-director: "A Director"
+director: "Richard Linklater"
 year: 1990
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/slacker.jpg"
 ---
 
 My review or thoughts on the film go here.

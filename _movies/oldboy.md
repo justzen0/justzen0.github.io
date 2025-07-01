@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Oldboy"
-director: "A Director"
+director: "Park Chan-wook"
 year: 2003
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/oldboy.jpg"
 ---
 
 My review or thoughts on the film go here.

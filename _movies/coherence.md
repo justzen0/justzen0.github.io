@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Coherence"
-director: "A Director"
+director: "James Ward Byrkit"
 year: 2013
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/coherence.jpg"
 ---
 
 My review or thoughts on the film go here.

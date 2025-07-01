@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Jai Bhim"
-director: "A Director"
+director: "T. J. Gnanavel"
 year: 2021
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/jai-bhim.jpg"
 ---
 
 My review or thoughts on the film go here.

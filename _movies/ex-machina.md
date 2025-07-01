@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Ex Machina"
-director: "A Director"
+director: "Alex Garland"
 year: 2014
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/ex-machina.jpg"
 ---
 
 My review or thoughts on the film go here.

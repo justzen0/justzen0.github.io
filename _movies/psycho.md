@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Psycho"
-director: "A Director"
-year: 1960
-poster: "/assets/img/home.png"
+director: "Mysskin"
+year: 2020
+poster: "/assets/img/mp/psycho.jpg"
 ---
 
 My review or thoughts on the film go here.

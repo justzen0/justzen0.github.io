@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Soorarai Pottru"
-director: "A Director"
+director: "Sudha Kongara"
 year: 2020
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/soorarai-pottru.jpg"
 ---
 
 My review or thoughts on the film go here.

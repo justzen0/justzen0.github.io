@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Collateral"
-director: "A Director"
+director: "Michael Mann"
 year: 2004
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/collateral.jpg"
 ---
 
 My review or thoughts on the film go here.

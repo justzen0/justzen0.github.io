@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Bob Biswas"
-director: "A Director"
+director: "Diya Annapurna Ghosh"
 year: 2021
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/bob-biswas.jpg"
 ---
 
 My review or thoughts on the film go here.

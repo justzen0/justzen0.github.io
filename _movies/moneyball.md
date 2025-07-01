@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Moneyball"
-director: "A Director"
+director: "Bennett Miller"
 year: 2011
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/moneyball.jpg"
 ---
 
 My review or thoughts on the film go here.

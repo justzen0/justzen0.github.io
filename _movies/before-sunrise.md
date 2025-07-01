@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Before Sunrise"
-director: "A Director"
+director: "Richard Linklater"
 year: 1995
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/before-sunrise.jpg"
 ---
 
 My review or thoughts on the film go here.

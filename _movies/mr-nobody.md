@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Mr. Nobody"
-director: "A Director"
+director: "Jaco Van Dormael"
 year: 2009
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/mr-nobody.jpg"
 ---
 
 My review or thoughts on the film go here.

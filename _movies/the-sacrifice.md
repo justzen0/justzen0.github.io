@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Sacrifice"
-director: "A Director"
+director: "Andrei Tarkovsky"
 year: 1986
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-sacrifice.jpg"
 ---
 
 My review or thoughts on the film go here.

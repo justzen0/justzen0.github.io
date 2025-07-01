@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Aamis"
-director: "A Director"
+director: "Bhaskar Hazarika"
 year: 2019
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/aamis.jpg"
 ---
 
 My review or thoughts on the film go here.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Her"
-director: "A Director"
+director: "Spike Jonze"
 year: 2013
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/her.jpg"
 ---
 
 My review or thoughts on the film go here.

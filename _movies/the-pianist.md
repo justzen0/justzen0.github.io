@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Pianist"
-director: "A Director"
+director: "Roman Polanski"
 year: 2002
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-pianist.jpg"
 ---
 
 My review or thoughts on the film go here.

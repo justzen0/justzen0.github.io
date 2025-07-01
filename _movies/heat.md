@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Heat"
-director: "A Director"
+director: "Michael Mann"
 year: 1995
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/heat.jpg"
 ---
 
 My review or thoughts on the film go here.

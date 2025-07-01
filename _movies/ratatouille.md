@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Ratatouille"
-director: "A Director"
+director: "Brad Bird"
 year: 2007
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/ratatouille.jpg"
 ---
 
 My review or thoughts on the film go here.

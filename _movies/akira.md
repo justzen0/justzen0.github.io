@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Akira"
-director: "A Director"
+director: "Katsuhiro Otomo"
 year: 1988
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/akira.jpg"
 ---
 
 My review or thoughts on the film go here.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Charulata"
-director: "A Director"
+director: "Satyajit Ray"
 year: 1964
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/charulata.jpg"
 ---
 
 My review or thoughts on the film go here.

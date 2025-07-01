@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Being John Malkovich"
-director: "A Director"
+director: "Spike Jonze"
 year: 1999
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/being-john-malkovich.jpg"
 ---
 
 My review or thoughts on the film go here.

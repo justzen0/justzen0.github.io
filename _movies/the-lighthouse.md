@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Lighthouse"
-director: "A Director"
+director: "Robert Eggers"
 year: 2019
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-lighthouse.jpg"
 ---
 
 My review or thoughts on the film go here.

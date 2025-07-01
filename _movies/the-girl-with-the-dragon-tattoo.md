@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Girl with the Dragon Tattoo"
-director: "A Director"
+director: "David Fincher"
 year: 2011
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-girl-with-the-dragon-tattoo.jpg"
 ---
 
 My review or thoughts on the film go here.

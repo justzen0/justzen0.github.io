@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Groundhog Day"
-director: "A Director"
+director: "Harold Ramis"
 year: 1993
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/groundhog-day.jpg"
 ---
 
 My review or thoughts on the film go here.

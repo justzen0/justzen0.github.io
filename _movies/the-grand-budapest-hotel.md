@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Grand Budapest Hotel"
-director: "A Director"
+director: "Wes Anderson"
 year: 2014
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-grand-budapest-hotel.jpg"
 ---
 
 My review or thoughts on the film go here.

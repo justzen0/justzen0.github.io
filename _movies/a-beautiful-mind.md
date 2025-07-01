@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "A Beautiful Mind"
-director: "A Director"
+director: "Ron Howard"
 year: 2001
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/a-beautiful-mind.jpg"
 ---
 
 My review or thoughts on the film go here.

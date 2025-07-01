@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Blue Ruin"
-director: "A Director"
+director: "Jeremy Saulnier"
 year: 2013
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/blue-ruin.jpg"
 ---
 
 My review or thoughts on the film go here.

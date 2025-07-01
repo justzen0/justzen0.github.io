@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Count of Monte Cristo"
-director: "A Director"
+director: "Kevin Reynolds"
 year: 2002
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-count-of-monte-cristo.jpg"
 ---
 
 My review or thoughts on the film go here.

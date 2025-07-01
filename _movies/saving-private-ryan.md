@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Saving Private Ryan"
-director: "A Director"
+director: "Steven Spielberg"
 year: 1998
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/saving-private-ryan.jpg"
 ---
 
 My review or thoughts on the film go here.

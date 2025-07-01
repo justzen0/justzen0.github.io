@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Rear Window"
-director: "A Director"
+director: "Alfred Hitchcock"
 year: 1954
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/rear-window.jpg"
 ---
 
 My review or thoughts on the film go here.

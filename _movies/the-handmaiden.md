@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Handmaiden"
-director: "A Director"
+director: "Park Chan-wook"
 year: 2016
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-handmaiden.jpg"
 ---
 
 My review or thoughts on the film go here.

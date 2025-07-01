@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Pi"
-director: "A Director"
+director: "Darren Aronofsky"
 year: 1998
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/pi.jpg"
 ---
 
 My review or thoughts on the film go here.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Tree of Life"
-director: "A Director"
+director: "Terrence Malick"
 year: 2011
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-tree-of-life.jpg"
 ---
 
 My review or thoughts on the film go here.

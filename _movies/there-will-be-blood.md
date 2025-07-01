@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "There Will Be Blood"
-director: "A Director"
+director: "Paul Thomas Anderson"
 year: 2007
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/there-will-be-blood.jpg"
 ---
 
 My review or thoughts on the film go here.

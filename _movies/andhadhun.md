@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Andhadhun"
-director: "A Director"
+director: "Sriram Raghavan"
 year: 2018
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/andhadhun.jpg"
 ---
 
 My review or thoughts on the film go here.

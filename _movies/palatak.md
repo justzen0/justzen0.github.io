@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Palatak"
-director: "A Director"
+director: "Tarun Majumdar"
 year: 1963
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/palatak.jpg"
 ---
 
 My review or thoughts on the film go here.

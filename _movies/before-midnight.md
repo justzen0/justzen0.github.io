@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Before Midnight"
-director: "A Director"
+director: "Richard Linklater"
 year: 2013
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/before-midnight.jpg"
 ---
 
 My review or thoughts on the film go here.

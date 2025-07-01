@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Dark Knight"
-director: "A Director"
+director: "Christopher Nolan"
 year: 2008
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-dark-knight.jpg"
 ---
 
 My review or thoughts on the film go here.

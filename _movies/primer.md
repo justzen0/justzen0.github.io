@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Primer"
-director: "A Director"
+director: "Shane Carruth"
 year: 2004
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/primer.jpg"
 ---
 
 My review or thoughts on the film go here.

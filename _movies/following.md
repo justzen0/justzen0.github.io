@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Following"
-director: "A Director"
+director: "Christopher Nolan"
 year: 1998
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/following.jpg"
 ---
 
 My review or thoughts on the film go here.

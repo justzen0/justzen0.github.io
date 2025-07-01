@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "I Origins"
-director: "A Director"
+director: "Mike Cahill"
 year: 2014
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/i-origins.jpg"
 ---
 
 My review or thoughts on the film go here.

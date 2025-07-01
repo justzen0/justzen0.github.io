@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Prisoners"
-director: "A Director"
+director: "Denis Villeneuve"
 year: 2013
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/prisoners.jpg"
 ---
 
 My review or thoughts on the film go here.

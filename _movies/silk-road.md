@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Silk Road"
-director: "A Director"
+director: "Tiller Russell"
 year: 2021
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/silk-road.jpg"
 ---
 
 My review or thoughts on the film go here.

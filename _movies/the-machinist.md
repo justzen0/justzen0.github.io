@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Machinist"
-director: "A Director"
+director: "Brad Anderson"
 year: 2004
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/the-machinist.jpg"
 ---
 
 My review or thoughts on the film go here.

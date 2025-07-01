@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Limitless"
-director: "A Director"
+director: "Neil Burger"
 year: 2011
-poster: "/assets/img/home.png"
+poster: "/assets/img/mp/limitless.jpg"
 ---
 
 My review or thoughts on the film go here.
