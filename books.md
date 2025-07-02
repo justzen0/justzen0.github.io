@@ -12,7 +12,7 @@ title: Books
       <div class="item-card book-card">
         <h3>{{ book.title }}</h3>
         <p class="item-meta">by {{ book.author }}</p>
-        <blockquote class="item-quote">"{{ book.quote }}"</blockquote>
+        <!-- <blockquote class="item-quote">"{{ book.quote }}"</blockquote> -->
       </div>
     </a>
   {% endfor %}
