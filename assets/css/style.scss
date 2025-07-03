@@ -521,64 +521,58 @@ html[data-theme='dark'] {
   }
 }
 
-// The main card container
 .movie-card {
-  display: flex; // Use flexbox for easy content alignment
-  flex-direction: column; // Stack content vertically
-  justify-content: flex-end; // Push the text overlay to the bottom
-
-  position: relative;
-  height: 350px; // A fixed, taller height for a poster-like aspect ratio
-  padding: 0; // Remove default padding to allow the image to fill the space
-  overflow: hidden; // Keep the rounded corners from the parent .item-card
-  background-size: cover; // Crucial: scales the image to cover the entire card
-  background-position: center center; // Centers the image, cropping sides if needed
-  color: #fff; // Set default text color to white for better contrast on images
-  
-  // A subtle inner shadow to add depth
-  box-shadow: inset 0 0 40px rgba(0,0,0,0.3);
+  position: relative; /* This is the positioning frame for all child elements */
+  height: 350px;      /* The fixed height of our "window" */
+  padding: 0;         /* Remove padding so the image and overlays can fill it */
+  overflow: hidden;   /* This is what "crops" the oversized image */
+  display: flex;      /* Use flexbox to easily position the text at the bottom */
+  align-items: flex-end;
 }
 
-
-// The text overlay at the bottom
-.movie-info {
-  position: relative; // Not absolute, just part of the flex flow
-  z-index: 2; // Sits above the gradient overlay
-  padding: 1.5rem;
-  
-  // The text itself
-  h3, p { 
-    margin: 0; 
-    text-shadow: 0 2px 4px rgba(0,0,0,0.7); // Strong text shadow for readability
-  }
-  
-  h3 {
-    margin-bottom: 0.25rem;
-  }
+.movie-poster {
+  display: block;
+  width: 100%; /* Make the image take up the full width of the grid column */
+  height: auto; /* Height adjusts automatically to maintain aspect ratio */
+  transition: transform 0.4s ease;
 }
 
-// Add a gradient overlay for text readability
-// This sits on top of the background image but behind the text.
-.movie-card::before {
-  content: '';
+/* On hover, slightly zoom the centered image */
+.item-card-link:hover .movie-poster {
+  transform: scale(1.05);
+}
+
+/* The gradient overlay that makes text readable */
+.card-gradient-overlay {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 1;
-  // A dark gradient from bottom (where text is) to transparent at the top
-  background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.2) 50%, rgba(0,0,0,0.8) 100%);
-  opacity: 0.8;
+  z-index: 1; /* Sits above the poster, below the text */
+  background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.1) 40%, rgba(0,0,0,0.85) 100%);
+  opacity: 0.9;
   transition: opacity 0.3s ease;
 }
 
-// On hover, make the gradient slightly more prominent
-.item-card-link:hover .movie-card::before {
+.item-card-link:hover .card-gradient-overlay {
   opacity: 1;
 }
 
-// Remove the old movie-poster class, as we no longer need the <img> tag
-.movie-poster {
-  display: none; // Hide the <img> tag completely
+/* The text information block */
+.movie-info {
+  position: absolute;
+  z-index: 2; /* Sits on top of everything else */
+  width: 100%;
+  padding: 1.25rem;
+  color: #fff;
+  
+  h3, p {
+    margin: 0;
+    text-shadow: 0 2px 5px rgba(0,0,0,0.8); /* Strong shadow for readability */
+  }
+  
+  h3 {
+    margin-bottom: 0.25rem;
+  }
 }
