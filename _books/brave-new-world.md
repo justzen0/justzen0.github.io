@@ -2,7 +2,7 @@
 layout: book
 title: "Brave New World"
 author: "Aldous Huxley"
-quote: "A place for my detailed thoughts on this book."
+quote: "'Words can be like X-rays if you use them properly—they’ll go through anything.'"
 image: /assets/img/books/default-book-bg.jpg # Default background image
 ---
 

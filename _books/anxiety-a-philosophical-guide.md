@@ -2,7 +2,7 @@
 layout: book
 title: "Anxiety: A Philosophical Guide"
 author: "Samir Chopra"
-quote: "A place for my detailed thoughts on this book."
+quote: "Anxiety is not a problem to be solved, but a condition to be understood."
 image: /assets/img/books/default-book-bg.jpg # Default background image
 ---
 

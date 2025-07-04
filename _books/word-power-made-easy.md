@@ -2,7 +2,7 @@
 layout: book
 title: "Word Power Made Easy"
 author: "Norman Lewis"
-quote: "A place for my detailed thoughts on this book."
+quote: "A vocabulary is a matter of word-building as well as word-using."
 image: /assets/img/books/default-book-bg.jpg # Default background image
 ---
 

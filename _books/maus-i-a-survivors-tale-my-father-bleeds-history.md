@@ -2,7 +2,7 @@
 layout: book
 title: "Maus, I: A Survivor's Tale: My Father Bleeds History"
 author: "Art Spiegelman"
-quote: "A place for my detailed thoughts on this book."
+quote: "A haunting tale of survival and memory, where the past is drawn in stark relief."
 image: /assets/img/books/default-book-bg.jpg # Default background image
 ---
 

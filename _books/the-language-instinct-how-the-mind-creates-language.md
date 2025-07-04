@@ -2,7 +2,7 @@
 layout: book
 title: "The Language Instinct: How the Mind Creates Language"
 author: "Steven Pinker"
-quote: "A place for my detailed thoughts on this book."
+quote: "The mind is a machine that builds language."
 image: /assets/img/books/default-book-bg.jpg # Default background image
 ---
 
