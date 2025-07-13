@@ -36,6 +36,9 @@ collections:
   movies:
     output: true
     permalink: /movies/:path/
+  vigyan_bhairav_tantra:
+    output: true
+    permalink: /books/vigyan-bhairav-tantra/:title/
 
 
 # Build settings

@@ -576,3 +576,159 @@ html[data-theme='dark'] {
     margin-bottom: 0.25rem;
   }
 }
+
+/* ==========================================================================
+   Vigyan Bhairav Tantra Styles
+   ========================================================================== */
+
+/* --- Index Page Styling --- */
+
+.vbt-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 2rem;
+}
+
+html[data-theme='dark'] .vbt-header {
+  border-bottom-color: #333;
+}
+
+.vbt-header .subtitle {
+  font-size: 1.2rem;
+  color: var(--subtle-gray);
+  margin-top: -1rem;
+}
+
+.meditation-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.meditation-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  color: var(--text-color);
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+html[data-theme='dark'] .meditation-list-item {
+  border-color: #333;
+}
+
+.meditation-list-item:hover {
+  background-color: var(--bg-color); /* Use a subtle background on hover */
+  border-color: var(--accent-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.meditation-list-item .arrow {
+  color: var(--subtle-gray);
+  transition: transform 0.3s ease;
+}
+
+.meditation-list-item:hover .arrow {
+  transform: translateX(5px);
+  color: var(--accent-color);
+}
+
+
+/* --- Individual Meditation Page Typography Fix --- */
+
+/* Target content specifically inside the .post-content container */
+/* This increases specificity and solves the font size issue. */
+
+.post-content h3 {
+  font-size: 1.8rem; /* Ensure H3 is large */
+  font-family: var(--font-heading);
+  color: var(--accent-color);
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
+.post-content h5 {
+  font-size: 1.2rem; /* Ensure H5 is smaller than H3 but larger than P */
+  font-weight: 600; /* Bolder than normal text */
+  text-transform: uppercase; /* A nice stylistic touch for subheadings */
+  letter-spacing: 1px;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+html[data-theme='dark'] .post-content h5 {
+  border-bottom-color: #333;
+}
+
+/* Ensure paragraph text is the default size */
+.post-content p {
+  font-size: 1.1rem; /* Or whatever your base font size is */
+  line-height: 1.8;
+}
+
+.meditation-title-block {
+  display: flex;
+  flex-direction: column; /* Stack the number and method vertically */
+  align-items: flex-start; /* Align them to the left */
+}
+
+/* Style for the "Meditation #" part */
+.meditation-number {
+  font-size: 0.8rem; /* Smaller font size */
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--subtle-gray); /* Use the subtle gray color */
+  margin-bottom: 0.25rem; /* A little space between the two lines */
+}
+
+/* Style for the main method/title part */
+.meditation-method {
+  font-size: 1.1rem; /* The main font size for the title */
+  font-weight: 500;
+  color: var(--text-color); /* Use the main text color */
+}
+
+/* A nice touch: on hover, make the number match the accent color */
+.meditation-list-item:hover .meditation-number {
+  color: var(--accent-color);
+}
+
+.vbt-introduction {
+  margin: 0 auto 3rem auto;
+  padding: 2rem;
+  max-width: 90%;
+  text-align: center;
+  line-height: 1.8;
+  background-color: var(--bg-color); // Or a slightly different shade for contrast
+  border: 1px solid #eee;
+  border-radius: 8px;
+  
+  p {
+    margin-bottom: 1.5rem;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+html[data-theme='dark'] .vbt-introduction {
+  border-color: #333;
+}
+
+.vbt-introduction .source-note {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--subtle-gray);
+  margin-top: 2rem;
+}
