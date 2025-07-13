@@ -732,3 +732,76 @@ html[data-theme='dark'] .vbt-introduction {
   color: var(--subtle-gray);
   margin-top: 2rem;
 }
+
+/* ==========================================================================
+   404 Page Not Found Styles - REVISED
+   ========================================================================== */
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  // Use viewport height to push the footer down, centering the content vertically
+  min-height: calc(100vh - 250px); 
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+.not-found-container .enso-container {
+  margin-bottom: 3rem; // More space after the large logo
+  opacity: 0.6;
+  
+  // Make the logo container significantly larger
+  .site-logo-container {
+    width: 150px;  // Much larger base size
+    height: 150px;
+    // No transform needed, just a larger size
+  }
+}
+
+.not-found-container h1 {
+  font-size: 2.5rem; // Slightly smaller to give the logo more presence
+  margin-bottom: 0.5rem; // Less space before the next line
+  font-weight: 500;
+}
+
+// Style for the "Now, meditate." line
+.not-found-guidance {
+  font-size: 1.5rem;
+  font-family: var(--font-heading); // Use the elegant heading font
+  font-style: italic;
+  color: var(--accent-color); // Use the accent color to make it special
+  margin-top: 0;
+  margin-bottom: 3rem; // More space after this line
+}
+
+// Style for the "The page you seek..." line
+.not-found-message {
+  font-size: 1.1rem;
+  max-width: 450px;
+  line-height: 1.7;
+  color: var(--subtle-gray);
+  margin-bottom: 3rem;
+}
+
+.not-found-links {
+  display: flex;
+  gap: 1rem;
+}
+
+// Optional: A slightly different button style for this page
+.not-found-links .button {
+  border-color: var(--subtle-gray);
+  color: var(--subtle-gray);
+  
+  &:hover {
+    border-color: var(--accent-color);
+    background-color: var(--accent-color);
+    color: #fff;
+  }
+}
+
+html[data-theme='dark'] .not-found-links .button:hover {
+  color: #1a1a1a; // Dark text on the light accent background
+}
