@@ -805,3 +805,17 @@ html[data-theme='dark'] .vbt-introduction {
 html[data-theme='dark'] .not-found-links .button:hover {
   color: #1a1a1a; // Dark text on the light accent background
 }
+
+/* --- In-Content Image Styling --- */
+.post-content img {
+  display: block;      // Makes the image a block element
+  margin: 3rem auto; // Adds vertical space and auto-centers it horizontally
+  max-width: 85%;     // Ensures the image is never wider than the content area
+  height: auto;        // Maintains the image's aspect ratio
+  border-radius: 4px;  // Gives it slightly rounded corners
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1); // A subtle, clean shadow
+}
+
+html[data-theme='dark'] .post-content img {
+  box-shadow: 0 5px 20px rgba(0,0,0,0.3); // A slightly stronger shadow for dark mode
+}
