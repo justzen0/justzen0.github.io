@@ -40,7 +40,21 @@ collections:
     output: true
     permalink: /books/vigyan-bhairav-tantra/:title/
 
+# --- Social Media Links ---
+# Add or remove services as needed.
+# Use the full URL for each link.
+social:
+  - name: Twitter
+    url: /404.html
+  - name: Instagram
+    url: /404.html
+  - name: GitHub
+    url: /404.html
+  - name: Email # A mailto link for direct contact
+    url: /404.html
 
+# --- Site Settings ---
+# These settings control the overall look and feel of your site.
 # Build settings
 # theme: minima
 markdown: kramdown
@@ -69,6 +83,8 @@ plugins:
 #   - vendor/ruby/
 
 
+# Permalinks
+# This is the URL structure for your posts and pages.
 pagination:
   enabled: true
   per_page: 50

@@ -1,3 +1,10 @@
 <footer class="site-footer">
+  <!-- The New Social Links Section -->
+  <div class="social-links">
+    {% for social in site.social %}
+      <a href="{{ social.url }}" target="_blank" rel="noopener noreferrer" title="{{ social.name }}">{{ social.name }}</a>
+    {% endfor %}
+  </div>
+  
   <p>© {{ "now" | date: "%Y" }} {{ site.author }}. Finding peace in simplicity.</p>
 </footer>

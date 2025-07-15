@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: About
 ---
 <div class="meditator-hero">

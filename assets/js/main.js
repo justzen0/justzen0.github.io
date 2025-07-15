@@ -67,5 +67,25 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  const scrollToTopButton = document.getElementById('scroll-to-top');
+
+// Show the button when user scrolls down 200px
+window.onscroll = function() {
+  if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+    scrollToTopButton.style.display = 'block';
+  } else {
+    scrollToTopButton.style.display = 'none';
+  }
+};
+
+// When the button is clicked, scroll to top smoothly
+scrollToTopButton.addEventListener('click', function(e) {
+  e.preventDefault(); // Prevent the link from adding a '#' to the URL
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+});
+
 });
 
