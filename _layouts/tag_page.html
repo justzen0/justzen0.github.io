@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="tag-page-header">
+  <span class="tag-label">Posts tagged with</span>
+  <!-- 
+    THIS IS THE KEY FIX: Use `page.title` which the plugin sets
+    to the name of the tag (e.g., "minimalism", "meditation").
+  -->
+  <h1>"{{ page.title | capitalize }}"</h1>
+</div>
+
+<div class="post-list">
+  <!-- This loop remains correct -->
+  {% for post in page.posts %}
+    <div class="post-item">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+      <p>{{ post.excerpt }}</p>
+    </div>
+  {% endfor %}
+</div>

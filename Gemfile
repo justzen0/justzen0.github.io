@@ -11,6 +11,7 @@ gem "jekyll", "~> 4.4.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 
+gem 'jekyll-archives'
 # If you want to use the latest version of Jekyll, you can use the following line instead:
 # gem "jekyll", "~> 5.0"
 # gem "github-pages", "~> 226" # Use the latest stable version

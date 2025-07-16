@@ -1,0 +1,86 @@
+<div class="related-posts">
+  <h3>Related Posts</h3>
+  <ul>
+    {% assign max_posts = 5 %}
+    {% assign related_posts_count = 0 %}
+    {% for post in site.posts %}
+      {% if post.url == page.url %}
+        {% continue %}
+      {% endif %}
+
+      {% assign has_common_tag = false %}
+      {% for tag in post.tags %}
+        {% if page.tags contains tag %}
+          {% assign has_common_tag = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+
+      {% if has_common_tag %}
+        {% if related_posts_count < max_posts %}
+          <li>
+            <a href="{{ post.url | relative_url }}">
+              <span class="related-title">{{ post.title }}</span>
+              <span class="related-meta">
+                {% for tag in post.tags limit:1 %}
+                  {{ tag | capitalize }}
+                {% endfor %}
+                · {{ post.date | date: "%B %d, %Y" }}
+              </span>
+            </a>
+          </li>
+          {% assign related_posts_count = related_posts_count | plus: 1 %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if related_posts_count == 0 %}
+      <li>No related posts found.</li>
+    {% endif %}
+  </ul>
+</div>
+
+
+<!-- <div class="related-posts">
+  <h3>Related Posts</h3>
+  <ul>
+    {% assign max_related = 3 %}
+    {% assign related_posts_found = 0 %}
+    
+    {% for post in site.posts %}
+      {% if related_posts_found == max_related %}
+        {% break %}
+      {% endif %}
+
+      {% if post.url == page.url %}
+        {% continue %}
+      {% endif %}
+
+      {% assign same_tags_count = 0 %}
+      {% for tag in post.tags %}
+        {% if page.tags contains tag %}
+          {% assign same_tags_count = same_tags_count | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+
+      {% if same_tags_count > 0 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">
+            <span class="related-title">{{ post.title }}</span>
+            <span class="related-meta">
+              {% for tag in post.tags limit:1 %}
+                {{ tag | capitalize }}
+              {% endfor %}
+              · {{ post.date | date: "%B %d, %Y" }}
+            </span>
+          </a>
+        </li>
+        {% assign related_posts_found = related_posts_found | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    
+    {% if related_posts_found == 0 %}
+      <li>No related posts found.</li>
+    {% endif %}
+  </ul>
+</div> -->
