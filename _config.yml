@@ -61,7 +61,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
-  - jekyll-archives
+  # - jekyll-archives
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -99,10 +99,10 @@ pagination:
 
 # Archives
 # This section configures the Jekyll Archives plugin to create archive pages.
-jekyll-archives:
-  enabled:
-    - tags
-  layouts:
-    tag: tag_page # Use the layout we created
-  permalinks:
-    tag: '/tags/:name/'
+# jekyll-archives:
+#   enabled:
+#     - tags
+#   layouts:
+#     tag: tag_page # Use the layout we created
+#   permalinks:
+#     tag: '/tags/:name/'
