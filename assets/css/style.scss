@@ -104,6 +104,20 @@ a:hover {
   color: var(--subtle-gray);
 }
 
+/* --- Text Alignment Utility --- */
+
+.text-center {
+  text-align: center;
+  margin: 0 4rem; // Centering the text block
+}
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
+}
+
+
 // 4. Content Styles (Posts, Lists, etc.)
 .post-meta, .item-meta {
   color: var(--subtle-gray);
@@ -986,4 +1000,50 @@ html[data-theme='dark'] .related-posts li a:hover {
   justify-content: center;
   gap: 0.5rem;
   margin-bottom: 3rem;
+}
+
+/* ==========================================================================
+   Featured Quote Block Style - REFINED & SUBTLE
+   ========================================================================== */
+
+/* This is the default style for any blockquote (>) in a post */
+.post-content blockquote {
+  margin: 2rem 0;
+  padding: 0 0 0 1.5rem; /* Padding only on the left */
+  // border-left: 3px solid var(--subtle-gray);
+  color: var(--subtle-gray);
+  font-style: italic;
+}
+
+/* 
+  This is our special style for quotes marked with {:.featured-quote}.
+  It overrides the default style above.
+*/
+.post-content .featured-quote {
+  border-left: 3px solid var(--accent-color); /* Use the accent color for the border */
+  background-color: var(--bg-color); /* A subtle background to lift it off the page */
+  padding: 1.5rem 2rem; /* Give it some inner spacing */
+  margin: 2.5rem 0; /* Vertical space to separate it from text */
+  border-radius: 4px; /* Softly rounded corners */
+  
+  font-family: var(--font-body); /* Use the main body font for consistency */
+  font-size: 1.1rem; /* Slightly larger than normal text, but not huge */
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.7;
+  color: var(--text-color);
+  
+  /* A very subtle box shadow for depth */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05); 
+}
+
+/* In dark mode, the background should be slightly different from the page bg */
+html[data-theme='dark'] .post-content .featured-quote {
+  background-color: #2a2a2a; /* A slightly lighter dark gray */
+  box-shadow: none;
+}
+
+/* Ensure paragraph inside the quote doesn't have extra bottom margin */
+.post-content .featured-quote p {
+  margin-bottom: 0;
 }
