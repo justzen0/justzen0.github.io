@@ -52,8 +52,6 @@ social:
     url: https://github.com/justzen0/
   - name: Email # A mailto link for direct contact
     url: mailto:justzen.biz@gmail.com # your email address
-  - name: LinkedIn
-    url: /404.html
 
 # --- Site Settings ---
 # These settings control the overall look and feel of your site.
