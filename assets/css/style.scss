@@ -365,7 +365,10 @@ html[data-theme='dark'] .item-card-link:focus .item-card {
 }
 
 .book-hero-overlay {
-  position: relative; /* Sits on top of the image */
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Sits on top of the image */
   z-index: 2;
   padding: 20px;
   color: #ffffff; /* White text for the quote */
