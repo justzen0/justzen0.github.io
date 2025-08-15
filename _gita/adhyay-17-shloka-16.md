@@ -14,4 +14,6 @@ shlokanum: 16
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+And finally, the austerity of the mind.
+Manah-prasadah, a serene, cheerful, gracious state of mind. Saumyatvam, gentleness. Maunam, silence—not just of speech, but a deep inner silence where the chattering of thoughts has ceased. Atma-vinigrahah, self-control. And bhava-sanshuddhir, the purity of your very being, your inner feeling.
+This is the ultimate austerity. It is to create a mind that is a silent, pure, and loving space, a mind that can reflect the divine reality without any distortion.

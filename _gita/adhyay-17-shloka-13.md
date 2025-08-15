@@ -14,4 +14,5 @@ shlokanum: 13
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+And the tamasic sacrifice is one that is performed without any understanding, without the proper rites. No food is shared, no sacred sounds are uttered, no gifts are given. And most importantly, it is shraddha-virahitam, devoid of faith.
+It is a dead ritual, a mechanical act performed out of a dark, unconscious compulsion. It has no life, no love, no spirit in it. Such an action only pulls you deeper into the darkness of ignorance.

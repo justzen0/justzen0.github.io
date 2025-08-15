@@ -14,4 +14,5 @@ shlokanum: 12
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+The rajasic sacrifice is done for a result. It is a transaction. It is done for the sake of show, of dambha. It is a way of feeding the ego.
+The rajasic man may perform great rituals, great acts of charity, but his eyes are always on the reward—whether it be heaven, or fame, or the respect of others. His action is not a pure offering; it is a business deal. And all such action, born of the ego, only strengthens the ego and creates more bondage.

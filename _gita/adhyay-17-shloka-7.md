@@ -14,4 +14,6 @@ shlokanum: 7
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+Your faith is three-fold, and so too is your food. What you eat is not just a physical matter; it is a spiritual one. The food you are drawn to reveals the quality of your own consciousness. And the food you eat, in turn, affects your consciousness. It is a circle.
+And so too, says Krishna, are your sacrifices, your austerities, your acts of giving. All these are colored by the three gunas. A man may give in charity out of pure compassion, or out of a desire for fame, or out of a dull sense of duty. The outer act may be the same, but the inner quality is worlds apart.
+Krishna is giving you a map of your own inner landscape. He is showing you how to become a scientist of your own being, to observe the subtle play of these three qualities in every aspect of your life.

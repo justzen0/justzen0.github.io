@@ -14,4 +14,8 @@ shlokanum: 23
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+Krishna now gives the supreme, triple formula: Om Tat Sat. This is the triple name of the ultimate reality, of Brahman.
+Om is the primordial sound, the uncaused vibration of existence itself. To begin every sacred act with the utterance of Om is to align yourself with the cosmic harmony.
+Tat means "That," pointing to the ultimate, transcendental reality that is beyond all name and form.
+Sat means "the real," "the good," that which truly is.
+These three words contain the entire essence of the spiritual journey. They are not just words, but potent vibrations that can transform your consciousness.

@@ -14,4 +14,6 @@ shlokanum: 5
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+Who is the man of demonic nature? He is one who practices severe austerities, but they are born not of understanding, but of hypocrisy and ego. He is not trying to transform himself; he is trying to prove something to the world.
+He tortures his body, senselessly. And in torturing the body, says Krishna, he tortures Me, who dwells within it.
+This is a profound and compassionate vision. The divine is not separate from your body. The body is the temple. To harm it, to disrespect it, is a sacrilege. The man of demonic resolve is at war with himself. He is violent towards his own body, towards his own being. And in this violence, he is moving further and further away from the divine. True austerity is not a torture, but a skillful art of purifying the body and mind, so they can become a clear channel for the divine music.

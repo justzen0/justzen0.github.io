@@ -14,4 +14,5 @@ shlokanum: 25
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+And with the utterance of Tat, all sacred acts are performed by those who seek liberation, without any desire for the fruit.
+To remember Tat is to remember that the ultimate goal is not some worldly or heavenly reward, but the transcendental reality itself. It is to offer every action to that supreme "That," without any personal motive. This is the path of desireless action, which leads to ultimate freedom.

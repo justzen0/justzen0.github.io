@@ -14,4 +14,6 @@ shlokanum: 14
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+Krishna now defines the three kinds of austerity, tapas. First, the austerity of the body.
+It is not self-torture. It is a reverence for all that is divine—for the gods, for the wise ones, for your own teachers. It is purity, straightforwardness. It is brahmacharya—not just celibacy, but a conscious conservation and transformation of the life-energy. And it is ahimsa, non-violence.
+This is a beautiful, positive vision of austerity. It is to make the body a pure, harmonious, and loving instrument, a temple for the divine to dwell in.

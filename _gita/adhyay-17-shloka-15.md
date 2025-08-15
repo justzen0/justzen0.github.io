@@ -14,4 +14,6 @@ shlokanum: 15
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+Then, the austerity of speech.
+Your words should be such that they do not create agitation in others. They should be truthful. But not just truthful; they should also be pleasant and beneficial. To speak a harsh truth can be a form of violence. The art is to speak the truth with love, with skill, in a way that helps, not hurts.
+And also, the regular study of the scriptures. To be in communion with the words of the awakened ones is a great purification of speech and mind.

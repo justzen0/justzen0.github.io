@@ -14,4 +14,6 @@ shlokanum: 26
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+The word Sat is used for that which is real, that which is good, and that which is auspicious.
+To be steadfast in your spiritual practices is Sat. And all action that is done for the sake of the divine is also Sat.
+Sat is the quality of truth, of reality, of goodness. To bring this quality into every aspect of your life—into your thoughts, your words, your deeds—is to live a life that is in tune with the ultimate reality.

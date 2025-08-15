@@ -14,4 +14,7 @@ shlokanum: 8
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+The sattvic man is drawn to food that promotes life, that is full of juice, of vitality. His food is a celebration of life. It brings health, joy, and a subtle sense of peace.
+The rajasic man is drawn to food that is extreme—too hot, too spicy, too salty. His food is a reflection of his own inner restlessness and passion. Such food creates agitation, excitement, and ultimately, pain and disease. It fuels the fire of his desire.
+And the tamasic man is drawn to food that is stale, tasteless, rotten, impure. He is drawn to that which is dead. His food is a reflection of his own inner inertia and darkness. It pulls him deeper into a state of unconsciousness.
+Look at your plate, my friend. It is a mirror. What you choose to eat is a choice about the kind of consciousness you want to cultivate within yourself. To move towards a sattvic diet is not just a matter of health; it is a step towards a more pure, more luminous, more meditative state of being.

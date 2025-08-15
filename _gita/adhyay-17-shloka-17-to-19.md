@@ -14,4 +14,8 @@ shlokanum: 17
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+Now, Krishna classifies these austerities according to the three gunas.
+The sattvic austerity is that which is practiced with supreme faith, without any desire for the result. It is a pure, devotional offering.
+The rajasic austerity is practiced for the sake of honor, respect, and worship. It is a performance, born of hypocrisy and ego. Its fruits are unstable and fleeting.
+And the tamasic austerity is that which is practiced with a foolish self-will, through torturing oneself, or with the malicious intent of harming another. This is the path of darkness and destruction.
+Look at your own spiritual practices, my friend. Are they born of love? Of ego? Or of a dark, self-destructive urge? The same outer act can be a doorway to heaven or to hell, depending on the inner quality of your consciousness.

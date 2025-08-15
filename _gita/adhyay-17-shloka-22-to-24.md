@@ -19,5 +19,6 @@ But he who casts aside the scriptures and acts according to his own desires atta
 Therefore, let the scripture be your authority.
 What does Krishna mean by shastra, scripture? He is not talking about a dead book. He is talking about the accumulated wisdom of those who have known. The scripture is a map, created by those who have traveled the path. It is foolish to discard the map and try to find your own way in a vast, unknown territory.
 To act according to your own whims, kamakaratah, is to act out of the ignorance of your own unconscious mind. The scripture is the voice of the awakened ones. To listen to their voice, to follow their guidance, is not a form of slavery. It is an act of supreme intelligence. It is to use the light of those who have seen, until you yourself have eyes to see.
+
 My beloved friend, to enter the garden of the Gita is to enter your own innermost being. Let these words not be just a mirror. Look into them, and you may see a reflection of that which is timeless.
 Here is the seventeenth chapter of Gita Darshan. Drink it, don't just read it.

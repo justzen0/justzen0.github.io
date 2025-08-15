@@ -14,4 +14,8 @@ shlokanum: 20
 {:.featured-quote}
 
 ### Osho’s Commentary
-Commentary not found.
+Krishna now speaks of the three kinds of giving.
+The sattvic gift is given with the simple feeling that it is one's duty. It is given to a worthy person, at the right time and place, and to one who can do nothing in return. It is a pure, unconditional sharing.
+The rajasic gift is given with an expectation of a return, whether it be wealth, fame, or favor. It is given grudgingly. It is a business transaction, not a true gift.
+And the tamasic gift is given at the wrong time and place, to an unworthy person, without respect, and with contempt. It is not an act of giving, but a way of insulting, of humiliating the other.
+The art of giving is a great spiritual art. To give with wisdom, with love, and with no expectation of return is to participate in the boundless generosity of existence itself.
