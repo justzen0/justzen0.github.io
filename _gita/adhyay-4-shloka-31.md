@@ -7,7 +7,7 @@ shlokanum: 31
 ---
 
 > यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम्।<br><br>नायं लोकोऽस्त्ययज्ञस्य कुतो़ऽन्यः कुरुसत्तम।।4.31।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Those who partake of the nectar left over after a sacrifice reach the eternal Brahman. This world ceases to exist for one who does not perform sacrifices; what, then, to speak of the other world, O best among the Kurus (Arjuna)!

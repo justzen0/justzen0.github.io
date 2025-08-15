@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > तत्क्षेत्रं यच्च यादृक् च यद्विकारि यतश्च यत्।स च यो यत्प्रभावश्च तत्समासेन मे श्रृणु।।13.4।।<br><br>ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक्।ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्िचतैः।।13.5।।<br><br>महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च।इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः।।13.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Hear from Me in brief about all that, what that field is and how it is; what its changes are, and what causes what effect; and who He is, and what His powers are.<br><br>It has been sung of in various ways by the Rsis, separately by the different branches of Vedic texts, and also by the rational and convincing sentences themselves which are indicative of and lead to Brahman.<br><br>The great elements, egoism, intellect, and the Unmanifest itself; the ten organs and the one, and the five objects of the senses;

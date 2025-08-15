@@ -7,7 +7,7 @@ shlokanum: 16
 ---
 
 > अहं क्रतुरहं यज्ञः स्वधाऽहमहमौषधम्।<br><br>मंत्रोऽहमहमेवाज्यमहमग्निरहं हुतम्।।9.16।।<br><br>पिताऽहमस्य जगतो माता धाता पितामहः।<br><br>वेद्यं पवित्रमोंकार ऋक् साम यजुरेव च।।9.17।।<br><br>गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत्।<br><br>प्रभवः प्रलयः स्थानं निधानं बीजमव्ययम्।।9.18।।<br><br>तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च।<br><br>अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन।।9.19।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > I am the ritual, I am the sacrifice, I am the oblation, I am the medicinal herb, I am the mantra, I am the clarified butter, I am the fire, and I am the act of offering.<br><br>Of this world, I am the father, mother, ordainer, and grandfather; I am the knowable, the sanctifier, the syllable Om, as well as the Rk, Sama, and Yajus.<br><br>I am the fruit of actions, the nourisher, the Lord, witness, abode, refuge, friend, origin, end, foundation, store, and the imperishable seed.<br><br>O Arjuna, I give heat, I withhold and pour down rain; I am verily the nectar, and also death, existence, and non-existence.

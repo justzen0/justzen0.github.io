@@ -7,7 +7,7 @@ shlokanum: 38
 ---
 
 > न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।<br><br>तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति।।4.38।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Indeed, there is nothing purifying here comparable to Knowledge. One who has become perfected over time through yoga, realizes That in their own heart.

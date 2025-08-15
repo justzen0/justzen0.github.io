@@ -7,7 +7,7 @@ shlokanum: 6
 ---
 
 > ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः।अनन्येनैव योगेन मां ध्यायन्त उपासते।।12.6।।<br><br>तेषामहं समुद्धर्ता मृत्युसंसारसागरात्।भवामि नचिरात्पार्थ मय्यावेशितचेतसाम्।।12.7।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > As for those who, having dedicated all actions to Me and accepted Me as the supreme, meditate on Me with single-minded concentration only-.<br><br>O son of Prtha, for those who have their minds absorbed in Me, I become, without delay, the deliverer from the sea of the world, which is fraught with death.

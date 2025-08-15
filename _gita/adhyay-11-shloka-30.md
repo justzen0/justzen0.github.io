@@ -7,7 +7,7 @@ shlokanum: 30
 ---
 
 > लेलिह्यसे ग्रसमानः समन्ता<br><br>ल्लोकान्समग्रान्वदनैर्ज्वलद्भिः।<br><br>तेजोभिरापूर्य जगत्समग्रं<br><br>भासस्तवोग्राः प्रतपन्ति विष्णो।।11.30।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > You lick Your lips as You devour all creatures from every side with flaming mouths that fill the entire world with heat.

@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > यदादित्यगतं तेजो जगद्भासयतेऽखिलम्।यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।।15.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > That light in the sun which illuminates the whole world, that which is in the moon, and that which is in fire—know that light to be Mine.

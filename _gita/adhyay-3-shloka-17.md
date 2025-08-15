@@ -7,7 +7,7 @@ shlokanum: 17
 ---
 
 > यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः।<br><br>आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते।।3.17।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > But that man who rejoices only in the Self, is satisfied with the Self, and is content only in the Self—for him there is no duty to perform.

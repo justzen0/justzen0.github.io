@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > अर्जुन उवाच<br><br>मदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम्।<br><br>यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम।।11.1।।<br><br>भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया।<br><br>त्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम्।।11.2।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "This delusion of mine has departed as a result of that speech which is most secret and pertains to the Self, uttered by You for my benefit."<br><br>O you with eyes like lotus leaves, I have heard in detail from You the origin and dissolution of beings, as well as Your undecaying glory.

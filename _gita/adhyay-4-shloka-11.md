@@ -7,7 +7,7 @@ shlokanum: 11
 ---
 
 > ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्।<br><br>मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः।।4.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > According to the manner in which they approach Me, I favor them in that same manner. O son of Partha, humans follow My path in every way.

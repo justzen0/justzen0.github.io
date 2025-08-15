@@ -7,7 +7,7 @@ shlokanum: 18
 ---
 
 > समः शत्रौ च मित्रे च तथा मानापमानयोः।शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः।।12.18।।<br><br>तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येनकेनचित्।अनिकेतः स्थिरमतिर्भक्ितमान्मे प्रियो नरः।।12.19।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who is the same towards friend and foe, and in honor and dishonor; who is the same under cold, heat, happiness, and sorrow; who is free from attachment to all.<br><br>The person to whom denunciation and praise are the same, who is silent, content with anything, homeless, steadfast-minded, and full of devotion is dear to me.

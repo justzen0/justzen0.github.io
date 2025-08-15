@@ -7,7 +7,7 @@ shlokanum: 22
 ---
 
 > यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सरः।<br><br>समः सिद्धावसिद्धौ च कृत्वापि न निबध्यते।।4.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Remaining satisfied with what comes unasked for, having transcended the dualities, being free from spite, and balanced under success and failure, he is not bound even by performing actions.

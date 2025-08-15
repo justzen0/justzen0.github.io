@@ -7,7 +7,7 @@ shlokanum: 8
 ---
 
 > भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।<br><br>अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च।।1.8।।<br><br>अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।<br><br>नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः।।1.9।।<br><br>अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्।<br><br>पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्।।1.10।।<br><br>अयनेषु च सर्वेषु यथाभागमवस्थिताः।<br><br>भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि।।1.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > (They are): Your venerable self, Bhisma, Karna, and Krpa, who is ever victorious in battle; Asvatthama, Vikarna, Saumadatti, and Jayadratha.<br><br>There are many heroes who have dedicated their lives to me, possessing various kinds of weapons and missiles, all of whom are skilled in battle.<br><br>Therefore, our army, under the complete protection of Bhisma and others, is limitless. But this army of the enemies, under the protection of Bhima and others, is limited.<br><br>However, venerable sirs, all of you without exception, while occupying all the positions in the different directions as allotted to you respectively, please protect Bhisma in particular.

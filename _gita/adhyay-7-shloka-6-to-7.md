@@ -7,7 +7,7 @@ shlokanum: 6
 ---
 
 > एतद्योनीनि भूतानि सर्वाणीत्युपधारय।<br><br>अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा।।7.6।।<br><br>मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय।<br><br>मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव।।7.7।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Understand thus that all things—sentient and insentient—have these as their source. I am the origin as well as the end of the entire universe.<br><br>O Dhananjaya, there is nothing else higher than Myself. All this is strung on Me like pearls on a string.

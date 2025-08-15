@@ -7,7 +7,7 @@ shlokanum: 64
 ---
 
 > सर्वगुह्यतमं भूयः श्रृणु मे परमं वचः।इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम्।।18.64।।<br><br>मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे।।18.65।।<br><br>सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः।।18.66।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Listen again to My highest utterance, which is the most profound of all. Since you are ever dear to Me, I shall speak what is beneficial to you.<br><br>Fix your mind on Me, be devoted to Me, offer sacrifices to Me, and bow down to Me. Thus, you will come to Me alone. I promise you this truth, for you are dear to Me.<br><br>Abandon all forms of rites and duties, and take refuge in Me alone. I will free you from all sins; do not grieve.

@@ -7,7 +7,7 @@ shlokanum: 20
 ---
 
 > प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि।विकारांश्च गुणांश्चैव विद्धि प्रकृतिसंभवान्।।13.20।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Know both Nature and the individual soul to be verily without beginning; know the modifications as well as the qualities to be born of Nature.

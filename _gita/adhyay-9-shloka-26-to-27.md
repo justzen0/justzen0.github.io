@@ -7,7 +7,7 @@ shlokanum: 26
 ---
 
 > पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति।<br><br>तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः।।9.26।।<br><br>यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्।<br><br>यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम्।।9.27।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Whoever offers Me with devotion—a leaf, a flower, a fruit, or water—I accept that gift of the pure-hearted man which has been presented devotionally.<br><br>O son of Kunti, whatever you do, whatever you eat, whatever you offer as a sacrifice, whatever you give, and whatever austerities you undertake—all of that you offer to Me.

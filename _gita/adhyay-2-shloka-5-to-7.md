@@ -7,7 +7,7 @@ shlokanum: 5
 ---
 
 > गुरूनहत्वा हि महानुभावान्<br><br>श्रेयो भोक्तुं भैक्ष्यमपीह लोके।<br><br>हत्वार्थकामांस्तु गुरूनिहैव<br><br>भुञ्जीय भोगान् रुधिरप्रदिग्धान्।।2.5।।<br><br>न चैतद्विद्मः कतरन्नो गरीयो<br><br>यद्वा जयेम यदि वा नो जयेयुः।<br><br>यानेव हत्वा न जिजीविषाम<br><br>स्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः।।2.6।।<br><br>कार्पण्यदोषोपहतस्वभावः<br><br>पृच्छामि त्वां धर्मसंमूढचेताः।<br><br>यच्छ्रेयः स्यान्निश्िचतं ब्रूहि तन्मे<br><br>शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्।।2.7।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Rather than killing the noble-minded elders, it is better in this world to live even on alms. But by killing them, we shall only be enjoying here the pleasures of wealth and desirable things drenched in blood.<br><br>We do not know which is better for us, whether we shall win or they shall conquer us. Those very sons of Dhrtarastra, whom we do not wish to kill, stand in confrontation.<br><br>With my nature overpowered by weak commiseration, my mind bewildered about duty, I supplicate You. Tell me for certain what is better; I am Your disciple, having taken refuge in You. Instruct me.

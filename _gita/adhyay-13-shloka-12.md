@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम्।एतज्ज्ञानमिति प्रोक्तमज्ञानं यदतोन्यथा।।13.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Steadfastness in the knowledge of the Self, contemplation on the Goal of the knowledge of Reality—this is spoken of as Knowledge. Ignorance is that which is other than this.

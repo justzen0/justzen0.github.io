@@ -7,7 +7,7 @@ shlokanum: 22
 ---
 
 > न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन।<br><br>नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि।।3.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > In all the three worlds, O Partha, there is no duty for Me to fulfill; nothing remains unachieved or to be achieved. (Still,) I continue in action.

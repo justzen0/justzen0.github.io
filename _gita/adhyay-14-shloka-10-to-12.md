@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > रजस्तमश्चाभिभूय सत्त्वं भवति भारत।रजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा।।14.10।।<br><br>सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते।ज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत।।14.11।।<br><br>लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा।रजस्येतानि जायन्ते विवृद्धे भरतर्षभ।।14.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O scion of the Bharata dynasty, sattva increases by subduing rajas and tamas; rajas increases by overpowering sattva and tamas; and tamas increases by dominating over sattva and rajas.<br><br>When the illumination of knowledge radiates through all the doors of the senses in this body, then one should know that sattva has greatly increased.<br><br>O best of the Bharata dynasty, when rajas becomes predominant, these come into being: avarice, restlessness, undertaking of actions, agitation, and craving.

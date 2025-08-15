@@ -7,7 +7,7 @@ shlokanum: 46
 ---
 
 > किरीटिनं गदिनं चक्रहस्त<br><br>मिच्छामि त्वां द्रष्टुमहं तथैव।<br><br>तेनैव रूपेण चतुर्भुजेन<br><br>सहस्रबाहो भव विश्वमूर्ते।।11.46।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > I want to see You just as before, wearing a crown, wielding a mace, and holding a disc in hand. O You with a thousand arms, O You of Cosmic form, appear with that very form with four hands.

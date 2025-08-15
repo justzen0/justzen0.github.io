@@ -7,7 +7,7 @@ shlokanum: 22
 ---
 
 > वासांसि जीर्णानि यथा विहाय<br><br>नवानि गृह्णाति नरोऽपराणि।<br><br>तथा शरीराणि विहाय जीर्णा<br><br>न्यन्यानि संयाति नवानि देही।।2.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > As after rejecting worn-out clothes, a man takes up other new ones, likewise, after rejecting worn-out bodies, the embodied one unites with other new ones.

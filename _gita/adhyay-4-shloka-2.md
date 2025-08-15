@@ -7,7 +7,7 @@ shlokanum: 2
 ---
 
 > एवं परम्पराप्राप्तमिमं राजर्षयो विदुः।<br><br>स कालेनेह महता योगो नष्टः परन्तप।।4.2।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The king-sages knew this yoga, which was received in regular succession. That yoga, O destroyer of foes, is now lost due to a long lapse of time.

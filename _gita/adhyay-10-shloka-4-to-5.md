@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > बुद्धिर्ज्ञानमसंमोहः क्षमा सत्यं दमः शमः।<br><br>सुखं दुःखं भवोऽभावो भयं चाभयमेव च।।10.4।।<br><br>अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः।<br><br>भवन्ति भावा भूतानां मत्त एव पृथग्विधाः।।10.5।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Intelligence, wisdom, non-delusion, forgiveness, truth, control of the external organs, control of the internal organs, happiness, sorrow, birth, death, and fearlessness;<br><br>Non-injury, equanimity, satisfaction, austerity, charity, fame, and infamy—these different dispositions of beings spring from Me alone.

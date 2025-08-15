@@ -7,7 +7,7 @@ shlokanum: 36
 ---
 
 > अर्जुन उवाच<br><br>अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः।<br><br>अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः।।3.36।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "Now then, O scion of the Vrsni dynasty (Krsna), what compels this man to commit sin even against his will, as if he were constrained by force?"

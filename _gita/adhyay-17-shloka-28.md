@@ -6,12 +6,11 @@ adhyay_title: Śhraddhā Traya Vibhāg Yog
 shlokanum: 28
 ---
 
-> अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् ।    
-असदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ॥17.28॥
-{:.featured-quote} 
+> अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत्।असदित्युच्यते पार्थ न च तत्प्रेत्य नो इह।।17.28।।
+{:.featured-quote}
 {:.text-center}
 
-> Whatever is sacrificed, given, or performed, and whatever austerity is practiced, without faith, it is called "Asat," O Partha. It is of no account here or hereafter.
+> O son of Prtha, whatever is offered in sacrifice and given in charity, as also whatever austerity is undertaken or whatever is done without faith, is said to be of no avail. And it is of no consequence after death, nor here.
 {:.featured-quote}
 
 ### Osho’s Commentary

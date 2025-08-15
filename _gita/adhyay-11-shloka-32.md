@@ -7,7 +7,7 @@ shlokanum: 32
 ---
 
 > श्री भगवानुवाच<br><br>कालोऽस्मि लोकक्षयकृत्प्रवृद्धो<br><br>लोकान्समाहर्तुमिह प्रवृत्तः।<br><br>ऋतेऽपि त्वां न भविष्यन्ति सर्वे<br><br>येऽवस्थिताः प्रत्यनीकेषु योधाः।।11.32।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "I am the world-destroying Time, grown in stature and now engaged in annihilating the creatures. Even without you, all the warriors arrayed in the confronting armies will cease to exist!"

@@ -7,7 +7,7 @@ shlokanum: 24
 ---
 
 > सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः।<br><br>मनसैवेन्द्रियग्रामं विनियम्य समन्ततः।।6.24।।<br><br>शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया।<br><br>आत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत्।।6.25।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > By totally eschewing all desires that arise from thoughts and restraining all the organs with the mind from every side;<br><br>One should gradually withdraw with the intellect, endowed with steadiness. Making the mind fixed in the Self, one should not think of anything at all.

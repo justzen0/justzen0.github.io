@@ -7,7 +7,7 @@ shlokanum: 20
 ---
 
 > दातव्यमिति यद्दानं दीयतेऽनुपकारिणे।देशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम्।।17.20।।<br><br>यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः।दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम्।।17.21।।<br><br>अदेशकाले यद्दानमपात्रेभ्यश्च दीयते।असत्कृतमवज्ञातं तत्तामसमुदाहृतम्।।17.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > That gift is referred to as born of sattva which is given with the idea that it should be given, to one who will not serve in return, at the right place, right time, and to the right person.<br><br>But the gift which is given expecting reciprocation, or with a desire for its result, and grudgingly, is considered to be born of rajas.<br><br>The gift which is made at an inappropriate place and time, and to undeserving persons, without proper respect and with disdain, is declared to be born of tamas.

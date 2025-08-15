@@ -7,7 +7,7 @@ shlokanum: 45
 ---
 
 > प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः।<br><br>अनेकजन्मसंसिद्धस्ततो याति परां गतिम्।।6.45।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > However, the yogi, applying himself assiduously, becoming purified from sin and attaining perfection through many births, they achieve the highest Goal.

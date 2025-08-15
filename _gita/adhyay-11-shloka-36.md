@@ -7,7 +7,7 @@ shlokanum: 36
 ---
 
 > अर्जुन उवाच<br><br>स्थाने हृषीकेश तव प्रकीर्त्या<br><br>जगत् प्रहृष्यत्यनुरज्यते च।<br><br>रक्षांसि भीतानि दिशो द्रवन्ति<br><br>सर्वे नमस्यन्ति च सिद्धसङ्घाः।।11.36।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "O Hrsikesa, it is proper that the world be delighted and attracted by Your praise; that the Raksasas, stricken with fear, run in all directions; and that all the groups of the Siddhas bow down to You."

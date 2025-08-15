@@ -7,7 +7,7 @@ shlokanum: 24
 ---
 
 > ब्रह्मार्पणं ब्रह्महविर्ब्रह्माग्नौ ब्रह्मणा हुतम्।<br><br>ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना।।4.24।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The ladle is Brahman, the oblations are Brahman, and the offering is poured by Brahman into the fire of Brahman. He who has concentration on Brahman as the objective can only reach Brahman.

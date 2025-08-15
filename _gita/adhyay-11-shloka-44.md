@@ -7,7 +7,7 @@ shlokanum: 44
 ---
 
 > तस्मात्प्रणम्य प्रणिधाय कायं<br><br>प्रसादये त्वामहमीशमीड्यम्।<br><br>पितेव पुत्रस्य सखेव सख्युः<br><br>प्रियः प्रियायार्हसि देव सोढुम्।।11.44।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Therefore, by bowing down and prostrating my body, I seek to propitiate You who are God and are adorable. O Lord, You should forgive my faults as a father would forgive the faults of a son, as a friend would forgive the faults of a friend, and as a lover would forgive the faults of a beloved.

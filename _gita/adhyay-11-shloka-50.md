@@ -7,7 +7,7 @@ shlokanum: 50
 ---
 
 > सञ्जय उवाच<br><br>इत्यर्जुनं वासुदेवस्तथोक्त्वा<br><br>स्वकं रूपं दर्शयामास भूयः।<br><br>आश्वासयामास च भीतमेनं<br><br>भूत्वा पुनः सौम्यवपुर्महात्मा।।11.50।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Sanjaya said, Thus, having spoken to Arjuna in that manner, Vasudeva showed His own form again. And He, the exalted One, reassured this terrified one by again becoming serene in his form.

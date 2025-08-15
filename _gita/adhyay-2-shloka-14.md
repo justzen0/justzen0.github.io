@@ -7,7 +7,7 @@ shlokanum: 14
 ---
 
 > मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।<br><br>आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।2.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > But the contacts of the organs with the objects are the producers of cold and heat, happiness, and sorrow. They have a beginning and an end and are transient. Bear them, O descendant of Bharata.

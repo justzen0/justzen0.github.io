@@ -7,7 +7,7 @@ shlokanum: 5
 ---
 
 > यत्सांख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते।<br><br>एकं सांख्यं च योगं च यः पश्यति स पश्यति।।5.5।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The state that is reached by the Sankhyas, and that is also reached by the yogis, is seen by one who sees Sankhya and yoga as one.

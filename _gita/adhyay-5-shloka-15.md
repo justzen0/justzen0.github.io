@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः।<br><br>अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः।।5.15।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Omnipresent neither accepts anyone's sin nor even virtue; knowledge remains covered by ignorance, thus the creatures become deluded.

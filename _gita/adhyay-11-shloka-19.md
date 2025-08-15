@@ -7,7 +7,7 @@ shlokanum: 19
 ---
 
 > अनादिमध्यान्तमनन्तवीर्य<br><br>मनन्तबाहुं शशिसूर्यनेत्रम्।<br><br>पश्यामि त्वां दीप्तहुताशवक्त्रम्<br><br>स्वतेजसा विश्वमिदं तपन्तम्।।11.19।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > I see You as having no beginning, middle, or end, possessing infinite valor, with innumerable arms, the sun and moon as eyes, a mouth like a blazing fire, and heating up this universe with Your own brilliance.

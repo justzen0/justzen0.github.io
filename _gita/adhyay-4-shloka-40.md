@@ -7,7 +7,7 @@ shlokanum: 40
 ---
 
 > अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति।<br><br>नायं लोकोऽस्ति न परो न सुखं संशयात्मनः।।4.40।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One who is ignorant and faithless, and has a doubting mind, perishes. Neither this world nor the next, nor happiness, exists for one who has a doubting mind.

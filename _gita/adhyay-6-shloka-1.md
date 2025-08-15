@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > श्री भगवानुवाच<br><br>अनाश्रितः कर्मफलं कार्यं कर्म करोति यः।<br><br>स संन्यासी च योगी च न निरग्निर्न चाक्रियः।।6.1।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "He who performs an action which is his duty, without depending on the result of the action, is a monk and a yogi; not so in he who does not keep afire and is actionless."

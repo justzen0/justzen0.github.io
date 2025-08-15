@@ -7,7 +7,7 @@ shlokanum: 2
 ---
 
 > व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे।<br><br>तदेकं वद निश्िचत्य येन श्रेयोऽहमाप्नुयाम्।।3.2।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > You bewilder my understanding, as it were, with a seemingly conflicting statement! Tell me for certain which one of these I may use to attain the highest Good.

@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > श्री भगवानुवाच<br><br>मय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः।<br><br>असंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु।।7.1।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "O Partha, hear how, with your mind fixed on Me, practicing the Yoga of Meditation and taking refuge in Me, you will certainly and fully know Me.

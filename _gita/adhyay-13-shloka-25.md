@@ -7,7 +7,7 @@ shlokanum: 25
 ---
 
 > ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना।अन्ये सांख्येन योगेन कर्मयोगेन चापरे।।13.25।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Some realize the Self in their intellect through meditation, others through Sankhya-Yoga, and still others through Karma-Yoga, with the help of the internal organ.

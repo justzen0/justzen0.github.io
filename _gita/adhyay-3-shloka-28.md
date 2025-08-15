@@ -7,7 +7,7 @@ shlokanum: 28
 ---
 
 > तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः।<br><br>गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते।।3.28।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > But, O mighty-armed one, the one who is a knower of the facts about the varieties of the gunas and actions does not become attached, thinking thus: 'The organs act on the objects of the organs.'

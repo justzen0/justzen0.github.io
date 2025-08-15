@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च।अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम्।।16.4।।<br><br>दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता।मा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव।।16.5।।<br><br>द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च।दैवो विस्तरशः प्रोक्त आसुरं पार्थ मे श्रृणु।।16.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O son of Prtha, the attributes of one destined to have the demoniacal nature are religious ostentation, pride, haughtiness, self-conceit, anger, rudeness, and ignorance.<br><br>The divine nature is Liberation, while the demoniacal is considered to be an inevitable bondage. Do not grieve, O son of Pandu! You are destined to possess the divine nature.<br><br>In this world, there are two kinds of creation of beings: the divine and the demoniacal. The divine has been spoken of elaborately. Hear about the demoniacal from Me, O son of Prtha.

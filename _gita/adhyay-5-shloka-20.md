@@ -7,7 +7,7 @@ shlokanum: 20
 ---
 
 > न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम्।<br><br>स्थिरबुद्धिरसम्मूढो ब्रह्मविद्ब्रह्मणि स्थितः।।5.20।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > A knower of Brahman, who is established in Brahman, should have their intellect steady and should not be deluded. They should not get delighted by getting what is desirable, nor become dejected by getting what is undesirable.

@@ -7,7 +7,7 @@ shlokanum: 19
 ---
 
 > बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते।<br><br>वासुदेवः सर्वमिति स महात्मा सुदुर्लभः।।7.19।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > At the end of many births, the man of knowledge attains Me, realizing that Vasudeva is all. Such a high-souled one is very rare.

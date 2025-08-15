@@ -7,7 +7,7 @@ shlokanum: 23
 ---
 
 > रूपं महत्ते बहुवक्त्रनेत्रं<br><br>महाबाहो बहुबाहूरुपादम्।<br><br>बहूदरं बहुदंष्ट्राकरालं<br><br>दृष्ट्वा लोकाः प्रव्यथितास्तथाऽहम्।।11.23।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Mighty-Armed One, seeing Your immense form with many mouths, eyes, arms, thighs, feet, bellies, and teeth, the creatures are struck with terror, and so am I.

@@ -7,7 +7,7 @@ shlokanum: 40
 ---
 
 > इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते।<br><br>एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम्।।3.40।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The organs, mind, and intellect are said to be its abode. This one diversely deludes the embodied being, veiling Knowledge with the help of these.

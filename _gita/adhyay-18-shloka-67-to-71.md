@@ -7,7 +7,7 @@ shlokanum: 67
 ---
 
 > इदं ते नातपस्काय नाभक्ताय कदाचन।न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति।।18.67।।<br><br>य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति।भक्ितं मयि परां कृत्वा मामेवैष्यत्यसंशयः।।18.68।।<br><br>न च तस्मान्मनुष्येषु कश्िचन्मे प्रियकृत्तमः।भविता न च मे तस्मादन्यः प्रियतरो भुवि।।18.69।।<br><br>अध्येष्यते च य इमं धर्म्यं संवादमावयोः।ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः।।18.70।।<br><br>श्रद्धावाननसूयश्च श्रृणुयादपि यो नरः।सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्।।18.71।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > This (that I have taught) should never be taught to one who is devoid of austerities, one who is not a devotee, one who does not render service, or one who cavils at Me.<br><br>He who, entertaining supreme devotion to Me, speaks of this highest secret to My devotees, will without doubt reach Me alone.<br><br>And compared to him, no other human is better at accomplishing what is dear to Me. Furthermore, there will be no one else in the world dearer to Me than him.<br><br>And he who will study this sacred conversation between us two, which is conducive to virtue, by him I shall be adored through the Sacrifice of Knowledge. This is My judgment.<br><br>Any man who, being reverent and free from caviling, listens to this (teaching) with reverence, he too, becoming free, shall attain the blessed worlds of those who perform virtuous deeds.

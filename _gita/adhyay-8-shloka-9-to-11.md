@@ -7,7 +7,7 @@ shlokanum: 9
 ---
 
 > कविं पुराणमनुशासितार<br><br>मणोरणीयांसमनुस्मरेद्यः।<br><br>सर्वस्य धातारमचिन्त्यरूप<br><br>मादित्यवर्णं तमसः परस्तात्।।8.9।।<br><br>प्रयाणकाले मनसाऽचलेन<br><br>भक्त्या युक्तो योगबलेन चैव।<br><br>भ्रुवोर्मध्ये प्राणमावेश्य सम्यक्<br><br>स तं परं पुरुषमुपैति दिव्यम्।।8.10।।<br><br>यदक्षरं वेदविदो वदन्ति<br><br>विशन्ति यद्यतयो वीतरागाः।<br><br>यदिच्छन्तो ब्रह्मचर्यं चरन्ति<br><br>तत्ते पदं संग्रहेण प्रवक्ष्ये।।8.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who meditates on the Omniscient, the Ancient, the Ruler, subtler than the subtle, the Ordainer of everything, of inconceivable form, effulgent like the sun, and beyond darkness—he attains the Supreme Person.<br><br>At the time of death, having fully fixed the Prana (vital force) between the eyebrows with an unwavering mind, and being imbued with devotion as well as the strength of concentration, he reaches that resplendent Supreme Person.<br><br>I will briefly tell you about that immutable Goal which the knowers of the Vedas declare; those who are diligent, free from attachment, and aspire for it, enter into it. People practice celibacy for it.

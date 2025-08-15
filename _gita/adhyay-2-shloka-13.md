@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।<br><br>तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।2.13।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > As boyhood, youth, and decrepitude are to an embodied being in this present body, so is the acquisition of another body. Therefore, an intelligent person does not get deluded.

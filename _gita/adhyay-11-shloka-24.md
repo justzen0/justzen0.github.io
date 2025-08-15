@@ -7,7 +7,7 @@ shlokanum: 24
 ---
 
 > नभःस्पृशं दीप्तमनेकवर्णं<br><br>व्यात्ताननं दीप्तविशालनेत्रम्।<br><br>दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा<br><br>धृतिं न विन्दामि शमं च विष्णो।।11.24।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Vishnu, indeed, upon seeing Your form touching the heavens, blazing with many colors, open-mouthed, with fiery, large eyes, I become terrified in my mind and do not find steadiness and peace.

@@ -7,7 +7,7 @@ shlokanum: 14
 ---
 
 > दैवी ह्येषा गुणमयी मम माया दुरत्यया।<br><br>मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते।।7.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Since this divine Maya of Mine, which is constituted by the gunas, is difficult to cross over, those who take refuge in Me alone can transcend this Maya.

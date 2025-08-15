@@ -7,7 +7,7 @@ shlokanum: 31
 ---
 
 > निमित्तानि च पश्यामि विपरीतानि केशव।<br><br>न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे।।1.31।।<br><br>न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च।<br><br>किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा।।1.32।।<br><br>येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च।<br><br>त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च।।1.33।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Besides, I do not see any good to be derived from killing my own people in battle. O Krsna, I do not hanker after victory, nor even a kingdom, nor pleasures.<br><br>O Govinda! What need do we have of a kingdom, or what need of enjoyments and livelihood? Those for whom kingdom, enjoyments, and pleasures are desired by us—such as teachers, uncles, fathers-in-law, grandsons, brothers-in-law, as well as relatives—those very ones stand arrayed for battle, risking their lives and wealth.<br><br>- O Govinda! What need do we have of a kingdom, or what need of enjoyments and livelihood? Those for whom kingdom, enjoyments, and pleasures are desired by us—such as teachers, uncles, fathers-in-law, grandsons, brothers-in-law, as well as relatives—those very ones stand arrayed for battle, risking their lives and wealth.

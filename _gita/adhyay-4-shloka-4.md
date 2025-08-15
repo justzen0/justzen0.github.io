@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > अर्जुन उवाच<br><br>अपरं भवतो जन्म परं जन्म विवस्वतः।<br><br>कथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति।।4.4।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "Your birth was later, whereas Vivasvan's birth was earlier. How am I to understand that You instructed him in the beginning?"

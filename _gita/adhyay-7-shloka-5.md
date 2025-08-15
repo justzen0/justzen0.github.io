@@ -7,7 +7,7 @@ shlokanum: 5
 ---
 
 > अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम्।<br><br>जीवभूतां महाबाहो ययेदं धार्यते जगत्।।7.5।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O mighty-armed one, this is the inferior Prakrti. Know the other Prakrti of Mine, which is however higher than this, which has taken the form of individual souls, and by which this world is upheld.

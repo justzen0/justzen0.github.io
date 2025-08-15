@@ -7,7 +7,7 @@ shlokanum: 33
 ---
 
 > अथ चैत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि।<br><br>ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि।।2.33।।<br><br>अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम्।<br><br>संभावितस्य चाकीर्तिर्मरणादतिरिच्यते।।2.34।।<br><br>भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः।<br><br>येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्।।2.35।।<br><br>अवाच्यवादांश्च बहून् वदिष्यन्ति तवाहिताः।<br><br>निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्।।2.36।।<br><br>हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम्।<br><br>तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः।।2.37।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > On the other hand, if you do not fight this righteous battle, then you will incur sin, forsaking your own duty and fame.<br><br>People also will speak of your unending infamy, and to an honored person, infamy is worse than death.<br><br>The great chariot-riders will think of you as having desisted from the fight out of fear, and you will fall into disgrace before them whom you had been estimable to.<br><br>And your enemies will speak many indecent words while denigrating your power. What can be more painful than that?<br><br>Either by being killed, you will attain heaven, or by winning, you will enjoy the earth. Therefore, O Arjuna, rise up with determination to fight.

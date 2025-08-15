@@ -7,7 +7,7 @@ shlokanum: 30
 ---
 
 > प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः।यः पश्यति तथाऽऽत्मानमकर्तारं स पश्यति।।13.30।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > And he who sees actions being done in various ways by Nature itself, and also the Self as the non-agent, he sees.

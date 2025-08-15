@@ -7,7 +7,7 @@ shlokanum: 26
 ---
 
 > कामक्रोधवियुक्तानां यतीनां यतचेतसाम्।<br><br>अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम्।।5.26।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > To those monks who have control over their internal organs, who are free from desire and anger, who have known the Self, there is absorption into Brahman either way.

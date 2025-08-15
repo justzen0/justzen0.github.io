@@ -7,7 +7,7 @@ shlokanum: 3
 ---
 
 > ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति।<br><br>निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते।।5.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who neither hates nor craves should be known as a man of constant renunciation.

@@ -7,7 +7,7 @@ shlokanum: 36
 ---
 
 > अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः।<br><br>सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि।।4.36।।<br><br>यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन।<br><br>ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा।।4.37।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Even if you are the worst sinner among all sinners, you can still cross over all wickedness with the raft of Knowledge alone.<br><br>O Arjuna, just as a blazing fire reduces wood to ashes, similarly the fire of Knowledge reduces all actions to ashes.

@@ -7,7 +7,7 @@ shlokanum: 54
 ---
 
 > भक्त्या त्वनन्यया शक्यमहमेवंविधोऽर्जुन।<br><br>ज्ञातुं दृष्टुं च तत्त्वेन प्रवेष्टुं च परंतप।।11.54।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > But, O Arjuna, by single-minded devotion am I, in this form, able to be known and seen in reality, and also entered into, O destroyer of foes.

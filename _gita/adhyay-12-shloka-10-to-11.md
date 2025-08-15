@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव।मदर्थमपि कर्माणि कुर्वन् सिद्धिमवाप्स्यसि।।12.10।।<br><br>अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः।सर्वकर्मफलत्यागं ततः कुरु यतात्मवान्।।12.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > If you are unable even to practice, be intent on works for Me. By undertaking works for Me as well, you will attain perfection. [Identify with Brahman.]<br><br>If you are unable to do even this, then resort to the Yoga for Me and afterwards, control your mind and renounce the results of all your works.

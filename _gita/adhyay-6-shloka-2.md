@@ -7,7 +7,7 @@ shlokanum: 2
 ---
 
 > यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव।<br><br>न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन।।6.2।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > That which they call monasticism, know that to be Yoga, O Pandava, for nobody who has not given up expectations can be a yogi.

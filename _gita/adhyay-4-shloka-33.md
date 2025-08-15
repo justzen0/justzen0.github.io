@@ -7,7 +7,7 @@ shlokanum: 33
 ---
 
 > श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप।<br><br>सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते।।4.33।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O destroyer of enemies, knowledge considered as a sacrifice is greater than sacrifices requiring materials. O son of Prtha, all actions in their totality culminate in knowledge.

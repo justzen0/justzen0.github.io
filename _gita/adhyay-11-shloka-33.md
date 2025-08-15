@@ -7,7 +7,7 @@ shlokanum: 33
 ---
 
 > तस्मात्त्वमुत्तिष्ठ यशो लभस्व<br><br>जित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम्।<br><br>मयैवैते निहताः पूर्वमेव<br><br>निमित्तमात्रं भव सव्यसाचिन्।।11.33।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Therefore, rise up and gain fame; and, defeating the enemies, enjoy a prosperous kingdom. These have been killed by Me even earlier; be you merely an instrument, O Savyasacin (Arjuna).

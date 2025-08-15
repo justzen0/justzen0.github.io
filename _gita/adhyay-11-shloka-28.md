@@ -7,7 +7,7 @@ shlokanum: 28
 ---
 
 > यथा नदीनां बहवोऽम्बुवेगाः<br><br>समुद्रमेवाभिमुखाः द्रवन्ति।<br><br>तथा तवामी नरलोकवीरा<br><br>विशन्ति वक्त्राण्यभिविज्वलन्ति।।11.28।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > As the numerous currents of the waters of rivers rush towards the sea alone, so too do those heroes of the human world enter into Your blazing mouths.

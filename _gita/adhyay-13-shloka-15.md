@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम्।असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च।।13.15।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Shining through the functions of all the organs, yet devoid of all the organs; unattached, and verily the supporter of all; without quality, and the perceiver of qualities.

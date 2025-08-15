@@ -7,7 +7,7 @@ shlokanum: 24
 ---
 
 > योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः।<br><br>स योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति।।5.24।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One who is content within, whose pleasure is within, and whose light is only within, that yogi, having become Brahman, attains absorption into Brahman.

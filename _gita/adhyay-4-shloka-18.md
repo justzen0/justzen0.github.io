@@ -7,7 +7,7 @@ shlokanum: 18
 ---
 
 > कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः।<br><br>स बुद्धिमान् मनुष्येषु स युक्तः कृत्स्नकर्मकृत्।।4.18।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who finds inaction in action, and action in inaction, is the wise one [possessed of the knowledge of Brahman] among men; they are engaged in yoga and are performers of all actions!

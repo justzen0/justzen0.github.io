@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च।<br><br>अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा।।7.4।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > This Prakrti of Mine is divided eightfold thus: earth, water, fire, air, space, mind, intellect, and egoism.

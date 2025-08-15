@@ -7,7 +7,7 @@ shlokanum: 21
 ---
 
 > अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम्।<br><br>यं प्राप्य न निवर्तन्ते तद्धाम परमं मम।।8.21।।<br><br>पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया।<br><br>यस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम्।।8.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > They call Him who has been mentioned as the Unmanifested, the Immutable, the supreme Goal. That is the supreme abode of Mine, from which they do not return once they reach it.<br><br>O son of Prtha, that supreme Person—in whom all beings are included and by whom all this is pervaded—is, indeed, reached through one-pointed devotion.

@@ -7,7 +7,7 @@ shlokanum: 14
 ---
 
 > न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा।<br><br>इति मां योऽभिजानाति कर्मभिर्न स बध्यते।।4.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Actions do not taint Me; for I have no hankering for the results of actions. One who knows Me thus, does not become bound by their actions.

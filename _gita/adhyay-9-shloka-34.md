@@ -1,16 +1,16 @@
 ---
 layout: gita_shloka
 title: 34
-category: adhyay-10
-adhyay_title: Vibhūti Yog
+category: adhyay-9
+adhyay_title: Rāja Vidyā Yog
 shlokanum: 34
 ---
 
-> मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम्।<br><br>कीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा।।10.34।।
-{:.featured-quote} 
+> मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।<br><br>मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः।।9.34।।
+{:.featured-quote}
 {:.text-center}
 
-> And I am Death, the destroyer of all; and the bestower of prosperity to those destined to be prosperous. Of the feminine [Narinam may mean 'of the feminine qualities'. According to Sridhara Swami and S., the words fame etc. signify the goddesses of the respective qualities. According to M.S. these seven goddesses are the wives of the god Dharma.-Tr.] (I am) fame, beauty, speech, memory, intelligence, fortitude, and forbearance.
+> Having your mind fixed on Me, be devoted to Me, sacrifice to Me, and bow down to Me. By concentrating your mind and accepting Me as the supreme goal, you shall surely attain Me, who am thus the Self.
 {:.featured-quote}
 
 ### Osho’s Commentary
@@ -20,38 +20,3 @@ Madbhakto—Become my devotee. Let your heart be so filled with love for me that
 Madyaji—Sacrifice to me. Let your every action be an offering to me, a sacrifice at my feet.
 Mam namaskuru—Bow down to me. Let your ego be completely surrendered. Let there be a total bowing down of your being before the divine.
 When these four are fulfilled—when your mind, your heart, your actions, and your very ego are all offered to the divine—then, having me as your supreme goal, you will surely come to me. This is not a promise for a future life. In that very moment of total surrender, the union happens. The seeker disappears, and only the divine remains.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Of course. Here is the tenth chapter of Gita Darshan, with each shloka and its commentary summarized in the voice of Osho.

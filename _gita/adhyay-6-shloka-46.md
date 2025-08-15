@@ -7,7 +7,7 @@ shlokanum: 46
 ---
 
 > तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः।<br><br>कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन।।6.46।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > A yogi is higher than those of austerity; they are considered higher even than those of knowledge. The yogi is also higher than those of action. Therefore, O Arjuna, become a yogi.

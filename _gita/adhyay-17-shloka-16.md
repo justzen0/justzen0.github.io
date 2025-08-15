@@ -7,7 +7,7 @@ shlokanum: 16
 ---
 
 > मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः।भावसंशुद्धिरित्येतत्तपो मानसमुच्यते।।17.16।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Tranquility of mind, gentleness, reticence, withdrawal of the mind, purity of heart—these are what are called mental austerities.

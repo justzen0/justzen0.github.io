@@ -7,7 +7,7 @@ shlokanum: 29
 ---
 
 > समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम्।न हिनस्त्यात्मनाऽऽत्मानं ततो याति परां गतिम्।।13.29।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Since, by truly seeing God, who is present everywhere alike, he does not injure the Self by the Self, he therefore attains the supreme Goal.

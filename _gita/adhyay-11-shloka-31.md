@@ -7,7 +7,7 @@ shlokanum: 31
 ---
 
 > आख्याहि मे को भवानुग्ररूपो<br><br>नमोऽस्तु ते देववर प्रसीद।<br><br>विज्ञातुमिच्छामि भवन्तमाद्यं<br><br>न हि प्रजानामि तव प्रवृत्तिम्।।11.31।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Tell me who You are, fierce in form. Salutations to You, O Supreme God; be gracious. I desire to fully know You, who are the Prime One. For I do not understand Your actions!

@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > वीतरागभयक्रोधा मन्मया मामुपाश्रिताः।<br><br>बहवो ज्ञानतपसा पूता मद्भावमागताः।।4.10।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Many who were devoid of attachment, fear, and anger, who were absorbed in Me, who had taken refuge in Me, and were purified by the austerity of knowledge, have attained My state.

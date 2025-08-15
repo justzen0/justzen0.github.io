@@ -7,7 +7,7 @@ shlokanum: 26
 ---
 
 > अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः।<br><br>गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः।।10.26।।<br><br>उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम्।<br><br>ऐरावतं गजेन्द्राणां नराणां च नराधिपम्।।10.27।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Among all trees, I am the Ashvattha tree, and among divine sages, Narada. Among the Gandharvas, I am Citraratha; among the perfected ones, I am the sage Kapila.<br><br>Among horses, know Me to be Uccaihsravas, born from nectar; Airavata among the lordly elephants; and among men, the King of men. [Uccaihsravas and Airavata are respectively the divine horse and elephant of Indra.]

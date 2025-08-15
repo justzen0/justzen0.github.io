@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।निर्ममो निरहङ्कारः समदुःखसुखः क्षमी।।12.13।।<br><br>सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः।मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः।।12.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who is not hateful towards any creature, who is friendly and compassionate, who has no concept of 'mine' and no sense of egoism, who remains the same in sorrow and happiness, and who is forgiving;<br><br>He who is ever content, who is a yogi, who has self-control, who has firm conviction, and who has dedicated his mind and intellect to Me—he who is such a devotee of Mine is dear to Me.

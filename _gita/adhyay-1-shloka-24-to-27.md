@@ -7,7 +7,7 @@ shlokanum: 24
 ---
 
 > संजय उवाच<br><br>एवमुक्तो हृषीकेशो गुडाकेशेन भारत।<br><br>सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्।।1.24।।<br><br>भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्।<br><br>उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति।।1.25।।<br><br>तत्रापश्यत्स्थितान्पार्थः पितृ़नथ पितामहान्।<br><br>आचार्यान्मातुलान्भ्रातृ़न्पुत्रान्पौत्रान्सखींस्तथा।।1.26।।<br><br>श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि।<br><br>तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्।।1.27।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Sanjaya said, "O scion of the line of Bharata, Hrishikesa, being told so by Gudakesa (Arjuna), placed the excellent chariot between the two armies, in front of Bhishma and Drona as well as all the rulers of the earth, and said, 'O Partha, behold these assembled Kurus!'"<br><br>Sanjaya said, "O scion of the line of Bharata (Dhrtarashtra), Hrsikesa, being told so by Gudakesa (Arjuna), placed the excellent chariot between the two armies, in front of Bhisma and Drona as well as all the rulers of the earth, and said, 'O Partha (Arjuna), behold these assembled people of the Kuru dynasty.'"<br><br>Then Arjuna saw, marshalled among both the armies, his uncles, grandfathers, teachers, maternal uncles, brothers, cousins, sons, grandsons, comrades, fathers-in-law, and friends.<br><br>The son of Kunti, Arjuna, seeing all those relatives arrayed there, became overwhelmed by supreme compassion and sorrowfully said this:

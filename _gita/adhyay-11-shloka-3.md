@@ -7,7 +7,7 @@ shlokanum: 3
 ---
 
 > एवमेतद्यथात्थ त्वमात्मानं परमेश्वर।<br><br>द्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम।।11.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Supreme Lord, so it is, as You have spoken of Yourself. O Supreme Person, I wish to behold Your divine form.

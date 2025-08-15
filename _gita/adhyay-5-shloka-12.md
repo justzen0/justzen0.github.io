@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम्।<br><br>अयुक्तः कामकारेण फले सक्तो निबध्यते।।5.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Giving up the results of work by becoming resolute in faith, one attains peace arising from steadfastness. One who is lacking in resolute faith, being attached to the results under the impulse of desire, becomes bound.

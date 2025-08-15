@@ -7,7 +7,7 @@ shlokanum: 23
 ---
 
 > रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम्।<br><br>वसूनां पावकश्चास्मि मेरुः शिखरिणामहम्।।10.23।।<br><br>पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम्।<br><br>सेनानीनामहं स्कन्दः सरसामस्मि सागरः।।10.24।।<br><br>महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम्।<br><br>यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः।।10.25।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Among the Rudras, I am Aja, Ekapada, Ahirbudhnya, Pinaki, Aparajita, Tryam-baka, Mahesvara, Vrsakapi, Sambhu, Harana, and Isvara; among the Yaksas and goblins, I am Kubera; among the Vasus, I am Fire; and among the mountains, I am Meru.<br><br>O son of Prtha, know me to be Brhaspati, the foremost among the priests of kings. Among commanders of armies, I am Skanda; among large expanses of water, I am the sea.<br><br>Among the great sages, I am Bhrgu; of words, I am the single syllable (Om). Among rituals, I am the ritual of Japa of the immovables, the Himalayas.

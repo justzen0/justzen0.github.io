@@ -7,7 +7,7 @@ shlokanum: 47
 ---
 
 > कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।<br><br>मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।2.47।।<br><br>योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।<br><br>सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते।।2.48।।<br><br>दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय।<br><br>बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः।।2.49।।<br><br>बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।<br><br>तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्।।2.50।।<br><br>कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः।<br><br>जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्।।2.51।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Your right is only to act, not to the results. Do not be the cause of the results of action. Do not have any inclination towards inaction.<br><br>By being established in Yoga, O Dhananjaya (Arjuna), undertake actions, casting off attachment and remaining equanimous in success and failure. Equanimity is called Yoga.<br><br>O Dhananjaya, indeed, action is inferior to the yoga of wisdom. Take refuge in wisdom. Those who thirst for rewards are pitiable.<br><br>Possessed of wisdom, one rejects here both virtue and vice. Therefore, devote yourself to (Karma-) yoga; for yoga is skilfulness in action.<br><br>For those devoted to wisdom, they become enlightened men by giving up the fruits of their actions, and thus they reach a state beyond evil, having been freed from the bondage of birth.

@@ -7,7 +7,7 @@ shlokanum: 18
 ---
 
 > ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना।करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः।।18.18।।<br><br>ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः।प्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि।।18.19।।<br><br>सर्वभूतेषु येनैकं भावमव्ययमीक्षते।अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम्।।18.20।।<br><br>पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान्।वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम्।।18.21।।<br><br>यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम्।अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम्।।18.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Knowledge, the object of knowledge, and the knower—these are the threefold inducements to action. The comprehension of actions comes under three heads: the instruments, the object, and the subject.<br><br>Knowledge, action, and agent are stated in the teaching about the gunas to be only of three kinds, according to the differences of the gunas. Hear about them also as they are.<br><br>Know that knowledge to originate from sattva, through which one sees a single, undecaying, undivided entity in all the diversified things.<br><br>But know that knowledge to originate from rajas, which amidst all things apprehends the different entities of various kinds as distinct [as possessing distinct selves].<br><br>But that (knowledge) is said to be born of tamas which is confined to one form as if it were all, which is irrational, unconcerned with truth, and trivial.

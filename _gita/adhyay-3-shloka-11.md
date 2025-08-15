@@ -7,7 +7,7 @@ shlokanum: 11
 ---
 
 > देवान्भावयतानेन ते देवा भावयन्तु वः।<br><br>परस्परं भावयन्तः श्रेयः परमवाप्स्यथ।।3.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > 'You nourish the gods with this. Let those gods nourish you in return. By mutually nourishing each other, you shall attain the supreme Good.'

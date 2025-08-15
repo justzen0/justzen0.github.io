@@ -7,7 +7,7 @@ shlokanum: 24
 ---
 
 > उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम्।<br><br>सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः।।3.24।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > These worlds would be ruined if I did not perform action. And I shall become the agent of intermingling (of castes), and shall be destroying these beings.

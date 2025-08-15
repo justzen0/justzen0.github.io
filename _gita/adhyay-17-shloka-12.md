@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > अभिसंधाय तु फलं दम्भार्थमपि चैव यत्।इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम्।।17.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > But that sacrifice which is performed with an aim for a result, as well as for show—know that sacrifice to be done through rajas, O greatest among the descendants of Bharata.

@@ -7,7 +7,7 @@ shlokanum: 6
 ---
 
 > महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा।<br><br>मद्भावा मानसा जाता येषां लोक इमाः प्रजाः।।10.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The seven great sages, as well as the four Manus of ancient days, from whom all these creatures in the world have descended, had their thoughts fixed on Me, and they were born from My mind.

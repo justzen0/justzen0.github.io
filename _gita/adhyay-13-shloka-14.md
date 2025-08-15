@@ -7,7 +7,7 @@ shlokanum: 14
 ---
 
 > सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम्।सर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति।।13.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > That Knowable, which has hands and feet everywhere, which has eyes, heads, and mouths everywhere, which has ears everywhere, exists in creatures by pervading them all.

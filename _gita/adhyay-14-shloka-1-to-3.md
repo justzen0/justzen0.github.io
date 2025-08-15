@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > श्री भगवानुवाचपरं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम्।यज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः।।14.1।।<br><br>इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः।सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च।।14.2।।<br><br>मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम्।संभवः सर्वभूतानां ततो भवति भारत।।14.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "I shall speak again of the supreme knowledge, the best of all knowledge, by realizing which all the contemplatives have reached the highest perfection from here."<br><br>Those who attain identity with Me by resorting to this Knowledge are not born even during creation, nor do they suffer pain during dissolution.<br><br>My womb is the great sustainer. In it, I place the seed. From that, O scion of the Bharata dynasty, all things are born.

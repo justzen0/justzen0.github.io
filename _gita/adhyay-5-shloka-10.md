@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।<br><br>लिप्यते न स पापेन पद्मपत्रमिवाम्भसा।।5.10।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One who acts by dedicating their actions to Brahman and by renouncing attachment, they do not become polluted by sin, just as a lotus leaf is not by water.

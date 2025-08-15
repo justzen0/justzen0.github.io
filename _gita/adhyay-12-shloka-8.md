@@ -7,7 +7,7 @@ shlokanum: 8
 ---
 
 > मय्येव मन आधत्स्व मयि बुद्धिं निवेशय।निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः।।12.8।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Fix the mind on Me alone; in Me alone let the intellect rest. There is no doubt that hereafter you will dwell in Me alone.

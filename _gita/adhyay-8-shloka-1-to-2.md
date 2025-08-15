@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > अर्जुन उवाच<br><br>किं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम।<br><br>अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते।।8.1।।<br><br>अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन।<br><br>प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः।।8.2।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, O Supreme Person, what is Brahman? What exists in the individual plane? What is action? What is said to exist in the physical plane? And what is said to exist in the divine plane?<br><br>O Madhusudana, how is the entity existing in the sacrifice here in this body, and who is it? And how are You to be known by people of concentrated minds at the time of death?

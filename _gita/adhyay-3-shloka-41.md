@@ -7,7 +7,7 @@ shlokanum: 41
 ---
 
 > तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ।<br><br>पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम्।।3.41।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Therefore, O scion of the Bharata dynasty, after first controlling the organs, completely renounce this one which is sinful and a destroyer of learning and wisdom.

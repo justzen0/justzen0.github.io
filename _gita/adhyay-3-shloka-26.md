@@ -7,7 +7,7 @@ shlokanum: 26
 ---
 
 > न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम्।<br><br>जोषयेत्सर्वकर्माणि विद्वान् युक्तः समाचरन्।।3.26।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The enlightened man should not disturb the beliefs of the ignorant, who are attached to work. He should remain diligent himself and make them perform all their duties.

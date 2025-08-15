@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > धृतराष्ट्र उवाच<br><br>धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।<br><br>मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय।।1.1।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Dhṛtarāṣṭra said: O Sanjaya, what did my sons and the sons of Pandu do when they assembled on the sacred field of Kurukshetra, eager for battle?

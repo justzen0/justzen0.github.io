@@ -7,7 +7,7 @@ shlokanum: 9
 ---
 
 > मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम्।<br><br>कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च।।10.9।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > With their minds fixed on Me, dedicating their lives to Me, enlightening one another, and always speaking of Me, they derive satisfaction and rejoice.

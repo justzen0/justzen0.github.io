@@ -7,7 +7,7 @@ shlokanum: 2
 ---
 
 > ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः।<br><br>यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते।।7.2।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > I shall tell you in detail of this Knowledge, which is combined with realization, after experiencing which there remains nothing else here to be known.

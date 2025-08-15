@@ -7,7 +7,7 @@ shlokanum: 29
 ---
 
 > सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि।<br><br>ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः।।6.29।।<br><br>यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति।<br><br>तस्याहं न प्रणश्यामि स च मे न प्रणश्यति।।6.30।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One who has their mind Self-absorbed through Yoga, and who has the vision of sameness everywhere, sees this Self existing in everything, and everything in their Self.<br><br>One who sees Me in everything and sees all things in Me—I do not lose sight of him, and he also is not lost to My vision.

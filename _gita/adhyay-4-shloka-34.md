@@ -7,7 +7,7 @@ shlokanum: 34
 ---
 
 > तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया।<br><br>उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः।।4.34।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Know that the wise ones who have realized the Truth will impart the Knowledge to you through prostration, inquiry, and service.

@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > मयाऽध्यक्षेण प्रकृतिः सूयते सचराचरम्।<br><br>हेतुनाऽनेन कौन्तेय जगद्विपरिवर्तते।।9.10।।<br><br>अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम्।<br><br>परं भावमजानन्तो मम भूतमहेश्वरम्।।9.11।।<br><br>मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः।<br><br>राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः।।9.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Under Me as the supervisor, the Prakrti produces the world of the moving and the non-moving things. Owing to this, O son of Kunti, the world revolves.<br><br>Not knowing My supreme nature as the Lord of all beings, foolish people disregard Me, who have taken a human form.<br><br>Possessed of vain hopes, vain actions, vain knowledge, and senselessness, they become verily possessed of the deceptive disposition of fiends and demons.

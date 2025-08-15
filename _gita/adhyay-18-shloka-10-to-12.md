@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते।त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः।।18.10।।<br><br>न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः।यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते।।18.11।।<br><br>अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम्।भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित्।।18.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The man of renunciation, imbued with sattva, wise and free from doubts, does not hate unbecoming action, nor does he become attached to becoming activity.<br><br>Since it is not possible for one who holds onto a body to give up actions entirely, therefore he who renounces the results of his actions is called a man of renunciation.<br><br>The threefold results of actions—the undesirable, the desirable, and the mixed—accrue after death to those who do not resort to renunciation, but never to those who resort to renunciation.

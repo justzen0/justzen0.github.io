@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः।<br><br>क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा।।4.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Longing for the fruition of their actions (of their rites and duties), they worship the gods here. For, in the human world, success from action comes quickly.

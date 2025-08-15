@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > श्री भगवानुवाच<br><br>भूय एव महाबाहो श्रृणु मे परमं वचः।<br><br>यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया।।10.1।।<br><br>न मे विदुः सुरगणाः प्रभवं न महर्षयः।<br><br>अहमादिर्हि देवानां महर्षीणां च सर्वशः।।10.2।।<br><br>यो मामजमनादिं च वेत्ति लोकमहेश्वरम्।<br><br>असम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते।।10.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, O mighty-armed one, listen once more to My supreme utterance, which I, wishing for your welfare, shall speak to you who take delight in it.<br><br>Neither the gods nor the great sages know My majesty, for I am the source of them all in all respects.<br><br>He who knows Me—the birthless, beginningless, and great Lord of the worlds—he, the undeluded one among mortals, becomes freed from all sins.

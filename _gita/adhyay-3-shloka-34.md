@@ -7,7 +7,7 @@ shlokanum: 34
 ---
 
 > इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ।<br><br>तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ।।3.34।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Attraction and repulsion are ordained with respect to the objects of all the organs. One should not be swayed by these two, as they are adversaries.

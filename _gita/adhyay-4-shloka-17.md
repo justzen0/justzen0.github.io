@@ -7,7 +7,7 @@ shlokanum: 17
 ---
 
 > कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः।<br><br>अकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः।।4.17।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > For there is something to be known even about action, and something to be known about prohibited action; and something needs to be known about inaction. The true nature of action is inscrutable.

@@ -7,7 +7,7 @@ shlokanum: 36
 ---
 
 > असंयतात्मना योगो दुष्प्राप इति मे मतिः।<br><br>वश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः।।6.36।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > My conviction is that Yoga is difficult to attain for one with an uncontrolled mind. But it is possible to attain through the aforementioned means for one who strives and has a controlled mind.

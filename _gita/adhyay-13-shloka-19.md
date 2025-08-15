@@ -7,7 +7,7 @@ shlokanum: 19
 ---
 
 > इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः।मद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते।।13.19।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Thus, in brief, the field, Knowledge, and the Knowable have been spoken of. By understanding this, My devotee becomes qualified for My state.

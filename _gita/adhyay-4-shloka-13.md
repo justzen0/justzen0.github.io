@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः।<br><br>तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम्।।4.13।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The four castes have been created by Me through a classification of the gunas and duties. Even though I am the agent of that (act of classification), still know Me to be non-agentive and changeless.

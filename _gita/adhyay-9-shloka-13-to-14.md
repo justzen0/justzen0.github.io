@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः।<br><br>भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम्।।9.13।।<br><br>सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः।<br><br>नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते।।9.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O son of Prtha, the noble ones, being possessed of divine nature, surely adore Me with single-mindedness, knowing Me to be the immutable source of all objects.<br><br>Always glorifying Me and striving, the men of firm vows worship Me by paying obeisance to Me and being ever endowed with devotion.

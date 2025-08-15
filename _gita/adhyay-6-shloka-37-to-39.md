@@ -7,7 +7,7 @@ shlokanum: 37
 ---
 
 > अर्जुन उवाच<br><br>अयतिः श्रद्धयोपेतो योगाच्चलितमानसः।<br><br>अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति।।6.37।।<br><br>कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति।<br><br>अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि।।6.38।।<br><br>एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः।<br><br>त्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते।।6.39।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "O Krsna, what goal does one attain who, despite having faith, fails to achieve perfection in Yoga due to lack of diligence, and whose mind becomes deflected from Yoga?"<br><br>O Mighty-armed one, having fallen from both [paths], without support, deluded on the path to Brahman, does he not get ruined like a scattered cloud?<br><br>O Krsna, you should totally eradicate this doubt of mine, for none other than yourself can be the dispeller of this doubt!

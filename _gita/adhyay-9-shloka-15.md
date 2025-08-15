@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते।<br><br>एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम्।।9.15।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Others indeed worship Me by exclusively adoring through the sacrifice of the knowledge of oneness; (others worship Me) in many ways, and (others) as the multiform existing in various forms.

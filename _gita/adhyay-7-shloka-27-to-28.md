@@ -7,7 +7,7 @@ shlokanum: 27
 ---
 
 > इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत।<br><br>सर्वभूतानि संमोहं सर्गे यान्ति परन्तप।।7.27।।<br><br>येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम्।<br><br>ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः।।7.28।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O scion of the Bharata dynasty, O destroyer of foes, due to the delusion of duality arising from likes and dislikes, all creatures become bewildered upon their birth.<br><br>On the other hand, those persons who have done virtuous deeds, whose sin has come to an end, they, being free from the delusion of duality and firm in their convictions, adore Me.

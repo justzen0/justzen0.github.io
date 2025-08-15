@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च।<br><br>मूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम्।।8.12।।<br><br>ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन्।<br><br>यः प्रयाति त्यजन्देहं स याति परमां गतिम्।।8.13।।<br><br>अनन्यचेताः सततं यो मां स्मरति नित्यशः।<br><br>तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः।।8.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Having controlled all the senses, confined the mind in the heart, and fixed his own vital force in the head, he should remain firm in yoga.<br><br>He who departs, leaving the body while uttering the single syllable, "Om," which is Brahman, and thinking of Me, attains the supreme Goal.<br><br>O son of Prtha, to that yogi of constant concentration and single-minded attention, who remembers Me uninterruptedly and for a long time, I am easily attained.

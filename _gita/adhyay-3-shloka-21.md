@@ -7,7 +7,7 @@ shlokanum: 21
 ---
 
 > यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः।<br><br>स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते।।3.21।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Whatever a superior person does, another person does the same! Whatever they uphold as authority, an ordinary person follows that.

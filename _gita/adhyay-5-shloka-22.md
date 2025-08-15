@@ -7,7 +7,7 @@ shlokanum: 22
 ---
 
 > ये हि संस्पर्शजा भोगा दुःखयोनय एव ते।<br><br>आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः।।5.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Since enjoyments that result from contact with objects are indeed the sources of sorrow, having a beginning and an end, O son of Kunti, the wise one does not delight in them.

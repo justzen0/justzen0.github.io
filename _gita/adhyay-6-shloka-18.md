@@ -7,7 +7,7 @@ shlokanum: 18
 ---
 
 > यदा विनियतं चित्तमात्मन्येवावतिष्ठते।<br><br>निःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा।।6.18।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > A person who has become free from hankering for all desirable objects is said to be Self-absorbed when the controlled mind rests solely in the Self.

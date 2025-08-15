@@ -7,7 +7,7 @@ shlokanum: 9
 ---
 
 > जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः।<br><br>त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन।।4.9।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who thus knows truly the divine birth and actions of Mine does not get rebirth after casting off the body. He attains Me, O Arjuna.

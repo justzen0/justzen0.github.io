@@ -7,7 +7,7 @@ shlokanum: 3
 ---
 
 > श्री भगवानुवाच<br><br>लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ।<br><br>ज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम्।।3.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, O unblemished one, two kinds of steadfastness in this world were spoken of by Me in days gone by—through the Yoga of Knowledge for the men of realization; through the Yoga of Action for the yogis.

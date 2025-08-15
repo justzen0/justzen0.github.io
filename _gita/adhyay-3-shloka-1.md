@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > अर्जुन उवाच<br><br>ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन।<br><br>तत्किं कर्मणि घोरे मां नियोजयसि केशव।।3.1।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "O Janardana (Krishna), if it is Your opinion that wisdom is superior to action, why do You urge me to take such horrible action, O Kesava?"

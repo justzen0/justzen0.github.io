@@ -7,7 +7,7 @@ shlokanum: 9
 ---
 
 > श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च।अधिष्ठाय मनश्चायं विषयानुपसेवते।।15.9।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > This one enjoys the objects by presiding over the ears, eyes, skin, tongue, nose, and mind.

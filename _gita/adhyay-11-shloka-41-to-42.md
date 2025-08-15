@@ -7,7 +7,7 @@ shlokanum: 41
 ---
 
 > सखेति मत्वा प्रसभं यदुक्तं<br><br>हे कृष्ण हे यादव हे सखेति।<br><br>अजानता महिमानं तवेदं<br><br>मया प्रमादात्प्रणयेन वापि।।11.41।।<br><br>यच्चावहासार्थमसत्कृतोऽसि<br><br>विहारशय्यासनभोजनेषु।<br><br>एकोऽथवाप्यच्युत तत्समक्षं<br><br>तत्क्षामये त्वामहमप्रमेयम्।।11.42।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Without knowing Your greatness, whatever I said rashly, inadvertently, or even out of familiarity, thinking You to be a friend, addressing You as 'O Krsna,' 'O Yadava,' 'O friend,' etc.<br><br>And that You have been discourteously treated out of fun—while walking, while on a bed, while on a seat, while eating, in privacy, or, O Acyuta, even in public—for that, I beg pardon of You, the incomprehensible One.

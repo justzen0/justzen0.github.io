@@ -7,7 +7,7 @@ shlokanum: 30
 ---
 
 > मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।<br><br>निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः।।3.30।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Free from the fever of the soul, dedicate all actions to Me, with your mind intent on the Self, and become free from expectations and egoism, and engage in battle.

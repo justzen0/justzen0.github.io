@@ -7,7 +7,7 @@ shlokanum: 7
 ---
 
 > एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः।<br><br>सोऽविकम्पेन योगेन युज्यते नात्र संशयः।।10.7।।<br><br>अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते।<br><br>इति मत्वा भजन्ते मां बुधा भावसमन्विताः।।10.8।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One who knows truly this majesty and yoga of Mine, he becomes imbued with unwavering yoga. There is no doubt about it.<br><br>I am the origin of all; everything moves on due to Me. Realizing this, the wise ones, filled with fervor, adore Me.

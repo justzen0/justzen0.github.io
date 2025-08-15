@@ -7,7 +7,7 @@ shlokanum: 2
 ---
 
 > श्री भगवानुवाच<br><br>संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ।<br><br>तयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते।।5.2।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "Both renunciation of actions and Karma-yoga lead to liberation; however, Karma-yoga excels over renunciation of actions."

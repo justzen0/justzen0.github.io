@@ -7,7 +7,7 @@ shlokanum: 26
 ---
 
 > वेदाहं समतीतानि वर्तमानानि चार्जुन।<br><br>भविष्याणि च भूतानि मां तु वेद न कश्चन।।7.26।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Arjuna, I know the past, present, and future beings; but no one knows Me!

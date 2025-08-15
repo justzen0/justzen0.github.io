@@ -7,7 +7,7 @@ shlokanum: 7
 ---
 
 > जितात्मनः प्रशान्तस्य परमात्मा समाहितः।<br><br>शीतोष्णसुखदुःखेषु तथा मानापमानयोः।।6.7।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The supreme Self of one who has control over the aggregate of his body and organs, and who is tranquil, becomes manifest. He should be poised in the midst of cold and heat, happiness and sorrow, as well as honor and dishonor.

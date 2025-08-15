@@ -7,7 +7,7 @@ shlokanum: 34
 ---
 
 > द्रोणं च भीष्मं च जयद्रथं च<br><br>कर्णं तथाऽन्यानपि योधवीरान्।<br><br>मया हतांस्त्वं जहि मा व्यथिष्ठा<br><br>युध्यस्व जेतासि रणे सपत्नान्।।11.34।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > You destroy Drona, Bhisma, Jayadratha, Karna, and the other heroic warriors who have been killed by Me. Do not be afraid. Fight! You will conquer the enemies in battle.

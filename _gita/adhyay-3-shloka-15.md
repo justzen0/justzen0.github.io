@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्।<br><br>तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्।।3.15।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Know that action has the Vedas as its origin; the Vedas have the Immutable as their source. Hence, the all-pervading Vedas are forever based on sacrifice.

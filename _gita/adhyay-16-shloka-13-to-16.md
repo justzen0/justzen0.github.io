@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम्।इदमस्तीदमपि मे भविष्यति पुनर्धनम्।।16.13।।<br><br>असौ मया हतः शत्रुर्हनिष्ये चापरानपि।ईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी।।16.14।।<br><br>आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया।यक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः।।16.15।।<br><br>अनेकचित्तविभ्रान्ता मोहजालसमावृताः।प्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ।।16.16।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > 'I have gained this today; I will acquire this desired object. This is in hand; and this wealth will also come to me.'<br><br>'I have slain that enemy, and I shall slay others too. I am the Lord, the Enjoyer, firmly established, powerful and joyous.'<br><br>'I am wealthy and of noble birth; who else is like me? I shall perform sacrifices; I shall give, I shall rejoice'- thus, they are deluded by a lack of discernment in diverse ways.<br><br>Bewildered by numerous thoughts, ensnared in the net of delusion, and engrossed in the enjoyment of desirable objects, they fall into a foul hell.

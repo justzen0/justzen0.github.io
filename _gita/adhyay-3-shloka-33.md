@@ -7,7 +7,7 @@ shlokanum: 33
 ---
 
 > सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि।<br><br>प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति।।3.33।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Even a man of wisdom behaves according to his own nature. They follow their nature. What can restraint do?

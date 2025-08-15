@@ -7,7 +7,7 @@ shlokanum: 19
 ---
 
 > तानहं द्विषतः क्रूरान्संसारेषु नराधमान्।क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु।।16.19।।<br><br>असुरीं योनिमापन्ना मूढा जन्मनि जन्मनि।मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम्।।16.20।।<br><br>त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः।कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्।।16.21।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > I cast forever those hateful, cruel, evil-doers in the worlds, the vilest of human beings, verily into the demonic classes.<br><br>Being born among the demoniacal species in birth after birth, the souls, without ever reaching Me, O son of Kunti, attain conditions lower than that.<br><br>This door to hell, which destroys the soul, is of three kinds—passion, anger, and greed. Therefore, one should forsake these three.

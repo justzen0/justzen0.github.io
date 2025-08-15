@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > सर्वस्य चाहं हृदि सन्निविष्टो    मत्तः स्मृतिर्ज्ञानमपोहनं च।वेदैश्च सर्वैरहमेव वेद्यो    वेदान्तकृद्वेदविदेव चाहम्।।15.15।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > And I am seated in the hearts of all. From Me come memory, knowledge, and their loss. I alone am the object to be known through all the Vedas; I am also the originator of the Vedanta, and I Myself am the knower of the Vedas.

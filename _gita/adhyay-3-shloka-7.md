@@ -7,7 +7,7 @@ shlokanum: 7
 ---
 
 > यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन।<br><br>कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते।।3.7।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > But, O Arjuna, one who engages in Karma-yoga, controlling the organs of action with the mind and becoming unattached, excels.

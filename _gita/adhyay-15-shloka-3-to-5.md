@@ -7,7 +7,7 @@ shlokanum: 3
 ---
 
 > न रूपमस्येह तथोपलभ्यते    नान्तो न चादिर्न च संप्रतिष्ठा।अश्वत्थमेनं सुविरूढमूल    मसङ्गशस्त्रेण दृढेन छित्त्वा।।15.3।।<br><br>ततः पदं तत्परिमार्गितव्य    यस्मिन्गता न निवर्तन्ति भूयः।तमेव चाद्यं पुरुषं प्रपद्ये    यतः प्रवृत्तिः प्रसृता पुराणी।।15.4।।<br><br>निर्मानमोहा जितसङ्गदोषा    अध्यात्मनित्या विनिवृत्तकामाः।द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञै    र्गच्छन्त्यमूढाः पदमव्ययं तत्।।15.5।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Its form is not perceived here in that way; nor its end, nor beginning, nor its continuance. After felling this Peepul tree whose roots are well developed, with the strong sword of detachment.<br><br>Thereafter, that state must be sought, going where they do not return again: I take refuge in that Primeval Person Himself, from whom the eternal Manifestation has ensued.<br><br>The wise ones, free from pride and non-discrimination, who have conquered the evil of association [hatred and love arising from association with foes and friends], who are ever devoted to spirituality, completely free from desires, and free from the dualities of happiness and sorrow, reach that undecaying state.

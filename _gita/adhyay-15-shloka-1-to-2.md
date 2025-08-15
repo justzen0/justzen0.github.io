@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > श्री भगवानुवाचऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्।छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित्।।15.1।।<br><br>अधश्चोर्ध्वं प्रसृतास्तस्य शाखा     गुणप्रवृद्धा विषयप्रवालाः।अधश्च मूलान्यनुसन्ततानि     कर्मानुबन्धीनि मनुष्यलोके।।15.2।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "They say that the peepul tree, which has its roots upward and its branches downward, and of which the Vedas are the leaves, is imperishable. He who realizes it is a knower of the Vedas."<br><br>The branches of that Tree, extending downwards and upwards, are strengthened by the qualities and have sense-objects as their shoots. And the roots, which are followed by actions, spread downwards in the human world [According to A.G. and M.S. manusya-loke means a body distinguished by Brahminhood etc.].

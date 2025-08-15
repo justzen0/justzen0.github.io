@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च।तमस्येतानि जायन्ते विवृद्धे कुरुनन्दन।।14.13।।<br><br>यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत्।तदोत्तमविदां लोकानमलान्प्रतिपद्यते।।14.14।।<br><br>रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते।तथा प्रलीनस्तमसि मूढयोनिषु जायते।।14.15।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O descendant of the Kuru dynasty, when tamas predominates, these come into being without exception: non-discrimination, inactivity, inadvertence, and delusion.<br><br>When an embodied one undergoes death while sattva is exclusively predominant, then he attains the untainted worlds of those who know the highest (entities).<br><br>When one dies while rajas predominates, they are born among people attached to activity. Similarly, when one dies while tamas predominates, they take birth among the stupid species.

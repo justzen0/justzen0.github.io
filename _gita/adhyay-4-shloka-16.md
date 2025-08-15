@@ -7,7 +7,7 @@ shlokanum: 16
 ---
 
 > किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः।<br><br>तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात्।।4.16।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Even the intelligent are confounded as to what is action and what is inaction. I shall tell you of that action, knowing which you will become free from evil.

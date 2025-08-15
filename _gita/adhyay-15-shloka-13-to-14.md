@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > गामाविश्य च भूतानि धारयाम्यहमोजसा।पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।15.13।।<br><br>अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।15.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > And entering the Earth, I sustain the beings through My power; and nourish all the plants by becoming Soma, which is of the nature of sap.<br><br>Taking the form of Vaisvanara, and residing in the bodies of creatures, I, in association with Prana and Apana, digest the four kinds of food.

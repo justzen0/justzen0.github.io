@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > श्री भगवानुवाच<br><br>इमं विवस्वते योगं प्रोक्तवानहमव्ययम्।<br><br>विवस्वान् मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत्।।4.1।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "I imparted this imperishable Yoga to Vivasvan, who then taught it to Manu, who in turn transmitted it to Iksavaku.

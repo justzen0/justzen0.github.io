@@ -7,7 +7,7 @@ shlokanum: 26
 ---
 
 > मां च योऽव्यभिचारेण भक्ितयोगेन सेवते।स गुणान्समतीत्यैतान् ब्रह्मभूयाय कल्पते।।14.26।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > And he who serves Me through the unswerving Yoga of Devotion, he, having gone beyond these qualities, qualifies for becoming Brahman.

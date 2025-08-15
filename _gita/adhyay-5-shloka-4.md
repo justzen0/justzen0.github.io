@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > सांख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः।<br><br>एकमप्यास्थितः सम्यगुभयोर्विन्दते फलम्।।5.4।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The fools, not the learned ones, speak of Sankhya and (Karma-) yoga as being different. Anyone who properly resorts to either one of them gets the results of both.

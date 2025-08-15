@@ -7,7 +7,7 @@ shlokanum: 27
 ---
 
 > प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम्।<br><br>उपैति शान्तरजसं ब्रह्मभूतमकल्मषम्।।6.27।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Supreme Bliss comes to this yogi alone whose mind has become perfectly tranquil, whose quality of rajas has been eliminated, who has become identified with Brahman, and is untainted.

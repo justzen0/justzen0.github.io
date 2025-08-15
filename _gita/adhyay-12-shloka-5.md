@@ -7,7 +7,7 @@ shlokanum: 5
 ---
 
 > क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम्।<br><br>अव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते।।12.5।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > For those whose minds are attached to the Unmanifested, the struggle is greater; for the Goal, which is the Unmanifest, is attained with difficulty by the embodied ones.

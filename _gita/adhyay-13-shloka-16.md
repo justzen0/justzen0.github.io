@@ -7,7 +7,7 @@ shlokanum: 16
 ---
 
 > बहिरन्तश्च भूतानामचरं चरमेव च।सूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत्।।13.16।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Existing both outside and inside all beings, moving and non-moving, It is incomprehensible due to Its subtlety. It is far away, yet near.

@@ -7,7 +7,7 @@ shlokanum: 31
 ---
 
 > ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः।<br><br>श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः।।3.31।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Those who faithfully follow this teaching of Mine without cavil, they too become freed from their actions.

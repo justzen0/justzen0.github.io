@@ -7,7 +7,7 @@ shlokanum: 18
 ---
 
 > त्वमक्षरं परमं वेदितव्यं<br><br>त्वमस्य विश्वस्य परं निधानम्।<br><br>त्वमव्ययः शाश्वतधर्मगोप्ता<br><br>सनातनस्त्वं पुरुषो मतो मे।।11.18।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > You are the Unchanging, the supreme One to be known; You are the most perfect repository of this Universe. You are the Imperishable, the Protector of the ever-existing religion; You are the eternal Person. This is my belief.

@@ -7,7 +7,7 @@ shlokanum: 19
 ---
 
 > यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता।<br><br>योगिनो यतचित्तस्य युञ्जतो योगमात्मनः।।6.19।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > As a lamp kept in a windless place does not flicker, so is the simile for the yogi whose mind is under control and who is engaged in concentration on the Self.

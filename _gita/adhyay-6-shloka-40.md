@@ -7,7 +7,7 @@ shlokanum: 40
 ---
 
 > श्री भगवानुवाच<br><br>पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते।<br><br>नहि कल्याणकृत्कश्िचद्दुर्गतिं तात गच्छति।।6.40।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "O Partha, there is certainly no ruin for him here or hereafter, for no one engaged in good meets with a deplorable end, my son!"

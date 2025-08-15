@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत्।<br><br>मोहितं नाभिजानाति मामेभ्यः परमव्ययम्।।7.13।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > All this world, deluded as it is by these three qualities made of the gunas, does not know Me, who am transcendental to these and undecaying.

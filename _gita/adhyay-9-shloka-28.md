@@ -7,7 +7,7 @@ shlokanum: 28
 ---
 
 > शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः।<br><br>संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि।।9.28।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Thus, you will become free from bondage in the form of actions which are productive of good and bad results. Having your mind imbued with the yoga of renunciation and becoming free, you will attain Me.

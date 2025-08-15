@@ -7,7 +7,7 @@ shlokanum: 2
 ---
 
 > अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम्।दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम्।।16.2।।<br><br>तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता।<br><br>भवन्ति सम्पदं दैवीमभिजातस्य भारत।।16.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Non-injury, truthfulness, absence of anger, renunciation, control of the inner self, absence of vilification, kindness to creatures, non-covetousness, gentleness, modesty, and freedom from restlessness;<br><br>Vigour, forgiveness, fortitude, purity, freedom from malice, absence of haughtiness—these, O scion of the Bharata dynasty, are the qualities of one born destined to have the divine nature.

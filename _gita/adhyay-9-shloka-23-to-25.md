@@ -7,7 +7,7 @@ shlokanum: 23
 ---
 
 > येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयाऽन्विताः।<br><br>तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम्।।9.23।।<br><br>अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च।<br><br>न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते।।9.24।।<br><br>यान्ति देवव्रता देवान् पितृ़न्यान्ति पितृव्रताः।<br><br>भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम्।।9.25।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Even those who, being devoted to other deities and endowed with faith, worship them, they also, O son of Kunti, worship Me alone, though following the wrong method.<br><br>Indeed, I am the enjoyer and the Lord of all sacrifices, but they do not know Me truly. Therefore, they fall.<br><br>Those who worship the gods reach the gods; the worshippers of the manes go to the manes; the devotees of the Beings reach the Beings; and those who worship Me come to Me.

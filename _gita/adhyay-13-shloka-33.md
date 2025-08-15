@@ -7,7 +7,7 @@ shlokanum: 33
 ---
 
 > यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते।सर्वत्रावस्थितो देहे तथाऽऽत्मा नोपलिप्यते।।13.33।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > As the all-pervading space is not defiled, due to its subtlety, similarly the Self, present everywhere in bodies, is not defiled.

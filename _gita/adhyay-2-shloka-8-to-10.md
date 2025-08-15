@@ -7,7 +7,7 @@ shlokanum: 8
 ---
 
 > न हि प्रपश्यामि ममापनुद्या<br><br>द्यच्छोकमुच्छोषणमिन्द्रियाणाम्।<br><br>अवाप्य भूमावसपत्नमृद्धम्<br><br>राज्यं सुराणामपि चाधिपत्यम्।।2.8।।<br><br>सञ्जय उवाच<br><br>एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप।<br><br>न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह।।2.9।।<br><br>तमुवाच हृषीकेशः प्रहसन्निव भारत।<br><br>सेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः।।2.10।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > For I do not see anything that, even after acquiring on this earth a prosperous kingdom free from enemies and even sovereignty over the gods, can remove my sorrow that is blasting the senses.<br><br>Sanjaya said: Having spoken thus to Hrsikesa (Krsna), Gudakesa (Arjuna), the afflictor of foes, verily became silent, telling Govinda, 'I shall not fight.'<br><br>O descendant of Bharata, Hrsikesa, mocking as it were, said these words to him who was sorrowing between the two armies:

@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > स्वयमेवात्मनाऽत्मानं वेत्थ त्वं पुरुषोत्तम।<br><br>भूतभावन भूतेश देवदेव जगत्पते।।10.15।।<br><br>वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः।<br><br>याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि।।10.16।।<br><br>कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन्।<br><br>केषु केषु च भावेषु चिन्त्योऽसि भगवन्मया।।10.17।।<br><br>विस्तरेणात्मनो योगं विभूतिं च जनार्दन।<br><br>भूयः कथय तृप्तिर्हि श्रृण्वतो नास्ति मेऽमृतम्।।10.18।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Supreme Person, Creator of beings, Lord of beings, God of gods, Lord of the worlds, You alone know Yourself by Yourself.<br><br>Be pleased to speak in full of Your own divine manifestations, through which You exist pervading these worlds.<br><br>O Yogi, how shall I know You by remaining ever-engaged in meditation? And through what objects, O Lord, should I meditate on You?<br><br>O Janardana, please narrate to me again in detail Your own yoga and divine manifestations. For, while hearing Your nectar-like words, I am not satiated.

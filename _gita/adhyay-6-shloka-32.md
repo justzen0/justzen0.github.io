@@ -7,7 +7,7 @@ shlokanum: 32
 ---
 
 > आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन।<br><br>सुखं वा यदि वा दुःखं सः योगी परमो मतः।।6.32।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Arjuna, that yogi is considered the best who judges what is happiness and sorrow in all beings by the same standard as they would apply to themselves.

@@ -7,7 +7,7 @@ shlokanum: 8
 ---
 
 > नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः।<br><br>शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः।।3.8।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > You should perform your obligatory duties, for action is superior to inaction. Moreover, even the maintenance of your body will not be possible without action.

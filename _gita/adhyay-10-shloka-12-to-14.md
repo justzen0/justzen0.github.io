@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > अर्जुन उवाच<br><br>परं ब्रह्म परं धाम पवित्रं परमं भवान्।<br><br>पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम्।।10.12।।<br><br>आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा।<br><br>असितो देवलो व्यासः स्वयं चैव ब्रवीषि मे।।10.13।।<br><br>सर्वमेतदृतं मन्ये यन्मां वदसि केशव।<br><br>न हि ते भगवन् व्यक्ितं विदुर्देवा न दानवाः।।10.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "You are the supreme Brahman, the supreme Light, the supreme Sanctifier. All the sages, as well as the divine sage Narada, Asita, Devala, and Vyasa [Although Narada and the other sages are already mentioned by the words 'all the sages', they are still named separately due to their eminence. Asita is the father of Devala.] call You the eternal divine Person, the Primal God, the Birthless, the Omnipresent; and You Yourself indeed tell me this."<br><br>Arjuna said, "You are the supreme Brahman, the supreme Light, the supreme Sanctifier. All the sages, as well as the divine sage Narada, Asita, Devala, and Vyasa [Although Narada and the other sages are already mentioned by the words 'all the sages', they are still named separately due to their eminence. Asita is the father of Devala.] call You the eternal divine Person, the Primal God, the Birthless, the Omnipresent; and You Yourself indeed tell me this."<br><br>O Kesava, I accept as true all that You have told me. Certainly, O Lord, neither the gods nor the demons can comprehend Your glory.

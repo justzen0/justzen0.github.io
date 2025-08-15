@@ -7,7 +7,7 @@ shlokanum: 33
 ---
 
 > अर्जुन उवाच<br><br>योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन।<br><br>एतस्याहं न पश्यामि चञ्चलत्वात् स्थितिं स्थिराम्।।6.33।।<br><br>चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम्।<br><br>तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्।।6.34।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "O Madhusudana (Krsna), this Yoga that You have spoken of as sameness, I do not see its steady continuance due to the restlessness of the mind."<br><br>For, O Kṛṣṇa, the mind is unsteady, turbulent, strong, and obstinate; I consider its control to be as difficult as that of the wind.

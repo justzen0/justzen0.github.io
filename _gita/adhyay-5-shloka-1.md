@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > अर्जुन उवाच<br><br>संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि।<br><br>यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्िचतम्।।5.1।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "O Krsna, you praise renunciation of actions and, at the same time, Karma-yoga. Please tell me for certain which one is better between these two."

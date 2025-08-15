@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते।<br><br>सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते।।6.4।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Verily, when a man who has given up thought about everything does not get attached to sense-objects or actions, he is then said to be established in Yoga.

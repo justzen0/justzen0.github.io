@@ -7,7 +7,7 @@ shlokanum: 16
 ---
 
 > ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः।<br><br>तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम्।।5.16।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > But in the case of those whose ignorance is destroyed by knowledge (of the Self), their knowledge, like the sun, reveals that supreme Reality.

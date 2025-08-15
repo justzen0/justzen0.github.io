@@ -7,7 +7,7 @@ shlokanum: 44
 ---
 
 > पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः।<br><br>जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते।।6.44।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > For, by that very past practice, he is carried forward even in spite of himself! Even a seeker of Yoga transcends the results of the performance of Vedic rituals!

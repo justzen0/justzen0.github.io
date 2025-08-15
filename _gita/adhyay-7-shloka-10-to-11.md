@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम्।<br><br>बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्।।7.10।।<br><br>बलं बलवतां चाहं कामरागविवर्जितम्।<br><br>धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ।।7.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Partha, know Me to be the eternal seed of all beings. I am the intellect of the intelligent, and I am the courage of the courageous.<br><br>And of the strong, I am the strength that is devoid of passion and attachment. Among creatures, I am desire that is not contrary to righteousness, O scion of the Bharata dynasty.

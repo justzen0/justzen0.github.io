@@ -7,7 +7,7 @@ shlokanum: 21
 ---
 
 > बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम्।<br><br>स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते।।5.21।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > With his heart unattached to external objects, he gets the bliss that is in the Self. With his heart absorbed in meditation on Brahman, he acquires undying Bliss.

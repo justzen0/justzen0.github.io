@@ -7,7 +7,7 @@ shlokanum: 28
 ---
 
 > अर्जुन उवाच<br><br>कृपया परयाऽऽविष्टो विषीदन्निदमब्रवीत्।<br><br>दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्।।1.28।।<br><br>सीदन्ति मम गात्राणि मुखं च परिशुष्यति।<br><br>वेपथुश्च शरीरे मे रोमहर्षश्च जायते।।1.29।।<br><br>गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते।<br><br>न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः।।1.30।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "O Krsna, seeing these relatives and friends who have assembled here with the intention of fighting, my limbs become languid and my mouth becomes completely dry."<br><br>And there is trembling in my body, and my hair stands on end; the Gandiva (bow) slips from my hand and my skin burns intensely.<br><br>Moreover, O Kesava (Krishna), I am not able to stand firmly, and my mind seems to be whirling. And I observe the omens to be adverse.

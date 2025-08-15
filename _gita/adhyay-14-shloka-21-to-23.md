@@ -7,7 +7,7 @@ shlokanum: 21
 ---
 
 > अर्जुन उवाचकैर्लिंगैस्त्रीन्गुणानेतानतीतो भवति प्रभो।किमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते।।14.21।।<br><br>श्री भगवानुवाचप्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव।न द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति।।14.22।।<br><br>उदासीनवदासीनो गुणैर्यो न विचाल्यते।गुणा वर्तन्त इत्येव योऽवतिष्ठति नेङ्गते।।14.23।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "O Lord, by what signs is one known who has gone beyond these three qualities? What is their behavior, and how do they transcend these three qualities?"<br><br>The Blessed Lord said, "O son of Pandu, he neither dislikes illumination (knowledge), activity, nor delusion when they appear, nor does he long for them when they disappear."<br><br>He who, sitting like one indifferent, is not distracted by the three qualities; he who, thinking that the qualities alone act, remains firm and does not move surely;

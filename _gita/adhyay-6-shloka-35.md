@@ -7,7 +7,7 @@ shlokanum: 35
 ---
 
 > श्री भगवानुवाच<br><br>असंशयं महाबाहो मनो दुर्निग्रहं चलं।<br><br>अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।6.35।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, O mighty-armed one, undoubtedly the mind is untamable and restless. But, O son of Kunti, it can be brought under control through practice and detachment.

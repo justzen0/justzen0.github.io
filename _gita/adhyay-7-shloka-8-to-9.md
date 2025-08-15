@@ -7,7 +7,7 @@ shlokanum: 8
 ---
 
 > रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः।<br><br>प्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु।।7.8।।<br><br>पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ।<br><br>जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु।।7.9।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O son of Kunti, I am the taste of water, I am the effulgence of the moon and the sun; the letter 'Om' in all the Vedas, the sound in space, and manhood in men.<br><br>I am also the sweet fragrance in the earth; I am the brilliance in the fire, and the life in all beings; and I am the austerity of the ascetics.

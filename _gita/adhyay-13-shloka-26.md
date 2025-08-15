@@ -7,7 +7,7 @@ shlokanum: 26
 ---
 
 > अन्ये त्वेवमजानन्तः श्रुत्वाऽन्येभ्य उपासते।तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः।।13.26।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Others, again, who do not know thus, take to thinking after hearing from others; they too, who are devoted to hearing, certainly overcome death.

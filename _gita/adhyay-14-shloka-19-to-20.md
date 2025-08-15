@@ -7,7 +7,7 @@ shlokanum: 19
 ---
 
 > नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति।गुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति।।14.19।।<br><br>गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान्।जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते।।14.20।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > When the witness sees none other than the qualities as the agent, and knows that which is superior to the qualities, he attains My nature.<br><br>Having transcended these three qualities, which are the origin of the body, the embodied one becomes free from birth, death, old age, and sorrows, and experiences Immortality.

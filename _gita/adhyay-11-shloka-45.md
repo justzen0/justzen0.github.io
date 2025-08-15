@@ -7,7 +7,7 @@ shlokanum: 45
 ---
 
 > अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा<br><br>भयेन च प्रव्यथितं मनो मे।<br><br>तदेव मे दर्शय देव रूपं<br><br>प्रसीद देवेश जगन्निवास।।11.45।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > I am delighted by seeing something I have not seen before, and my mind is stricken with fear. O Lord, show me that very form; O Supreme God, O Abode of the Universe, be gracious!

@@ -7,7 +7,7 @@ shlokanum: 26
 ---
 
 > यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्।<br><br>ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्।।6.26।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The yogi should bring this mind under the subjugation of the Self itself, restraining it from all those causes that cause the restless, unsteady mind to wander away.

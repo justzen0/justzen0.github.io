@@ -7,7 +7,7 @@ shlokanum: 7
 ---
 
 > ममैवांशो जीवलोके जीवभूतः सनातनः।मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति।।15.7।।<br><br>शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः।गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात्।।15.8।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > It is indeed a part of Mine that, becoming the eternal individual soul in the region of living beings, draws the organs, which have the mind as their sixth, and which abide in Nature.<br><br>When the master leaves it and even when he assumes a body, he departs taking these with him, just as the wind carries away odours from their receptacles.

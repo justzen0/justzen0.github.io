@@ -7,7 +7,7 @@ shlokanum: 9
 ---
 
 > यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः।<br><br>तदर्थं कर्म कौन्तेय मुक्तसंगः समाचर।।3.9।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > This man becomes bound by actions other than those intended for God. Without being attached, O son of Kunti, perform actions for Him.

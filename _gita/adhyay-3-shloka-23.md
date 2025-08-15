@@ -7,7 +7,7 @@ shlokanum: 23
 ---
 
 > यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः।<br><br>मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः।।3.23।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > For, O Partha, if at any time I do not continue vigilantly in action, people will follow My path in every way.

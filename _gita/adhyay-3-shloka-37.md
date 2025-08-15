@@ -7,7 +7,7 @@ shlokanum: 37
 ---
 
 > श्री भगवानुवाच<br><br>काम एष क्रोध एष रजोगुणसमुद्भवः।<br><br>महाशनो महापाप्मा विद्ध्येनमिह वैरिणम्।।3.37।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "This desire, this anger, born of the quality of rajas, is a great devourer, a great source of sin. Know this to be the enemy here."

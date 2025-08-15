@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम्।<br><br>अधियज्ञोऽहमेवात्र देहे देहभृतां वर।।8.4।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > That which exists in the physical plane is the mutable entity, and what exists in the divine plane is the Person. O best among the embodied beings, I Myself am the entity that exists in the sacrifice within this body.

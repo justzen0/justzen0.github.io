@@ -7,7 +7,7 @@ shlokanum: 28
 ---
 
 > आयुधानामहं वज्रं धेनूनामस्मि कामधुक्।<br><br>प्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः।।10.28।।<br><br>अनन्तश्चास्मि नागानां वरुणो यादसामहम्।<br><br>पितृ़णामर्यमा चास्मि यमः संयमतामहम्।।10.29।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Among weapons I am the thunderbolt; among cows I am Kamadhenu. I am Kandarpa, the Progenitor, and among serpents I am Vasuki.<br><br>Among snakes, I am Ananta; among gods of the waters, Varuna; among the manes, Aryama; and among the maintainers of law and order, I am Yama (King of death).

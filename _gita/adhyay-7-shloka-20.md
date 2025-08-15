@@ -7,7 +7,7 @@ shlokanum: 20
 ---
 
 > कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः।<br><br>तं तं नियममास्थाय प्रकृत्या नियताः स्वया।।7.20।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > People, deprived of their wisdom by desires for various objects and guided by their own nature, resort to other deities, following the relevant methods.

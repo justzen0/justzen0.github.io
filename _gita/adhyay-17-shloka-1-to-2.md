@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > अर्जुन उवाचये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयाऽन्विताः।तेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः।।17.1।।<br><br>श्री भगवानुवाचत्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा।सात्त्विकी राजसी चैव तामसी चेति तां श्रृणु।।17.2।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, But, O Krsna, what is the state of those who, endued with faith, perform sacrifices, distribute wealth, etc. in honour of gods and others, while ignoring the injunctions of the scriptures? Is it sattva, rajas, or tamas?<br><br>The Blessed Lord said, "That faith of the embodied beings, born of their own nature, is threefold—born of sattva, rajas, and tamas. Hear about it."

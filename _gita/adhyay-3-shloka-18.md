@@ -7,7 +7,7 @@ shlokanum: 18
 ---
 
 > नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन।<br><br>न चास्य सर्वभूतेषु कश्िचदर्थव्यपाश्रयः।।3.18।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > For him, there is no concern here at all with performing action, nor any with non-performance. Moreover, he has no dependence on any object to serve any purpose.

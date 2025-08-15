@@ -7,7 +7,7 @@ shlokanum: 40
 ---
 
 > नमः पुरस्तादथ पृष्ठतस्ते<br><br>नमोऽस्तु ते सर्वत एव सर्व।<br><br>अनन्तवीर्यामितविक्रमस्त्वं<br><br>सर्वं समाप्नोषि ततोऽसि सर्वः।।11.40।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Salutations to You in the East and behind. Salutations to You on all sides indeed, O All! You possess infinite strength and infinite heroism. You pervade everything; thus You are all!

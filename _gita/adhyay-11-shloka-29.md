@@ -7,7 +7,7 @@ shlokanum: 29
 ---
 
 > यथा प्रदीप्तं ज्वलनं पतङ्गा<br><br>विशन्ति नाशाय समृद्धवेगाः।<br><br>तथैव नाशाय विशन्ति लोका<br><br>स्तवापि वक्त्राणि समृद्धवेगाः।।11.29।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > As moths hasten with increased speed into a blazing fire for destruction, so too do creatures hasten into Your mouths with increased speed for destruction.

@@ -7,7 +7,7 @@ shlokanum: 7
 ---
 
 > नियतस्य तु संन्यासः कर्मणो नोपपद्यते।मोहात्तस्य परित्यागस्तामसः परिकीर्तितः।।18.7।।<br><br>दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत्।स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत्।।18.8।।<br><br>कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन।सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः।।18.9।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Abandoning one's daily obligatory acts is not justifiable; giving up those through delusion is said to be rooted in tamas.<br><br>Whatever action one may relinquish merely as being painful, out of fear of physical suffering, he, having resorted to renunciation based on rajas, will surely not acquire the fruits of renunciation.<br><br>Whatever obligatory duty is performed just because it is a bounden duty, O Arjuna, by giving up attachment and the results as well—that renunciation is considered to be based on sattva.

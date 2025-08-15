@@ -7,7 +7,7 @@ shlokanum: 32
 ---
 
 > एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे।<br><br>कर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे।।4.32।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Thus, various kinds of sacrifices are spread at the mouth of the Vedas. Know them all to be born of action. Knowing this, you will become liberated.

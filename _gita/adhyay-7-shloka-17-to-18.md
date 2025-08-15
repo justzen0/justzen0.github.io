@@ -7,7 +7,7 @@ shlokanum: 17
 ---
 
 > तेषां ज्ञानी नित्ययुक्त एकभक्ितर्विशिष्यते।<br><br>प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः।।7.17।।<br><br>उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम्।<br><br>आस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम्।।7.18।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Of them, the man of knowledge, endowed with constant steadfastness and one-pointed devotion, excels. For I am very dear to the man of knowledge, and he too is dear to me.<br><br>Indeed, all of these are noble, but the man of Knowledge is the Self itself. This is my opinion. For, with a steadfast mind, he is set on the path leading only to Me, who am the supreme Goal.

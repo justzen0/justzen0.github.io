@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > सञ्जय उवाच<br><br>तं तथा कृपयाऽविष्टमश्रुपूर्णाकुलेक्षणम्।<br><br>विषीदन्तमिदं वाक्यमुवाच मधुसूदनः।।2.1।।<br><br>श्री भगवानुवाच<br><br>कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम्।<br><br>अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन।।2.2।।<br><br>क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते।<br><br>क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप।।2.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Sanjaya said: To him who had been filled with pity, whose eyes were filled with tears and showed distress, and who was sorrowing, Madhusudana uttered these words.<br><br>The Blessed Lord said, "O Arjuna, in this perilous place, whence has this impurity come to you, entertained by unenlightened persons, which does not lead to heaven and brings infamy?"<br><br>O Partha, do not yield to unmanliness. This does not befit you. O scorcher of foes, arise, giving up the petty weakness of heart.

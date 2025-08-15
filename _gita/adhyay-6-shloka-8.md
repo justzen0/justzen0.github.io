@@ -7,7 +7,7 @@ shlokanum: 8
 ---
 
 > ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः।<br><br>युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः।।6.8।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One whose mind is satisfied with knowledge and realization, who is unmoved, who has his organs under control, is said to be Self-absorbed. The yogi treats all alike, a lump of earth, a stone, and gold.

@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > अर्जुन उवाच<br><br>संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम्।<br><br>त्यागस्य च हृषीकेश पृथक्केशिनिषूदन।।18.1।।<br><br>श्री भगवानुवाच<br><br>काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः।<br><br>सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः।।18.2।।<br><br>त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः।<br><br>यज्ञदानतपःकर्म न त्याज्यमिति चापरे।।18.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, O mighty-armed Hrsikesa, O slayer of Kesi, I want to know separately the truth about sannyasa as well as about tyaga.<br><br>The Blessed Lord said, "The learned ones know sannyasa to be the giving up of actions done with a desire for reward. The adepts call the abandonment of the results of all works 'tyaga'."<br><br>Some learned persons say that action, beset with evil as it is, should be abandoned, and others say that the practice of sacrifice, charity, and austerity should not be abandoned.

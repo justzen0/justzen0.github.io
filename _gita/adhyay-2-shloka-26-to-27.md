@@ -7,7 +7,7 @@ shlokanum: 26
 ---
 
 > अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम्।<br><br>तथापि त्वं महाबाहो नैवं शोचितुमर्हसि।।2.26।।<br><br>जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च।<br><br>तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि।।2.27।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > On the other hand, if you think this One is born continually or constantly dies, even then, O mighty-armed one, you should not grieve.<br><br>For the death of anyone born is certain, and the rebirth of the dead is certain. Therefore, you should not grieve over an inevitable fact.

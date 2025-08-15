@@ -7,7 +7,7 @@ shlokanum: 32
 ---
 
 > अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः।शरीरस्थोऽपि कौन्तेय न करोति न लिप्यते।।13.32।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Being without beginning and without end, O son of Kunti, this immutable, supreme Self does not act, nor is It affected [Also translated as tainted.-Tr.], although It exists in the body.

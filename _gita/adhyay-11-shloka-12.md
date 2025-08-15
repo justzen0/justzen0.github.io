@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता।<br><br>यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः।।11.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Should the effulgence of a thousand suns blaze forth simultaneously in the sky, that might be akin to the radiance of that exalted One.

@@ -7,7 +7,7 @@ shlokanum: 23
 ---
 
 > उपद्रष्टाऽनुमन्ता च भर्ता भोक्ता महेश्वरः।परमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुषः परः।।13.23।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who is the Witness, the Permitter, the Sustainer, the Experiencer, the great Lord, and who is also spoken of as the transcendental Self, is the supreme Person in this body.

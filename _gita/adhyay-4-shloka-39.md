@@ -7,7 +7,7 @@ shlokanum: 39
 ---
 
 > श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः।<br><br>ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति।।4.39।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The one who has faith, is diligent, and has control over their organs, attains Knowledge. Achieving Knowledge, one soon attains supreme Peace.

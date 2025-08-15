@@ -7,7 +7,7 @@ shlokanum: 9
 ---
 
 > अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम्।अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय।।12.9।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > If, however, you are unable to establish the mind steadily on Me, then, O Dhananjaya, seek to attain Me through the yoga of practice.

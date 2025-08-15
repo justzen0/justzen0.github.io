@@ -7,7 +7,7 @@ shlokanum: 48
 ---
 
 > न वेदयज्ञाध्ययनैर्न दानै<br><br>र्न च क्रियाभिर्न तपोभिरुग्रैः।<br><br>एवंरूपः शक्य अहं नृलोके<br><br>द्रष्टुं त्वदन्येन कुरुप्रवीर।।11.48।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Not by the study of the Vedas and sacrifices, not by gifts, not even by rituals, nor by severe austerities, can I, in this form, be perceived in the human world by anyone other than you, O most valiant among the Kurus, who has not received My grace.

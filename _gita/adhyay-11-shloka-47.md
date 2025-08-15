@@ -7,7 +7,7 @@ shlokanum: 47
 ---
 
 > श्री भगवानुवाच<br><br>मया प्रसन्नेन तवार्जुनेदं<br><br>रूपं परं दर्शितमात्मयोगात्।<br><br>तेजोमयं विश्वमनन्तमाद्यं<br><br>यन्मे त्वदन्येन न दृष्टपूर्वम्।।11.47।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, Out of grace, O Arjuna, this supreme, radiant, cosmic, infinite, primeval form—which no one other than you has seen before—has been shown to you by Me through the power of My own Yoga.

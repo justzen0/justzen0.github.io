@@ -7,7 +7,7 @@ shlokanum: 42
 ---
 
 > इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः।<br><br>मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः।।3.42।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > They say that the organs are superior to the gross body; the mind is superior to the organs; and the intellect is superior to the mind. However, He is superior to the intellect.

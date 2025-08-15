@@ -7,7 +7,7 @@ shlokanum: 39
 ---
 
 > आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा।<br><br>कामरूपेण कौन्तेय दुष्पूरेणानलेन च।।3.39।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O son of Kunti, knowledge is covered by this constant enemy of the wise, in the form of desire, which is an insatiable fire.

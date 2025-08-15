@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > निश्चयं श्रृणु मे तत्र त्यागे भरतसत्तम।त्यागो हि पुरुषव्याघ्र त्रिविधः संप्रकीर्तितः।।18.4।।<br><br>यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत्।यज्ञो दानं तपश्चैव पावनानि मनीषिणाम्।।18.5।।<br><br>एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च।कर्तव्यानीति मे पार्थ निश्िचतं मतमुत्तमम्।।18.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O the most excellent among the descendants of Bharata, hear from Me the firm conclusion regarding that tyaga. For, O greatest among men, tyaga has been clearly declared to be of three kinds.<br><br>The practice of sacrifice, charity, and austerity should not be abandoned; it should certainly be undertaken. Sacrifice, charity, and austerity are indeed the purifiers of the wise.<br><br>But even these actions must be undertaken by renouncing attachment and hankering for results. This is My firm and definitive conclusion, O Partha.

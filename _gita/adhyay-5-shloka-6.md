@@ -7,7 +7,7 @@ shlokanum: 6
 ---
 
 > संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः।<br><br>योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति।।5.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > But, O mighty-armed one, renunciation is hard to attain without (Karma-) yoga. The meditative man equipped with yoga attains Brahman without delay.

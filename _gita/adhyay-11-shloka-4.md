@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो।<br><br>योगेश्वर ततो मे त्वं दर्शयाऽत्मानमव्ययम्।।11.4।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Lord, if You deem it possible for me to behold You, then, O Lord of Yoga, show me Your eternal Self.

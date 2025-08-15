@@ -7,7 +7,7 @@ shlokanum: 17
 ---
 
 > युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।<br><br>युक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।6.17।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Yoga becomes a destroyer of sorrow for one whose eating and movements are regulated, whose effort in works is moderate, and whose sleep and wakefulness are temperate.

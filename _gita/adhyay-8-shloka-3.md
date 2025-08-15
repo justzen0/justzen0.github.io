@@ -7,7 +7,7 @@ shlokanum: 3
 ---
 
 > श्री भगवानुवाच<br><br>अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते।<br><br>भूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः।।8.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "The Immutable is the supreme Brahman; selfhood is said to be the entity present in the individual plane. By action is meant the offerings that bring about the origin of existence of things."

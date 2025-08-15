@@ -7,7 +7,7 @@ shlokanum: 22
 ---
 
 > पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान्।कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु।।13.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Since the soul is seated in Nature, therefore it experiences the qualities born of Nature. Contact with the qualities is the cause of its births in good and evil wombs.

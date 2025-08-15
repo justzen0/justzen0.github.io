@@ -7,7 +7,7 @@ shlokanum: 19
 ---
 
 > तस्मादसक्तः सततं कार्यं कर्म समाचर।<br><br>असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः।।3.19।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Therefore, remaining unattached, always perform the obligatory duty; for, by performing one's duty without attachment, a person attains the highest.

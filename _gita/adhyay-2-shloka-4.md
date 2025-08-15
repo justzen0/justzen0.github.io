@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > अर्जुन उवाच<br><br>कथं भीष्ममहं संख्ये द्रोणं च मधुसूदन।<br><br>इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन।।2.4।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "O Madhusudana, O destroyer of enemies, how can I fight with arrows in battle against Bhisma and Drona, who are worthy of adoration?"

@@ -7,7 +7,7 @@ shlokanum: 7
 ---
 
 > तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च।<br><br>मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्।।8.7।।<br><br>अभ्यासयोगयुक्तेन चेतसा नान्यगामिना।<br><br>परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन्।।8.8।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Therefore, think of Me at all times and fight; there is no doubt that by dedicating your mind and intellect to Me, you will attain only Me.<br><br>O son of Prtha, by meditating with a mind engaged in the yoga of practice and not straying away to anything else, one reaches the supreme Person existing in the effulgent region.

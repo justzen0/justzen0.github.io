@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > श्री भगवानुवाच<br><br>इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे।<br><br>ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात्।।9.1।।<br><br>राजविद्या राजगुह्यं पवित्रमिदमुत्तमम्।<br><br>प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम्।।9.2।।<br><br>अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप।<br><br>अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि।।9.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said: However, to you who are not given to cavilling, I shall speak of this highest secret itself, which is knowledge combined with experience, by realizing which you shall be free from evil.<br><br>This is the sovereign knowledge, the sovereign profundity, the best sanctifier; directly realizable, righteous, very easy to practice, and imperishable.<br><br>O destroyer of foes, those who are disregarding this Dharma (knowledge of the Self) certainly go round and round, without reaching Me, along the path of transmigration which is fraught with death.

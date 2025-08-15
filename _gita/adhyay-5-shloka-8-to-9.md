@@ -7,7 +7,7 @@ shlokanum: 8
 ---
 
 > नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित्।<br><br>पश्यन् श्रृणवन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपन् श्वसन्।।5.8।।<br><br>प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि।<br><br>इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन्।।5.9।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > - Remaining absorbed in the Self, the knower of Reality should think, 'I certainly do not do anything', even while seeing, hearing, touching, smelling, eating, moving, sleeping, breathing, speaking, releasing, holding, opening, and closing the eyes—remembering that the organs function in relation to the objects of the organs.<br><br>- Remaining absorbed in the Self, the knower of Reality should think, 'I certainly do not do anything', even while seeing, hearing, touching, smelling, eating, moving, sleeping, breathing, speaking, releasing, holding, opening, and closing the eyes—remembering that the organs function in relation to the objects of the organs.

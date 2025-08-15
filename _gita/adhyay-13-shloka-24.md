@@ -7,7 +7,7 @@ shlokanum: 24
 ---
 
 > य एवं वेत्ति पुरुषं प्रकृतिं च गुणैःसह।सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते।।13.24।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who knows thus the Person, Nature, and Qualities will not be born again, no matter how he may live.

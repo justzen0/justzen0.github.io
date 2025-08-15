@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > अर्जुन उवाचएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते।येचाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः।।12.1।।<br><br>श्री भगवानुवाचमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते।श्रद्धया परयोपेतास्ते मे युक्ततमा मताः।।12.2।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said: "Which of these devotees, who are ever dedicated and meditate on You, and those who meditate on the Unmanifested and Immutable, are the best experiencers of yoga [here, yoga means samadhi, spiritual absorption]?"<br><br>The Blessed Lord said, "Those who meditate on Me, fixing their minds on Me with steadfast devotion, endowed with supreme faith—they are considered to be the most perfect yogis according to Me."

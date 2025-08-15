@@ -7,7 +7,7 @@ shlokanum: 20
 ---
 
 > द्यावापृथिव्योरिदमन्तरं हि<br><br>व्याप्तं त्वयैकेन दिशश्च सर्वाः।<br><br>दृष्ट्वाऽद्भुतं रूपमुग्रं तवेदं<br><br>लोकत्रयं प्रव्यथितं महात्मन्।।11.20।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Indeed, this intermediate space between heaven and earth, as well as all the directions, are pervaded by You alone. O exalted One, the three worlds are struck with fear upon seeing this strange and fearful form of Yours.

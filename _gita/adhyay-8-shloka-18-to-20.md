@@ -7,7 +7,7 @@ shlokanum: 18
 ---
 
 > अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे।<br><br>रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके।।8.18।।<br><br>भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते।<br><br>रात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे।।8.19।।<br><br>परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः।<br><br>यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति।।8.20।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > With the coming of day, all manifested things emerge from the Unmanifest, and when night comes, they merge into that which is called the Unmanifested.<br><br>O son of Prtha, after being born again and again, that very multitude of beings disappears of its own accord at the approach of night. It comes to life again at the approach of day.<br><br>But distinct from that Unmanifested is the other eternal, unmanifest Reality, who does not get destroyed when all beings are destroyed.

@@ -7,7 +7,7 @@ shlokanum: 29
 ---
 
 > आश्चर्यवत्पश्यति कश्चिदेन<br><br>माश्चर्यवद्वदति तथैव चान्यः।<br><br>आश्चर्यवच्चैनमन्यः श्रृणोति<br><br>श्रुत्वाप्येनं वेद न चैव कश्चित्।।2.29।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Someone visualizes it as a wonder; someone else talks of it as a wonder; someone else hears of it as a wonder; and yet someone else does not even realize it after hearing about it.

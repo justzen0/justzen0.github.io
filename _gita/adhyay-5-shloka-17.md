@@ -7,7 +7,7 @@ shlokanum: 17
 ---
 
 > तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः।<br><br>गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः।।5.17।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Those whose intellect is absorbed in That, whose Self is That, who are steadfast in That, and who have That as their supreme Goal—they attain the state of non-returning, their impurities having been removed by Knowledge.

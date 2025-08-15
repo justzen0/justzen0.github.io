@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते।ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम्।।12.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Knowledge is certainly superior to practice; meditation surpasses knowledge. The renunciation of the results of works surpasses meditation. From renunciation, peace follows immediately.

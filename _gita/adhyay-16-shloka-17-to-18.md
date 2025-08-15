@@ -7,7 +7,7 @@ shlokanum: 17
 ---
 
 > आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः।यजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम्।।16.17।।<br><br>अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिताः।मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः।।16.18।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Self-conceited, haughty, filled with pride and intoxicated by wealth, they perform sacrifices that are only in name, ostentatiously and without regard for the injunctions.<br><br>Resorting to egotism, power, arrogance, passion, and anger, hating Me in their own and others' bodies, they become envious by nature.

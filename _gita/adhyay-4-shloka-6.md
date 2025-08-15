@@ -7,7 +7,7 @@ shlokanum: 6
 ---
 
 > अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्।<br><br>प्रकृतिं स्वामधिष्ठाय संभवाम्यात्ममायया।।4.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Though I am birthless and undecaying by nature, and the Lord of beings, yet by subjugating My Prakriti, I take birth through My own Maya.

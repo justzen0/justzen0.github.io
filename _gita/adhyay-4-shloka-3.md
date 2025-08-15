@@ -7,7 +7,7 @@ shlokanum: 3
 ---
 
 > स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः।<br><br>भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम्।।4.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > That ancient Yoga itself, which is this, has been taught to you by Me today, considering you to be My devotee and friend, for this Yoga is a profound secret.

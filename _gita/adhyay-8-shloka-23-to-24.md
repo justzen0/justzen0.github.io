@@ -7,7 +7,7 @@ shlokanum: 23
 ---
 
 > यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः।<br><br>प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ।।8.23।।<br><br>अग्निर्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम्।<br><br>तत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः।।8.24।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O best of the Bharata dynasty, I shall now speak of that time by which the yogis depart and attain the State of Non-return, and also the State of Return.<br><br>Fire, light, daytime, the bright fortnight, the six months of the northern solstice—by following this path, persons who are knowers of Brahman attain Brahman when they die.

@@ -7,7 +7,7 @@ shlokanum: 16
 ---
 
 > नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।<br><br>न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।6.16।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > But, O Arjuna, Yoga is not for one who eats excessively, nor for one who does not eat at all; neither for one who habitually sleeps too long, nor for one who stays awake.

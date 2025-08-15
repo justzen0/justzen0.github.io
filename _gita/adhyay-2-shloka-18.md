@@ -7,7 +7,7 @@ shlokanum: 18
 ---
 
 > अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः।<br><br>अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत।।2.18।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > These destructible bodies are said to belong to the everlasting, indestructible, and indeterminable embodied One. Therefore, O descendant of Bharata, join the battle.

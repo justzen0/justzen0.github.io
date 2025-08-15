@@ -7,7 +7,7 @@ shlokanum: 20
 ---
 
 > त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः।<br><br>कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः।।4.20।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Having given up attachment to the results of action, he who is ever-content, dependent on nothing, does not really do anything even though he is engaged in action.

@@ -7,7 +7,7 @@ shlokanum: 23
 ---
 
 > गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः।<br><br>यज्ञायाचरतः कर्म समग्रं प्रविलीयते।।4.23।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The liberated person, who has rid themselves of attachment and whose mind is fixed in knowledge, has their actions undertaken for a sacrifice completely destroyed.

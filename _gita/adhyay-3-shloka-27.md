@@ -7,7 +7,7 @@ shlokanum: 27
 ---
 
 > प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः।<br><br>अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते।।3.27।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > While actions are being done in every way by the gunas (qualities) of Nature, one who is deluded by egoism thinks, "I am the doer."

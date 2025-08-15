@@ -7,7 +7,7 @@ shlokanum: 21
 ---
 
 > वेदाविनाशिनं नित्यं य एनमजमव्ययम्।<br><br>कथं स पुरुषः पार्थ कं घातयति हन्ति कम्।।2.21।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Partha, he who knows this One as indestructible, eternal, birthless, and undecaying—how can that person kill, or cause to be killed, whom?

@@ -7,7 +7,7 @@ shlokanum: 3
 ---
 
 > मनुष्याणां सहस्रेषु कश्िचद्यतति सिद्धये।<br><br>यततामपि सिद्धानां कश्िचन्मां वेत्ति तत्त्वतः।।7.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Among thousands of men, a rare one endeavors for perfection. Even among the perfected ones who are diligent, one perchance knows Me in truth.

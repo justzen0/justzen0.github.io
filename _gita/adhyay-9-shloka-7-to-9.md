@@ -7,7 +7,7 @@ shlokanum: 7
 ---
 
 > सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम्।<br><br>कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम्।।9.7।।<br><br>प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः।<br><br>भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात्।।9.8।।<br><br>न च मां तानि कर्माणि निबध्नन्ति धनञ्जय।<br><br>उदासीनवदासीनमसक्तं तेषु कर्मसु।।9.9।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O son of Kunti, all the beings at the end of a cycle go back to My Prakrti. At the beginning of a cycle, I project them forth again.<br><br>Keeping My own prakṛti under control, I project forth again and again this multitude of beings, which are powerless due to the influence of their own nature.<br><br>O Dhananjaya, those actions do not bind Me, for I remain unconcerned and unattached to them.

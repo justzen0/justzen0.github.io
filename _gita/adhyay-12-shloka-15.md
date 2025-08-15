@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः।।12.15।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He, too, owing to whom the world is not disturbed, and who is not disturbed by the world, who is free from joy, impatience, fear, and anxiety, is dear to me.

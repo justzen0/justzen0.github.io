@@ -7,7 +7,7 @@ shlokanum: 3
 ---
 
 > सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः।।17.3।।<br><br>यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः।प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः।।17.4।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O scion of the Bharata dynasty, the faith of all beings is in accordance with their minds. This person is composed of faith as the dominant factor. He is indeed what his faith is.<br><br>Those with sattva quality worship the gods; those with rajas, the demigods and demons; and those with tamas, ghosts and hosts of spirits.

@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम्।<br><br>नाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः।।8.15।।<br><br>आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन।<br><br>मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते।।8.16।।<br><br>सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदुः।<br><br>रात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः।।8.17।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > As a result of reaching Me, the exalted ones who have attained the highest perfection do not get rebirth, which is an abode of sorrows and is impermanent.<br><br>O Arjuna, all the worlds together with the world of Brahma are subject to return. But, O son of Kunti, there is no return after reaching Me.<br><br>Those people who know what day and night are, know the day of Brahma which ends in a thousand yugas, and His night which also ends in a thousand yugas.

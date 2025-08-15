@@ -7,7 +7,7 @@ shlokanum: 3
 ---
 
 > ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते।सर्वत्रगमचिन्त्यं च कूटस्थमचलं ध्रुवम्।।12.3।।<br><br>संनियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः।ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः।।12.4।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Those, however, who meditate in every way on the immutable, the indefinable, the unmanifest, which is all-pervasive, incomprehensible, unchanging, immovable, and constant.<br><br>By fully controlling all the organs and remaining even-minded at all times, they, engaged in the welfare of all beings, attain Me alone.

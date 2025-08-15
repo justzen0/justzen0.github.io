@@ -7,7 +7,7 @@ shlokanum: 31
 ---
 
 > सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः।<br><br>सर्वथा वर्तमानोऽपि स योगी मयि वर्तते।।6.31।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > That yogi, who, being established in unity, adores Me as existing in all things, exists in Me—in whatever condition he may be.

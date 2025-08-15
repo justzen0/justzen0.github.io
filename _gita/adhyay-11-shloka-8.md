@@ -7,7 +7,7 @@ shlokanum: 8
 ---
 
 > न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा।<br><br>दिव्यं ददामि ते चक्षुः पश्य मे योगमैश्वरम्।।11.8।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > But you are not able to see Me with just this eye of yours. I grant you the divine eye; behold My divine Yoga.

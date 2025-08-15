@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > समं कायशिरोग्रीवं धारयन्नचलं स्थिरः।<br><br>संप्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन्।।6.13।।<br><br>प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः।<br><br>मनः संयम्य मच्चित्तो युक्त आसीत मत्परः।।6.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Holding the body, head, and neck erect and still, being steady, looking at the tip of his own nose and not looking around.<br><br>He should remain seated with a placid mind, free from fear, firm in the vow of celibacy, and with the mind fixed on Me by controlling it through concentration, having Me as the supreme goal.

@@ -7,7 +7,7 @@ shlokanum: 14
 ---
 
 > न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः।<br><br>न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते।।5.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Self does not create agency or any objects of desire for anyone, nor does it associate with the results of actions; rather, it is Nature that acts.

@@ -7,7 +7,7 @@ shlokanum: 32
 ---
 
 > मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः।<br><br>स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम्।।9.32।।<br><br>किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा।<br><br>अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्।।9.33।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > For, O son of Prtha, even those who are born of sin-women, Vaisyas, as well as Sudras—[S.'s construction of this portion is: women, Vaisyas as well as Sudras, and even others who are born of sin (i.e., those who are born low and are of vile deeds, viz Mlecchas, Pukkasas and others). M.S. also takes papa-yonayah (born of sin) as a separate phrase, and classifies women and others only as those darred from Vedic study, etc.-Tr.]—even they reach the highest Goal by taking shelter under Me.<br><br>What of the holy Brahmanas and devoted, wise sages? Having come to this fleeting, miserable world, worship Me.

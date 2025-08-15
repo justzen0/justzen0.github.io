@@ -7,7 +7,7 @@ shlokanum: 5
 ---
 
 > अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्।<br><br>यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः।।8.5।।<br><br>यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम्।<br><br>तं तमेवैति कौन्तेय सदा तद्भावभावितः।।8.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > And at the time of death, anyone who departs, giving up the body while thinking of Me alone, attains My state; there is no doubt about this.<br><br>O son of Kunti, thinking of any entity, whichever it may be, one gives up the body at the end; he attains that very one, having been always engrossed in its thought.

@@ -7,7 +7,7 @@ shlokanum: 29
 ---
 
 > समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः।<br><br>ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम्।।9.29।।<br><br>अपि चेत्सुदुराचारो भजते मामनन्यभाक्।<br><br>साधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः।।9.30।।<br><br>क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति।<br><br>कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति।।9.31।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > I am impartial towards all beings; to Me there is none detestable or none dear. But those who worship Me with devotion, they exist in Me, and I too exist in them.<br><br>Even if a man of very bad conduct worships Me with single-minded devotion, he is to be considered truly good; for he has rightly resolved.<br><br>He soon becomes possessed of a virtuous mind; he attains everlasting peace. Do you proclaim boldly, O son of Kunti, that My devotee will not be ruined.

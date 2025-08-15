@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ।<br><br>समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते।।2.15।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Arjuna, who is foremost among men, verily, the person whom these do not torment, the wise man to whom sorrow and happiness are the same—he is fit for immortality.

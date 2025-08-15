@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > श्री भगवानुवाच<br><br>अभयं सत्त्वसंशुद्धिः ज्ञानयोगव्यवस्थितिः।<br><br>दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम्।।16.1।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said: Fearlessness, purity of mind, persistence in knowledge and yoga, charity, control of the external organs, sacrifice, scriptural study, austerity, and rectitude.

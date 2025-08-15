@@ -7,7 +7,7 @@ shlokanum: 40
 ---
 
 > न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः।सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्ित्रभिर्गुणैः।।18.40।।<br><br>ब्राह्मणक्षत्रियविशां शूद्राणां च परंतप।कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः।।18.41।।<br><br>शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च।ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्।।18.42।।<br><br>शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम्।दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्।।18.43।।<br><br>कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम्।परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम्।।18.44।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > There is no entity in the world, nor among the gods in heaven, that can be free from these three gunas born of Nature.<br><br>O scorcher of enemies, the duties of the Brahmanas, Ksatriyas, Vaisyas, and Sudras have been fully classified according to the gunas born from Nature.<br><br>The natural duties of the Brahmanas are the control of the internal and external organs, austerity, purity, forgiveness, straightforwardness, knowledge, as well as wisdom [Knowledge refers to the understanding of subjects presented by the scriptures; wisdom means making them matters of one's own experience.], and faith.<br><br>The natural duties of the Ksatriyas are heroism, boldness, fortitude, capability, and not retreating from battle, generosity, and lordliness.<br><br>The natural duties of the Vaisyas are agriculture, cattle-rearing, and trading. The natural duty of the Sudras, too, is in the form of service.

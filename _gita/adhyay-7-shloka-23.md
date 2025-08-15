@@ -7,7 +7,7 @@ shlokanum: 23
 ---
 
 > अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम्।<br><br>देवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि।।7.23।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The result of those who are of poor intellect is indeed limited. The worshippers of gods go to the gods, while My devotees go to Me alone.

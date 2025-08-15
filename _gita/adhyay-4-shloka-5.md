@@ -7,7 +7,7 @@ shlokanum: 5
 ---
 
 > श्री भगवानुवाच<br><br>बहूनि मे व्यतीतानि जन्मानि तव चार्जुन।<br><br>तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप।।4.5।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "O Arjuna, many lives of Mine have passed, and so have yours. I know them all, but you do not know, O scorcher of enemies!"

@@ -7,7 +7,7 @@ shlokanum: 24
 ---
 
 > समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः।तुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः।।14.24।।<br><br>मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः।सर्वारम्भपरित्यागी गुणातीतः स उच्यते।।14.25।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He to whom sorrow and happiness are alike, who is established in his own Self, to whom a lump of earth, iron, and gold are the same, to whom the agreeable and the disagreeable are the same, who is wise, to whom censure and his own praise are the same;<br><br>He who is the same under honor and dishonor, who is equitably disposed towards both friends and foes, who has renounced all undertakings—he is said to have gone beyond dualities.

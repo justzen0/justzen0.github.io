@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > मया ततमिदं सर्वं जगदव्यक्तमूर्तिना।<br><br>मत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः।।9.4।।<br><br>न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम्।<br><br>भूतभृन्न च भूतस्थो ममात्मा भूतभावनः।।9.5।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > This whole world is pervaded by Me in My unmanifest form. All beings exist in Me, but I am not contained within them!<br><br>Neither do the beings dwell in Me. Behold My divine Yoga! I am the sustainer and originator of beings, but My Self is not contained within the beings.

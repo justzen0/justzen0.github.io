@@ -7,7 +7,7 @@ shlokanum: 35
 ---
 
 > सञ्जय उवाच<br><br>एतच्छ्रुत्वा वचनं केशवस्य<br><br>कृताञ्जलिर्वेपमानः किरीटी।<br><br>नमस्कृत्वा भूय एवाह कृष्णं<br><br>सगद्गदं भीतभीतः प्रणम्य।।11.35।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Sanjaya said: Hearing this utterance of Kesava, Kiriti (Arjuna), with joined palms and trembling, prostrated himself, and then, with a faltering voice, bowed down and overcome by fits of fear, said again to Krsna:

@@ -7,7 +7,7 @@ shlokanum: 7
 ---
 
 > इच्छा द्वेषः सुखं दुःखं सङ्घातश्चेतनाधृतिः।एतत्क्षेत्रं समासेन सविकारमुदाहृतम्।।13.7।।<br><br>अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम्।आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः।।13.8।।<br><br>इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च।जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम्।।13.9।।<br><br>असक्ितरनभिष्वङ्गः पुत्रदारगृहादिषु।नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु।।13.10।।<br><br>मयि चानन्ययोगेन भक्ितरव्यभिचारिणी।विविक्तदेशसेवित्वमरतिर्जनसंसदि।।13.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Desire, repulsion, happiness, sorrow, the aggregate (of body and organs), sentience, fortitude—this field, together with its modifications, has been spoken of briefly.<br><br>Humility, unpretentiousness, non-injury, forbearance, sincerity, service to the teacher, cleanliness, steadiness, and control of the body and its organs;<br><br>Non-attachment to objects of the senses, and also the absence of egotism; seeing the evil in birth, death, aging, diseases, and miseries;<br><br>Non-attachment and absence of fondness with regard to sons, wives, homes, etc., and constant equanimity of the mind with regard to the attainment of both the desirable and the undesirable;<br><br>And unwavering devotion to Me with single-minded concentration; inclination to retreat to a clean place; lack of delight in a crowd of people;

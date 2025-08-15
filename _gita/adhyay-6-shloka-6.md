@@ -7,7 +7,7 @@ shlokanum: 6
 ---
 
 > बन्धुरात्माऽऽत्मनस्तस्य येनात्मैवात्मना जितः।<br><br>अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्।।6.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who has conquered his own self by the self, his self is his own friend. But for one who has not conquered his own self, his self itself acts like an enemy.

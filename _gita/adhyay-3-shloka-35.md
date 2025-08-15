@@ -7,7 +7,7 @@ shlokanum: 35
 ---
 
 > श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।<br><br>स्वधर्मे निधनं श्रेयः परधर्मो भयावहः।।3.35।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One's own duty, though defective, is superior to another's duty well-performed. Death is better while engaged in one's own duty; another's duty is full of fear.

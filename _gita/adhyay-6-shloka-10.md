@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > योगी युञ्जीत सततमात्मानं रहसि स्थितः।<br><br>एकाकी यतचित्तात्मा निराशीरपरिग्रहः।।6.10।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > A yogi should constantly concentrate his mind by staying in a solitary place, alone, with mind and body controlled, free from expectations, and free from acquisition.

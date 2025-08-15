@@ -7,7 +7,7 @@ shlokanum: 25
 ---
 
 > लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः।<br><br>छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः।।5.25।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The seers whose sins have been attenuated, who are free from doubt, whose senses are under control, who are engaged in doing good to all beings, attain absorption in Brahman.

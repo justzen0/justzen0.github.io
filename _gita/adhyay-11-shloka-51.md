@@ -7,7 +7,7 @@ shlokanum: 51
 ---
 
 > अर्जुन उवाच<br><br>दृष्ट्वेदं मानुषं रूपं तवसौम्यं जनार्दन।<br><br>इदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः।।11.51।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Arjuna said, "O Janardana, having seen this serene human form of Yours, I have now become calm in mind and restored to my own nature."

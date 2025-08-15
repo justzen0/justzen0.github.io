@@ -7,7 +7,7 @@ shlokanum: 20
 ---
 
 > त्रैविद्या मां सोमपाः पूतपापा<br><br>यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते।<br><br>ते पुण्यमासाद्य सुरेन्द्रलोक<br><br>मश्नन्ति दिव्यान्दिवि देवभोगान्।।9.20।।<br><br>ते तं भुक्त्वा स्वर्गलोकं विशालं<br><br>क्षीणे पुण्ये मर्त्यलोकं विशन्ति।<br><br>एव त्रयीधर्ममनुप्रपन्ना<br><br>गतागतं कामकामा लभन्ते।।9.21।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Those who are versed in the Vedas, who drink Soma and are purified of sin, pray for the heavenly goal by worshipping Me through sacrifices. Having reached the place (world) of the king of gods, which is the result of righteousness, they enjoy the divine pleasure of the gods in heaven.<br><br>After having enjoyed that vast heavenly world, they enter into the human world upon the exhaustion of their merit. Thus, those who follow the rites and duties prescribed in the three Vedas, and are desirous of pleasures, attain the state of coming and going.

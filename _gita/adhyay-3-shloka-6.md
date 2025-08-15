@@ -7,7 +7,7 @@ shlokanum: 6
 ---
 
 > कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन्।<br><br>इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते।।3.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One who, after withdrawing the organs of action, sits mentally recollecting the objects of the senses, is called a hypocrite, for they have a deluded mind.

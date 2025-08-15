@@ -7,7 +7,7 @@ shlokanum: 28
 ---
 
 > युञ्जन्नेवं सदाऽऽत्मानं योगी विगतकल्मषः।<br><br>सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते।।6.28।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > By constantly concentrating his mind in this way, the taintless yogi easily attains the absolute bliss of contact with Brahman.

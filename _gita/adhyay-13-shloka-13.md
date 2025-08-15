@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वाऽमृतमश्नुते।अनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते।।13.13।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > I shall speak of that which is to be known, by realizing which one attains immortality. The supreme Brahman is without any beginning; that is called neither being nor non-being.

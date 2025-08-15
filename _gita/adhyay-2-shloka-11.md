@@ -7,7 +7,7 @@ shlokanum: 11
 ---
 
 > श्री भगवानुवाच<br><br>अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे।<br><br>गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः।।2.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "You grieve for those who are not to be grieved for; and you speak words of wisdom! The learned do not grieve for the departed nor for those who have not departed.

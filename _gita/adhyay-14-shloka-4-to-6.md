@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः।तासां ब्रह्म महद्योनिरहं बीजप्रदः पिता।।14.4।।<br><br>सत्त्वं रजस्तम इति गुणाः प्रकृतिसंभवाः।निबध्नन्ति महाबाहो देहे देहिनमव्ययम्।।14.5।।<br><br>तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम्।सुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ।।14.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O son of Kunti, whatever forms are born from all the wombs, of them the great sustainer is the womb; I am the father who deposits the seed.<br><br>O mighty-armed one, the qualities, viz. sattva, rajas, and tamas, born of Nature, are the immutable embodiments belonging to the body.<br><br>Among them, sattva, being pure and nirmala (pure-transparent, i.e., capable of resisting any form of ignorance, and hence an illuminator, i.e. a revealer of Consciousness), is harmless. O sinless one, it binds through attachment to happiness and attachment to knowledge.

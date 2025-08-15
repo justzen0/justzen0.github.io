@@ -7,7 +7,7 @@ shlokanum: 3
 ---
 
 > आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते।<br><br>योगारूढस्य तस्यैव शमः कारणमुच्यते।।6.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > For the sage who wishes to ascend to (Dhyana-) yoga, action is said to be the means. For that person, once he has ascended to (Dhyana-)yoga, inaction alone is said to be the means.

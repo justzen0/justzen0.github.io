@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः।<br><br>तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः।।3.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > 'Being nourished by sacrifices, the gods will indeed give you the coveted enjoyments. He is certainly a thief who enjoys what has been given by them without offering it to them.'

@@ -7,7 +7,7 @@ shlokanum: 38
 ---
 
 > त्वमादिदेवः पुरुषः पुराण<br><br>स्त्वमस्य विश्वस्य परं निधानम्।<br><br>वेत्तासि वेद्यं च परं च धाम<br><br>त्वया ततं विश्वमनन्तरूप।।11.38।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > You are the primal Deity, the ancient Person; You are the supreme Refuge of this world. You are the knower and the object of knowledge, and the supreme Abode. O You of infinite forms, You pervade the Universe!

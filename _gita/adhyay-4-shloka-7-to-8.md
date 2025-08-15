@@ -7,7 +7,7 @@ shlokanum: 7
 ---
 
 > यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।<br><br>अभ्युत्थानमधर्मस्य तदाऽऽत्मानं सृजाम्यहम्।।4.7।।<br><br>परित्राणाय साधूनां विनाशाय च दुष्कृताम्।<br><br>धर्मसंस्थापनार्थाय संभवामि युगे युगे।।4.8।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O scion of the Bharata dynasty, whenever there is a decline in virtue and an increase in vice, then I manifest Myself.<br><br>For the protection of the pious, the destruction of the evil-doers, and the establishment of virtue, I manifest myself in every age.

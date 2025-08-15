@@ -7,7 +7,7 @@ shlokanum: 7
 ---
 
 > प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः।न शौचं नापि चाचारो न सत्यं तेषु विद्यते।।16.7।।<br><br>असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम्।अपरस्परसम्भूतं किमन्यत्कामहैतुकम्।।16.8।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Neither do the demoniacal persons understand what should be done and what should not be done; nor do they possess purity, good conduct, or truthfulness.<br><br>They say that the world is unreal, having no basis, and without a God. It is born of mutual union brought about by passion! What other cause could there be?

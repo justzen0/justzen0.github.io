@@ -7,7 +7,7 @@ shlokanum: 1
 ---
 
 > अर्जुन उवाच<br><br>प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च।<br><br>एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव।।13.1।।<br><br>श्री भगवानुवाचइदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते।एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः।।13.2।।<br><br>क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत।<br><br>क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम।।13.3।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Swami Gambhirananda has not translated this verse. Many editions of the Bhagavad Gita do not contain this verse, including the commentary by Shankaracharya. If this verse is included, the total number of verses in the Bhagavad Gita is 701.<br><br>The Blessed Lord said, "O son of Kunti, this body is referred to as the 'field'. Those who are versed in this call him who is conscious of it the 'knower of the field'."<br><br>And, O scion of the Bharata dynasty, understand Me to be the 'Knower of the field' in all the fields. In My opinion, that is Knowledge which is the knowledge of the field and the knower of the field.

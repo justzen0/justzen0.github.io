@@ -7,7 +7,7 @@ shlokanum: 30
 ---
 
 > प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम्।<br><br>मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम्।।10.30।।<br><br>पवनः पवतामस्मि रामः शस्त्रभृतामहम्।<br><br>झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी।।10.31।।<br><br>सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन।<br><br>अध्यात्मविद्या विद्यानां वादः प्रवदतामहम्।।10.32।।<br><br>अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च।<br><br>अहमेवाक्षयः कालो धाताऽहं विश्वतोमुखः।।10.33।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Among demons, I am Prahlada, and among reckoners of time, I am Time. Among animals, I am the lion, and among birds, I am Garuda.<br><br>Of the purifiers, I am the air; among the wielders of weapons, I am Rama. Among fishes, I am the shark; among rivers, I am Ganga.<br><br>O Arjuna, of creations I am the beginning, the middle, and the end; I am the knowledge of the Self among knowledge; of those who debate, I am vada.<br><br>Of the letters, I am the letter A, and of the group of compound words, I am the compound called Dvandva. I am Myself the infinite time; I am the Dispenser with faces everywhere.

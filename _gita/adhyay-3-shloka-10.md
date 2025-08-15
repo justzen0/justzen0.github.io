@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः।<br><br>अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्।।3.10।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > In days of yore, having created the beings together with the sacrifices, Prajapati said, "By this, you shall multiply. Let this be your yielder of coveted objects of desire."

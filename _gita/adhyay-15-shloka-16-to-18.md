@@ -7,7 +7,7 @@ shlokanum: 16
 ---
 
 > द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च।क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते।।15.16।।<br><br>उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः।यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः।।15.17।।<br><br>यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः।अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः।।15.18।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > There are two kinds of people in the world: the mutable and the immutable. The mutable consists of all things; the one existing as Maya is referred to as the immutable.<br><br>But the Supreme Person is different; He is spoken of as the transcendental Self, permeating the three worlds and upholding them, and He is the imperishable God.<br><br>Since I am transcendental to the mutable and above even the immutable, therefore I am well known in the world and in the Vedas as the supreme Person.

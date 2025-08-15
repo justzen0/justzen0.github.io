@@ -7,7 +7,7 @@ shlokanum: 18
 ---
 
 > विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि।<br><br>शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।।5.18।।<br><br>इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः।<br><br>निर्दोषं हि समं ब्रह्म तस्माद्ब्रह्मणि ते स्थिताः।।5.19।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The learned ones look with equanimity on a Brahmana endowed with learning and humility, a cow, an elephant, and even a dog, as well as one who eats dog meat.<br><br>Here itself is mirth attained by those whose minds are established in sameness. Since Brahman is the same in all and free from defects, they are established in Brahman.

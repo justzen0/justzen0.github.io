@@ -7,7 +7,7 @@ shlokanum: 52
 ---
 
 > यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति।<br><br>तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च।।2.52।।<br><br>श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला।<br><br>समाधावचला बुद्धिस्तदा योगमवाप्स्यसि।।2.53।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > When your mind goes beyond the turbidity of delusion, then you will acquire dispassion for what has to be heard and what has already been heard.<br><br>When your mind, which has become bewildered by hearing, becomes unshakable and steadfast in the Self, then you will attain Yoga that arises from discrimination.

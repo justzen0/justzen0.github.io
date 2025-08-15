@@ -7,7 +7,7 @@ shlokanum: 23
 ---
 
 > शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात्।<br><br>कामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः।।5.23।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One who can withstand here itself, before departing from the body, the impulse arising from desire and anger, that person is a yogi; they are happy.

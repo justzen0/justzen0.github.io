@@ -7,7 +7,7 @@ shlokanum: 20
 ---
 
 > कर्मणैव हि संसिद्धिमास्थिता जनकादयः।<br><br>लोकसंग्रहमेवापि संपश्यन्कर्तुमर्हसि।।3.20।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > For Janaka and others strove to attain liberation through action itself. You should perform your duties, keeping in view the prevention of mankind from going astray.

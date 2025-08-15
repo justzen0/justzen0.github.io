@@ -7,7 +7,7 @@ shlokanum: 23
 ---
 
 > तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः।ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा।।17.23।।<br><br>तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः।प्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम्।।17.24।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > "Om-tat-sat" - this is considered to be the threefold designation of Brahman. The Brahmanas, Vedas, and sacrifices were ordained by that in days of yore.<br><br>Therefore, acts of sacrifice, charity, and austerity, as prescribed through injunctions, of those who study and expound the Vedas, always commence after uttering the syllable ‘Om’.

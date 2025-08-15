@@ -7,7 +7,7 @@ shlokanum: 16
 ---
 
 > नासतो विद्यते भावो नाभावो विद्यते सतः।<br><br>उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।2.16।।<br><br>अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्।<br><br>विनाशमव्ययस्यास्य न कश्चित् कर्तुमर्हति।।2.17।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > There is no being of the unreal; the real has no non-existence. Yet, the nature of both has been realized by the seers of Truth.<br><br>But know that to be indestructible by which all this is pervaded. No one can bring about the destruction of this immutable.

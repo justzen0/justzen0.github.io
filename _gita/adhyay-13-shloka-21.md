@@ -7,7 +7,7 @@ shlokanum: 21
 ---
 
 > कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते।पुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते।।13.21।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > With regard to the source of the body and its organs, Nature is said to be the cause; the soul is the cause so far as the enjoyment of happiness and sorrow is concerned.

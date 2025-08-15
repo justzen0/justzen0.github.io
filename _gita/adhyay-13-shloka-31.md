@@ -7,7 +7,7 @@ shlokanum: 31
 ---
 
 > यदा भूतपृथग्भावमेकस्थमनुपश्यति।तत एव च विस्तारं ब्रह्म सम्पद्यते तदा।।13.31।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > When one realizes that the state of diversity of living things is rooted in the One, and that their manifestation also comes from That, then one becomes identified with Brahman.

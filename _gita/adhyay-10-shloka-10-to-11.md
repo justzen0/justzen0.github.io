@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम्।<br><br>ददामि बुद्धियोगं तं येन मामुपयान्ति ते।।10.10।।<br><br>तेषामेवानुकम्पार्थमहमज्ञानजं तमः।<br><br>नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता।।10.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > To those who are ever devoted and worship Me with love, I grant the possession of wisdom that leads them to Me.<br><br>Out of compassion for them alone, I, residing in their hearts, destroy the darkness born of ignorance with the luminous lamp of knowledge.

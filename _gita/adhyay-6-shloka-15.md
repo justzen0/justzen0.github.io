@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > युञ्जन्नेवं सदाऽऽत्मानं योगी नियतमानसः।<br><br>शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति।।6.15।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Concentrating the mind thus, forever, the yogi of a controlled mind achieves the peace that culminates in liberation and abides in Me.

@@ -7,7 +7,7 @@ shlokanum: 4
 ---
 
 > न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते।<br><br>न च संन्यसनादेव सिद्धिं समधिगच्छति।।3.4।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > A person does not attain freedom from action by abstaining from action; nor does he attain fulfillment merely through renunciation.

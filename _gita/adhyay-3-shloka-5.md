@@ -7,7 +7,7 @@ shlokanum: 5
 ---
 
 > न हि कश्िचत्क्षणमपि जातु तिष्ठत्यकर्मकृत्।<br><br>कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः।।3.5।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > For no one ever remains even for a moment without doing work, for all are made to work under compulsion by the gunas born of Nature.

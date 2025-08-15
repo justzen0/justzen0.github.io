@@ -7,7 +7,7 @@ shlokanum: 11
 ---
 
 > शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः।<br><br>नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम्।।6.11।।<br><br>तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः।<br><br>उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये।।6.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Having firmly established in a clean place his seat, neither too high nor too low, composed of cloth, skin, and kusa-grass placed successively one below the other;<br><br>Sitting on that seat, he should concentrate his mind for the purification of the internal organ, making the mind one-pointed and keeping the actions of the mind and senses under control.

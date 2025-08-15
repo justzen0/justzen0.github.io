@@ -7,7 +7,7 @@ shlokanum: 17
 ---
 
 > किरीटिनं गदिनं चक्रिणं च<br><br>तेजोराशिं सर्वतोदीप्तिमन्तम्।<br><br>पश्यामि त्वां दुर्निरीक्ष्यं समन्ता<br><br>द्दीप्तानलार्कद्युतिमप्रमेयम्।।11.17।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > I see You wearing a diadem, wielding a mace, and holding a disc; a mass of brilliance glowing all around, difficult to look at from all sides, possessing the radiance of the blazing fire and sun, and immeasurable.

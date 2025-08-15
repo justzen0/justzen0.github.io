@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः।<br><br>भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात्।।3.13।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > By partaking in the remnants of sacrifices, they become freed from all sins. But those who are unholy and cook for themselves incur sin.

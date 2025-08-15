@@ -7,7 +7,7 @@ shlokanum: 19
 ---
 
 > श्री भगवानुवाच<br><br>हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः।<br><br>प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे।।10.19।।<br><br>अहमात्मा गुडाकेश सर्वभूताशयस्थितः।<br><br>अहमादिश्च मध्यं च भूतानामन्त एव च।।10.20।।<br><br>आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान्।<br><br>मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी।।10.21।।<br><br>वेदानां सामवेदोऽस्मि देवानामस्मि वासवः।<br><br>इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना।।10.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, O best of the Kurus, now, according to their importance, I shall describe to you My own glories, which are indeed divine. There is no end to My manifestations.<br><br>O Gudakesa, I am the Self residing in the hearts of all beings, and I am the beginning, middle, and end of all beings.<br><br>Among the Adityas [viz Dhata, Mitra, Aryama, Rudra, Varuna, Surya, Bhaga, Vivasvan, Pusa, Savita, Tvasta, and Visnu.-Tr.], I am Visnu; among the luminaries, the radiant sun; among the (forty-nine) Maruts [The seven groups of Maruts are Avaha, Pravaha, Vivaha, Paravaha, Udvaha, Samvaha, and Parivaha.-Tr.], I am Marici; among the stars, I am the moon.<br><br>Among the Vedas, I am the Sama-Veda; among the gods, I am Indra. Among the organs, I am the mind, and I am the intelligence in creatures.

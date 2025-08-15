@@ -7,7 +7,7 @@ shlokanum: 58
 ---
 
 > यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः।<br><br>इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता।।2.58।।<br><br>विषया विनिवर्तन्ते निराहारस्य देहिनः।<br><br>रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते।।2.59।।<br><br>यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः।<br><br>इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः।।2.60।।<br><br>तानि सर्वाणि संयम्य युक्त आसीत मत्परः।<br><br>वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता।।2.61।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > And when one fully withdraws their senses from the objects of the senses, just as a tortoise withdraws its limbs, then their wisdom remains established.<br><br>The objects recede from an abstinent person, except for the taste for them. Even this taste falls away after realization of the Absolute.<br><br>For, O son of Kunti, the turbulent senses can violently snatch away the mind of an intelligent person, even while they are striving diligently.<br><br>Controlling all of them, one should remain focused on Me as the supreme. For, the wisdom of one whose senses are under control becomes steadfast.

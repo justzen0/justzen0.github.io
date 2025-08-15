@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः।<br><br>माययापहृतज्ञाना आसुरं भावमाश्रिताः।।7.15।।<br><br>चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन।<br><br>आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ।।7.16।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The foolish evildoers, who are the most depraved among men, who are deprived of their wisdom by Maya, and who resort to demonic ways, do not take refuge in Me.<br><br>O Arjuna, foremost of the Bharata dynasty, four classes of people of virtuous deeds adore Me: the afflicted, the seekers of Knowledge, the seekers of wealth, and the man of Knowledge.

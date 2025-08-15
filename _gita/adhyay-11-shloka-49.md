@@ -7,7 +7,7 @@ shlokanum: 49
 ---
 
 > मा ते व्यथा मा च विमूढभावो<br><br>दृष्ट्वा रूपं घोरमीदृङ्ममेदम्।<br><br>व्यपेतभीः प्रीतमनाः पुनस्त्वं<br><br>तदेव मे रूपमिदं प्रपश्य।।11.49।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > May you have no fear, and may there be no bewilderment upon seeing this form of Mine so terrible. Becoming free from fear and gladdened in mind once again, behold this earlier form of Mine.

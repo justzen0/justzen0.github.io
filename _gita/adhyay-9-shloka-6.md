@@ -7,7 +7,7 @@ shlokanum: 6
 ---
 
 > यथाऽऽकाशस्थितो नित्यं वायुः सर्वत्रगो महान्।<br><br>तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय।।9.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Understand thus that just as the voluminous wind, moving everywhere, is ever present in space, similarly all beings abide in Me.

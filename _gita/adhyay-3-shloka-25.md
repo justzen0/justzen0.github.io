@@ -7,7 +7,7 @@ shlokanum: 25
 ---
 
 > सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत।<br><br>कुर्याद्विद्वांस्तथासक्तश्िचकीर्षुर्लोकसंग्रहम्।।3.25।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O scion of the Bharata dynasty, as the unenlightened people act with attachment to work, so should the enlightened person act, without attachment, desiring to prevent people from going astray.

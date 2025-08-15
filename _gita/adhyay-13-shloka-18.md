@@ -7,7 +7,7 @@ shlokanum: 18
 ---
 
 > ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते।ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम्।।13.18।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > That is the Light of all lights; It is spoken of as beyond darkness. It is Knowledge, the Knowable, and the Known. It is specially situated in the hearts of all.

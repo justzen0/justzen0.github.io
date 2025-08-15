@@ -7,7 +7,7 @@ shlokanum: 21
 ---
 
 > यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति।<br><br>तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम्।।7.21।।<br><br>स तया श्रद्धया युक्तस्तस्याराधनमीहते।<br><br>लभते च ततः कामान्मयैव विहितान् हि तान्।।7.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Whichever form of a deity any devotee wants to worship with faith, I strengthen that very firm faith of theirs.<br><br>Being imbued with that faith, that person engages in worshipping that form, and they get those very desired results as dispensed by Me alone.

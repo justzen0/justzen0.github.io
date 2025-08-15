@@ -7,7 +7,7 @@ shlokanum: 43
 ---
 
 > पितासि लोकस्य चराचरस्य<br><br>त्वमस्य पूज्यश्च गुरुर्गरीयान्।<br><br>न त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो<br><br>लोकत्रयेऽप्यप्रतिमप्रभाव।।11.43।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > You are the Father of all beings, both moving and non-moving; to You, the Teacher, are they worthy of worship, and You are greater than a teacher. There is none equal to You; how can there be anyone greater even in all the three worlds, O You of unrivaled power?

@@ -7,7 +7,7 @@ shlokanum: 38
 ---
 
 > धूमेनाव्रियते वह्निर्यथाऽऽदर्शो मलेन च।<br><br>यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्।।3.38।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > As fire is enveloped by smoke, as a mirror is obscured by dirt, and as a fetus remains enclosed in the womb, so is this shrouded by that.

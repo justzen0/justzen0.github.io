@@ -7,7 +7,7 @@ shlokanum: 5
 ---
 
 > उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत्।<br><br>आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः।।6.5।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One should save oneself by oneself; one should not degrade oneself. For oneself is indeed one's own friend; oneself is indeed one's own enemy.

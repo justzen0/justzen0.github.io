@@ -7,7 +7,7 @@ shlokanum: 72
 ---
 
 > कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा।कच्चिदज्ञानसंमोहः प्रनष्टस्ते धनञ्जय।।18.72।।<br><br>अर्जुन उवाचनष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत।स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव।।18.73।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Partha, have you listened to this with a one-pointed mind? O Dhananjaya, has your delusion caused by ignorance been dispelled?<br><br>Arjuna said, "O Acyuta, my delusion has been destroyed and my memory has been regained through Your grace. I stand with my doubt removed; I shall follow Your instructions."

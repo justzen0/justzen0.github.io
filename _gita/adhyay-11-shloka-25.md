@@ -7,7 +7,7 @@ shlokanum: 25
 ---
 
 > दंष्ट्राकरालानि च ते मुखानि<br><br>दृष्ट्वैव कालानलसन्निभानि।<br><br>दिशो न जाने न लभे च शर्म<br><br>प्रसीद देवेश जगन्निवास।।11.25।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Having merely seen Your mouths made terrible with their teeth and resembling the fire of Dissolution, I have lost my sense of direction and find no comfort. Be gracious, O Lord of gods, O Abode of the Universe.

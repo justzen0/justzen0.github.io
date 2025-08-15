@@ -7,7 +7,7 @@ shlokanum: 22
 ---
 
 > अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।<br><br>तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्।।9.22।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Those persons who, becoming non-different from Me and meditating, worship Me everywhere, for them, who are ever attached to Me, I arrange for securing what they lack and preserving what they have.

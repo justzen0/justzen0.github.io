@@ -7,7 +7,7 @@ shlokanum: 30
 ---
 
 > देही नित्यमवध्योऽयं देहे सर्वस्य भारत।<br><br>तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि।।2.30।।<br><br>स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि।<br><br>धर्म्याद्धि युद्धाछ्रेयोऽन्यत्क्षत्रियस्य न विद्यते।।2.31।।<br><br>यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम्।<br><br>सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्।।2.32।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O descendant of Bharata, this embodied Self existing in everyone's body can never be killed; therefore, you ought not to grieve for all these beings.<br><br>Even considering your own duty, you should not waver, since there is nothing better for a Ksatriya than a righteous battle.<br><br>O son of Partha, happy are the Kshatriyas who come across such a battle, which presents itself unsought and is an open gate to heaven.

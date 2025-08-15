@@ -7,7 +7,7 @@ shlokanum: 28
 ---
 
 > समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम्।विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति।।13.28।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who sees the Supreme Lord existing truly in all beings, and the Imperishable among the perishable, sees indeed.

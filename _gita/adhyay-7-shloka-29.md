@@ -7,7 +7,7 @@ shlokanum: 29
 ---
 
 > जरामरणमोक्षाय मामाश्रित्य यतन्ति ये।<br><br>ते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम्।।7.29।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Those who strive by resorting to Me for becoming free from old age and death, they know Brahman, the individual Self, and all about actions. [They know Brahman as being all the individual entities and all actions. This verse prescribes meditation on the qualified Brahman for aspirants of the middle class. Verses beginning with the 14th speak about the realization of the unqualified Brahman by aspirants of the highest class.]

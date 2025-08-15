@@ -7,7 +7,7 @@ shlokanum: 15
 ---
 
 > एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः।<br><br>कुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम्।।4.15।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Thus having known, even the ancient seekers of liberation performed their duties. Therefore, you should undertake action as was performed earlier by the ancients.

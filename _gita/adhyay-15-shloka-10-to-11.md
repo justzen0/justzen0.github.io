@@ -7,7 +7,7 @@ shlokanum: 10
 ---
 
 > उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम्।विमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः।।15.10।।<br><br>यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम्।यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः।।15.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Persons who are diversely deluded do not see it even when it is leaving, residing, experiencing, or in association with the qualities; those with the eye of knowledge see.<br><br>And the diligent yogis see this one existing within themselves. The non-discriminating ones who lack self-control, however, do not see this one, even though they are diligent.

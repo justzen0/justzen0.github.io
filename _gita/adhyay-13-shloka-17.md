@@ -7,7 +7,7 @@ shlokanum: 17
 ---
 
 > अविभक्तं च भूतेषु विभक्तमिव च स्थितम्।भूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च।।13.17।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Knowable, though undivided, appears to exist as divided in all beings, and It is the sustainer, devourer, and originator of all beings.

@@ -7,7 +7,7 @@ shlokanum: 9
 ---
 
 > सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु।<br><br>साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते।।6.9।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He excels who has sameness of view with regard to a benefactor, a friend, an enemy, a neutral, an arbiter, the hateful, a relative, good people, and even sinners.

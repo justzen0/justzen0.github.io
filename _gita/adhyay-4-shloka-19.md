@@ -7,7 +7,7 @@ shlokanum: 19
 ---
 
 > यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः।<br><br>ज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः।।4.19।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The wise call him learned whose actions are all devoid of desires and their thoughts, and whose actions have been burned away by the fire of wisdom.

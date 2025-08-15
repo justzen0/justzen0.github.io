@@ -7,7 +7,7 @@ shlokanum: 28
 ---
 
 > अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत।<br><br>अव्यक्तनिधनान्येव तत्र का परिदेवना।।2.28।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O descendant of Bharata, all beings remain unmanifested in the beginning; they become manifested in the middle. After death, they certainly become unmanifested. What lamentation can there be for them?

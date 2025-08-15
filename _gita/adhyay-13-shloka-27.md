@@ -7,7 +7,7 @@ shlokanum: 27
 ---
 
 > यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गमम्।क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ।।13.27।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O scion of the Bharata dynasty, whatever object, moving or non-moving, comes into existence, know that to be from the combination of the field and the Knower of the field!

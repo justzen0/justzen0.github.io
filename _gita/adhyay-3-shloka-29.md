@@ -7,7 +7,7 @@ shlokanum: 29
 ---
 
 > प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु।<br><br>तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत्।।3.29।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Those who are completely deluded by the gunas of Nature become attached to the activities of the gunas. The one who knows the All should not disturb those of dull intellect, who do not know the All.

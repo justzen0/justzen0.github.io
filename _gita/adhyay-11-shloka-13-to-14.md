@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा।<br><br>अपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा।।11.13।।<br><br>ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः।<br><br>प्रणम्य शिरसा देवं कृताञ्जलिरभाषत।।11.14।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > At that time, the Pandava saw, in the body of the God of gods, the whole diversely differentiated universe united in one.<br><br>Then, filled with wonder and with hairs standing on end, Arjuna, bowing down with his head to the Lord, said with folded hands:

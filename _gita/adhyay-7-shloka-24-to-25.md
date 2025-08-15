@@ -7,7 +7,7 @@ shlokanum: 24
 ---
 
 > अव्यक्तं व्यक्ितमापन्नं मन्यन्ते मामबुद्धयः।<br><br>परं भावमजानन्तो ममाव्ययमनुत्तमम्।।7.24।।<br><br>नाहं प्रकाशः सर्वस्य योगमायासमावृतः।<br><br>मूढोऽयं नाभिजानाति लोको मामजमव्ययम्।।7.25।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The unintelligent, unaware of My supreme state which is immutable and unsurpassable, think of Me as having become manifest from the unmanifest.<br><br>Being enveloped by yoga-maya, I do not become manifest to all. This deluded world does not know Me, who am birthless and undecaying.

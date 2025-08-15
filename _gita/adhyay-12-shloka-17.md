@@ -7,7 +7,7 @@ shlokanum: 17
 ---
 
 > यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति।शुभाशुभपरित्यागी भक्ितमान्यः स मे प्रियः।।12.17।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > He who does not rejoice, nor fret, nor lament, nor hanker; who gives up both good and bad, and is filled with devotion—he is dear to Me.

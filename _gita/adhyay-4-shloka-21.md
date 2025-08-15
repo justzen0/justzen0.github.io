@@ -7,7 +7,7 @@ shlokanum: 21
 ---
 
 > निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः।<br><br>शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम्।।4.21।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > One who is without solicitation, who has the mind and senses under control, and is totally without possessions, incurs no sin by performing actions merely for the maintenance of the body.

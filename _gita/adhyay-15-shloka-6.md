@@ -7,7 +7,7 @@ shlokanum: 6
 ---
 
 > न तद्भासयते सूर्यो न शशाङ्को न पावकः।यद्गत्वा न निवर्तन्ते तद्धाम परमं मम।।15.6।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Neither the sun nor the moon nor fire illuminates That. That is My supreme Abode, to which they do not return.

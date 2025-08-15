@@ -7,7 +7,7 @@ shlokanum: 11
 ---
 
 > कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि।<br><br>योगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वाऽऽत्मशुद्धये।।5.11।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > By giving up attachment, the yogis undertake work solely through the body, mind, intellect, and even the organs, for their own purification.

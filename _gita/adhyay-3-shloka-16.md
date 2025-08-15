@@ -7,7 +7,7 @@ shlokanum: 16
 ---
 
 > एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः।<br><br>अघायुरिन्द्रियारामो मोघं पार्थ स जीवति।।3.16।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > O Partha, he who does not follow the wheel thus set in motion lives in vain, their life is sinful, and they indulge in the senses.

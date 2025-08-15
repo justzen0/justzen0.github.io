@@ -7,7 +7,7 @@ shlokanum: 5
 ---
 
 > श्री भगवानुवाच<br><br>पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः।<br><br>नानाविधानि दिव्यानि नानावर्णाकृतीनि च।।11.5।।<br><br>पश्यादित्यान्वसून्रुद्रानश्िवनौ मरुतस्तथा।<br><br>बहून्यदृष्टपूर्वाणि पश्याऽश्चर्याणि भारत।।11.6।।<br><br>इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम्।<br><br>मम देहे गुडाकेश यच्चान्यद्द्रष्टुमिच्छसि।।11.7।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The Blessed Lord said, "O son of Prtha, behold My forms in their hundreds and thousands, of different kinds, celestial, and of various colors and shapes."<br><br>Behold the Adityas, the Vasus, the Rudras, the two Ashvins, and the Maruts. O scion of the Bharata dynasty, also behold the many wonders that have never been seen before.<br><br>See now, O Gudakesa, the entire Universe together with the moving and the non-moving, concentrated in the same place here in My body, as also whatever else you would like to see.

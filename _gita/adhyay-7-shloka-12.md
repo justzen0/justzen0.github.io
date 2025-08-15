@@ -7,7 +7,7 @@ shlokanum: 12
 ---
 
 > ये चैव सात्त्विका भावा राजसास्तामसाश्च ये।<br><br>मत्त एवेति तान्विद्धि नत्वहं तेषु ते मयि।।7.12।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > Those things that are made of the quality of sattva, and those things that are made of the quality of rajas and tamas, know them to have sprung from Me alone. However, I am not in them; they are within Me!

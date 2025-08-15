@@ -7,7 +7,7 @@ shlokanum: 13
 ---
 
 > सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी।<br><br>नवद्वारे पुरे देही नैव कुर्वन्न कारयन्।।5.13।।
-{:.featured-quote} 
+{:.featured-quote}
 {:.text-center}
 
 > The embodied man of self-control, having given up all actions mentally, continues happily in the city of nine gates, without doing or causing anyone else to do anything.
