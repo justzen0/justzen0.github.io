@@ -1,0 +1,52 @@
+---
+layout: gita_shloka
+title: 34
+category: adhyay-14
+adhyay_title: Guṇa Traya Vibhāg Yog
+shlokanum: 34
+---
+
+> 
+{:.featured-quote} 
+{:.text-center}
+
+> 
+{:.featured-quote}
+
+### Osho’s Commentary
+Those who, with the eye of knowledge, see the distinction between the field and its knower, and who also understand the path of liberation from nature—they attain the Supreme.
+The final key is the jnana-chakshu, the eye of knowledge. With your physical eyes, you can only see the field. But with the inner eye of wisdom, you can see the distinction between the seen and the seer.
+And when you have seen this distinction, you also see the way to freedom. You see that you are not bound by nature, that you are the free, eternal spirit. And seeing this, you attain the supreme reality. You come home.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Of course. Here is the fourteenth chapter of Gita Darshan, with each shloka (or group of shlokas, as discussed by Osho) and its commentary summarized in his voice.

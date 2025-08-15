@@ -39,6 +39,10 @@ collections:
   vigyan_bhairav_tantra:
     output: true
     permalink: /books/vigyan-bhairav-tantra/:title/
+  gita:
+    output: true
+    # The permalink for individual shlokas now uses the category
+    permalink: /books/gita/:categories/:slug/
 
 # --- Social Media Links ---
 # Add or remove services as needed.
@@ -97,12 +101,12 @@ pagination:
     after: 2
   indexpage: 'blog'
 
-# Archives
-# This section configures the Jekyll Archives plugin to create archive pages.
-# jekyll-archives:
-#   enabled:
-#     - tags
-#   layouts:
-#     tag: tag_page # Use the layout we created
-#   permalinks:
-#     tag: '/tags/:name/'
+# Configure jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: gita_adhyay_page # Layout for the Adhyay (chapter) page
+  # collections: 'gita' # IMPORTANT: Tell it to only archive the 'gita' collection
+  permalinks:
+    category: '/gita/:name/' # URL for each Adhyay page, e.g., /gita/adhyay-1/

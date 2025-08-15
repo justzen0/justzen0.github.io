@@ -741,7 +741,7 @@ html[data-theme='dark'] .post-content h5 {
   }
 }
 
-html[data-theme='dark'] .vbt-introduction {
+html[data-theme='dark'] .vbt-introduction .gita-introduction {
   border-color: #333;
 }
 
@@ -1048,4 +1048,119 @@ html[data-theme='dark'] .post-content .featured-quote {
 /* Ensure paragraph inside the quote doesn't have extra bottom margin */
 .post-content .featured-quote p {
   margin-bottom: 0;
+}
+
+
+
+/* --- Bhagavad Gita - Main Adhyay (Chapter) List --- */
+.adhyay-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+.adhyay-list-item {
+  display: block;
+  padding: 1.5rem;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  text-decoration: none;
+  height: 100%;
+  transition: all 0.3s ease;
+}
+html[data-theme='dark'] .adhyay-list-item { border-color: #333; }
+.adhyay-list-item:hover {
+  border-color: var(--accent-color);
+  transform: translateY(-4px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.07);
+}
+.adhyay-number {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--subtle-gray);
+  text-transform: uppercase;
+}
+.adhyay-title {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  color: var(--text-color);
+  margin-top: 0.5rem;
+}
+
+/* --- Bhagavad Gita - Detailed Shloka List (on Adhyay pages) --- */
+.shloka-list-detailed {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.shloka-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+html[data-theme='dark'] .shloka-list-item { border-color: #333; }
+.shloka-list-item:hover {
+  background-color: var(--bg-color);
+  border-color: var(--accent-color);
+  transform: scale(1.02);
+}
+.shloka-list-item .item-content {
+  display: flex;
+  flex-direction: column;
+}
+.shloka-list-item .shloka-number {
+  font-size: 0.8rem;
+  color: var(--subtle-gray);
+}
+.shloka-list-item .shloka-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--text-color);
+}
+.shloka-list-item .arrow {
+  font-size: 1.5rem;
+  color: var(--subtle-gray);
+  transition: transform 0.3s ease;
+}
+.shloka-list-item:hover .arrow {
+  transform: translateX(5px);
+  color: var(--accent-color);
+}
+
+/* --- Breadcrumb Link --- */
+.gita-breadcrumb {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: var(--subtle-gray);
+  font-size: 0.9rem;
+  &:hover {
+    color: var(--accent-color);
+  }
+}
+
+
+.gita-introduction {
+  margin: 2rem auto 3rem auto;
+  padding: 2rem;
+  max-width: 90%;
+  text-align: center;
+  line-height: 1.8;
+  background-color: var(--bg-color); // Or a slightly different shade for contrast
+  border: 1px solid #eee;
+  border-radius: 8px;
+  
+  p {
+    margin-bottom: 1.5rem;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+html[data-theme='dark'] .gita-introduction {
+  border-color: #333;
 }

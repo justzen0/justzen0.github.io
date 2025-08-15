@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Chapter 18: Mokṣha Sanyās Yog"
+---
+
+{% assign category_to_filter = "adhyay-18" %}
+{% assign adhyay_title = "Mokṣha Sanyās Yog" %}
+
+<div class="gita-toc-header">
+  <a href="{{ '/books/gita/' | relative_url }}" class="gita-breadcrumb">← All Chapters</a>
+  <h1>Chapter 18: {{ adhyay_title }}</h1>
+  <p>Shlokas in this chapter</p>
+</div>
+
+<div class="shloka-list-detailed">
+  <!-- This is the reliable filtering method -->
+  {% assign shlokas = site.gita | where: "categories", category_to_filter | sort: "shlokanum" %}
+  
+  {% for shloka in shlokas %}
+    <a href="{{ shloka.url | relative_url }}" class="shloka-list-item">
+      <div class="item-content">
+        <span class="shloka-title">{{ shloka.title }}</span>
+      </div>
+      <span class="arrow">→</span>
+    </a>
+  {% endfor %}
+</div>
