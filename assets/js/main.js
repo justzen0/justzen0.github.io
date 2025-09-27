@@ -87,5 +87,28 @@ scrollToTopButton.addEventListener('click', function(e) {
   });
 });
 
+// --- TAG FILTERING LOGIC (for Dropdown) ---
+const dropdown = document.getElementById('tag-filter-dropdown');
+
+if (dropdown) {
+  const grid = document.querySelector('.all-books-grid'); // This is simpler now
+  const items = grid.querySelectorAll('.item-card-link');
+
+  // Listen for the 'change' event on the dropdown
+  dropdown.addEventListener('change', (event) => {
+    // Get the selected tag from the dropdown's current value
+    const filterTag = event.target.value;
+
+    // Loop through all items and show/hide them
+    items.forEach(item => {
+      if (filterTag === 'all' || (item.dataset.tags && item.dataset.tags.includes(filterTag))) {
+        item.style.display = 'block';
+      } else {
+        item.style.display = 'none';
+      }
+    });
+  });
+}
+
 });
 

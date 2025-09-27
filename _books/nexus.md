@@ -4,6 +4,7 @@ title: "Nexus"
 author: "Yuval Noah Harari"
 quote: "The future is already here; it's just not evenly distributed."
 image: /assets/img/books/default-book-bg.jpg # Default background image
+tags: ["Science Fiction", "Cyberpunk", "Techno-Thriller"]
 ---
 
 A place for my detailed thoughts on this book.

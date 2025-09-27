@@ -4,6 +4,7 @@ title: "From Sex to Super consciousness"
 author: "Osho"
 quote: "Bliss can only be attained by giving, never by taking."
 image: /assets/img/books/default-book-bg.jpg # Default background image
+tags: ["Spirituality", "Philosophy", "Nonfiction", "Self-Help", "Tantra"]
 ---
 
 Here are some of the beautiful quotes from the book.

@@ -9,7 +9,7 @@ title: Home
 </div>
 
 <!-- 2. Section Title -->
-<h2 class="section-title">Latest Thoughts</h2>
+<h2 class="home-section-title">Latest Thoughts</h2>
 
 <!-- 3. The Latest 10 Posts -->
 <div class="post-list">

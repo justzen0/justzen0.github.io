@@ -4,6 +4,7 @@ title: "Eraserhead"
 director: "David Lynch"
 year: 1977
 poster: "/assets/img/mp/eraserhead.jpg"
+tags: ["Surrealist Body Horror", "Fantasy", "Cult Film"]
 ---
 
 My review or thoughts on the film go here.

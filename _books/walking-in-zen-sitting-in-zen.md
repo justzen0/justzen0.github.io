@@ -4,6 +4,7 @@ title: "Walking in Zen, sitting in Zen"
 author: "Osho"
 quote: "A MAN OF ZEN WALKS IN ZEN AND SITS IN ZEN 🧘‍♂️"
 image: /assets/img/books/default-book-bg.jpg # Default background image
+tags: ["Philosophy", "Nonfiction", "Spirituality", "Zen"]
 ---
 
 Here are some of the beautiful quotes from the book. Read, meditate and enjoy.

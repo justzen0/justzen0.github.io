@@ -4,6 +4,7 @@ title: "The Godfather"
 director: "Francis Ford Coppola"
 year: 1972
 poster: "/assets/img/mp/the-godfather.jpg"
+tags: ["Crime Drama", "Gangster Film"]
 ---
 
 My review or thoughts on the film go here.

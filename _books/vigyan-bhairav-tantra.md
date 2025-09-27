@@ -4,6 +4,8 @@ title: Vigyan Bhairav Tantra
 permalink: /books/vigyan-bhairav-tantra/
 author: Osho
 quote: "A book that will help you explore the depths of consiousness."
+tags: ["Spirituality", "Meditation", "Tantra", "Philosophy"]
+featured: true
 ---
 
 <div class="vbt-header">

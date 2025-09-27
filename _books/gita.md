@@ -3,6 +3,8 @@ layout: default
 title: "Bhagvad gita"
 author: "Osho"
 quote: "Complete summary of Osho's geeta darshan"
+tags: ["Religious Text", "Philosophy", "Hinduism", "Epic Poetry", "Spirituality"]
+featured: true
 ---
 
 <div class="gita-toc-header">
