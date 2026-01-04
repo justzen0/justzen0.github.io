@@ -43,6 +43,9 @@ collections:
     output: true
     # The permalink for individual shlokas now uses the category
     permalink: /books/gita/:categories/:slug/
+  yoga_sutra:
+    output: true
+    permalink: /books/yoga-sutra/:title/
 
 # --- Social Media Links ---
 # Add or remove services as needed.
