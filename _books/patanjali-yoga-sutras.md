@@ -10,10 +10,11 @@ featured: true
 
 <div class="vbt-header">
   <h1>Patanjali Yoga Sutras</h1>
+  <h1>currently under development</h1>
   <!-- <p class="subtitle">aa</p> -->
 </div>
 
-
+<!--
 <div class="meditation-list">
   {% assign sutras = site.yoga_sutra | sort: 'sutra' %}
 
@@ -27,3 +28,4 @@ featured: true
     </a>
   {% endfor %}
 </div>
+-->
