@@ -46,7 +46,7 @@ title: Books
 
 <div class="item-grid all-books-grid">
   {% for book in site.books %}
-    <div
+    <a href="{{ book.url | relative_url }}"
      class="item-card-link" data-tags="{% for tag in book.tags %}{{ tag | slugify }} {% endfor %}">
       <div class="item-card book-card">
         <h3>{{ book.title }}</h3>
