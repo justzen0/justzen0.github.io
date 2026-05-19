@@ -42,12 +42,12 @@ title: Books
     </select>
   </div>
 </div>
-<!-- END: NEW Filter Dropdown Section -->
+<!-- END: NEW Filter Dropdown Section {{ book.url | relative_url }}-->
 
 <div class="item-grid all-books-grid">
   {% for book in site.books %}
-    <a href="{{ book.url | relative_url }}"
-     class="item-card-link" data-tags="{% for tag in book.tags %}{{ tag | slugify }} {% endfor %}">
+    <a href="/"
+     class="item-card-link" data-tags="{% for tag in book.tags %}{{ tag | slugify }} {% endfor %}" >
       <div class="item-card book-card">
         <h3>{{ book.title }}</h3>
         <p class="item-meta">by {{ book.author }}</p>

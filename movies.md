@@ -24,7 +24,7 @@ title: Movies
 
 <div class="item-grid all-books-grid">
   {% for movie in site.movies %}
-    <a href="{{ movie.url | relative_url }}" class="item-card-link" data-tags="{% for tag in movie.tags %}{{ tag | slugify }} {% endfor %}">
+    <a href="/" class="item-card-link" data-tags="{% for tag in movie.tags %}{{ tag | slugify }} {% endfor %}">
       <div class="item-card movie-card">
         <img 
           loading="lazy" 
