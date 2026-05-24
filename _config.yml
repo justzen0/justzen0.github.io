@@ -51,8 +51,8 @@ collections:
 # Add or remove services as needed.
 # Use the full URL for each link.
 social:
-  - name: "Twitter/X" 
-    url: https://x.com/justzen_biz
+  - name: "Linkedin" 
+    url: https://www.linkedin.com/in/mohdshaim/
   - name: Instagram
     url: https://www.instagram.com/just.zen_0/
   - name: GitHub
