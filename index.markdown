@@ -5,7 +5,7 @@ title: Home
 
 <!-- 1. The Homepage Art -->
 <div class="homepage-art">
-  <img src="assets/img/home.png" alt="A calming, minimalist illustration">
+  <img src="assets/img/home1.png" alt="A calming, minimalist illustration">
 </div>
 
 <!-- 2. Section Title -->
